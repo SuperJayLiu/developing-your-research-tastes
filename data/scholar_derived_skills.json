@@ -1,0 +1,1850 @@
+[
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Model institutions as causal systems",
+    "skill_slug": "model-institutions-as-causal-systems",
+    "path": "skills/by-scholar/daron-acemoglu/model-institutions-as-causal-systems.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Colonial Origins of Comparative Development",
+      "Reversal of Fortune",
+      "Democracy Does Cause Growth"
+    ]
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Make big questions empirically tractable",
+    "skill_slug": "make-big-questions-empirically-tractable",
+    "path": "skills/by-scholar/daron-acemoglu/make-big-questions-empirically-tractable.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Colonial Origins of Comparative Development",
+      "Robots and Jobs",
+      "The Race between Man and Machine"
+    ]
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Combine theory with historical or institutional evidence",
+    "skill_slug": "combine-theory-with-historical-or-institutional-evidence",
+    "path": "skills/by-scholar/daron-acemoglu/combine-theory-with-historical-or-institutional-evidence.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Reversal of Fortune",
+      "Why Nations Fail",
+      "Directed Technical Change"
+    ]
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Treat technology as distributional, not neutral",
+    "skill_slug": "treat-technology-as-distributional-not-neutral",
+    "path": "skills/by-scholar/daron-acemoglu/treat-technology-as-distributional-not-neutral.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Robots and Jobs",
+      "The Race between Man and Machine",
+      "Why Do New Technologies Complement Skills?"
+    ]
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "State the comparison before the estimator",
+    "skill_slug": "state-the-comparison-before-the-estimator",
+    "path": "skills/by-scholar/joshua-angrist/state-the-comparison-before-the-estimator.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Does Compulsory School Attendance Affect Schooling and Earnings?",
+      "The Effect of Vietnam-Era Military Service on Earnings",
+      "Using Maimonides' Rule"
+    ]
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "Use instruments as research designs, not buttons",
+    "skill_slug": "use-instruments-as-research-designs-not-buttons",
+    "path": "skills/by-scholar/joshua-angrist/use-instruments-as-research-designs-not-buttons.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Does Compulsory School Attendance Affect Schooling and Earnings?",
+      "Identification and Estimation of Local Average Treatment Effects",
+      "Vietnam draft lottery studies"
+    ]
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "Make econometrics readable enough to audit",
+    "skill_slug": "make-econometrics-readable-enough-to-audit",
+    "path": "skills/by-scholar/joshua-angrist/make-econometrics-readable-enough-to-audit.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Mostly Harmless Econometrics",
+      "Mastering 'Metrics",
+      "Identification and Estimation of Local Average Treatment Effects"
+    ]
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "Separate estimand from interpretation",
+    "skill_slug": "separate-estimand-from-interpretation",
+    "path": "skills/by-scholar/joshua-angrist/separate-estimand-from-interpretation.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Identification and Estimation of Local Average Treatment Effects",
+      "Education return studies",
+      "Class size studies"
+    ]
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Define the estimand before estimation",
+    "skill_slug": "define-the-estimand-before-estimation",
+    "path": "skills/by-scholar/guido-imbens/define-the-estimand-before-estimation.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Identification and Estimation of Local Average Treatment Effects",
+      "The Econometrics of Randomized Experiments",
+      "Matching methods and treatment-effect papers"
+    ]
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Treat design and analysis as separate steps",
+    "skill_slug": "treat-design-and-analysis-as-separate-steps",
+    "path": "skills/by-scholar/guido-imbens/treat-design-and-analysis-as-separate-steps.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Causal Inference for Statistics, Social, and Biomedical Sciences",
+      "Matching and propensity score papers",
+      "Randomized experiment econometrics"
+    ]
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Make assumptions visible and test-adjacent",
+    "skill_slug": "make-assumptions-visible-and-test-adjacent",
+    "path": "skills/by-scholar/guido-imbens/make-assumptions-visible-and-test-adjacent.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "LATE papers",
+      "Matching methods",
+      "Randomized experiment econometrics"
+    ]
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Use formalism to protect interpretation",
+    "skill_slug": "use-formalism-to-protect-interpretation",
+    "path": "skills/by-scholar/guido-imbens/use-formalism-to-protect-interpretation.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Identification and Estimation of Local Average Treatment Effects",
+      "Treatment-effect heterogeneity papers",
+      "Causal inference texts"
+    ]
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Turn policy questions into learning systems",
+    "skill_slug": "turn-policy-questions-into-learning-systems",
+    "path": "skills/by-scholar/esther-duflo/turn-policy-questions-into-learning-systems.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Using Randomization in Development Economics Research",
+      "The Miracle of Microfinance?",
+      "A Multifaceted Program Causes Lasting Progress for the Very Poor"
+    ]
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Embed identification inside field reality",
+    "skill_slug": "embed-identification-inside-field-reality",
+    "path": "skills/by-scholar/esther-duflo/embed-identification-inside-field-reality.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "School construction in Indonesia",
+      "Field experiment papers",
+      "Poverty intervention studies"
+    ]
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Measure mechanisms, not just outcomes",
+    "skill_slug": "measure-mechanisms-not-just-outcomes",
+    "path": "skills/by-scholar/esther-duflo/measure-mechanisms-not-just-outcomes.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Miracle of Microfinance?",
+      "Education and health field experiments",
+      "Graduation program studies"
+    ]
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Write policy relevance without overclaiming",
+    "skill_slug": "write-policy-relevance-without-overclaiming",
+    "path": "skills/by-scholar/esther-duflo/write-policy-relevance-without-overclaiming.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Randomization in Development Economics",
+      "Microfinance studies",
+      "Poverty program studies"
+    ]
+  },
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Build theory from micro details",
+    "skill_slug": "build-theory-from-micro-details",
+    "path": "skills/by-scholar/abhijit-banerjee/build-theory-from-micro-details.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Economic Lives of the Poor",
+      "Poor Economics",
+      "Remedying Education"
+    ]
+  },
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Treat low take-up as information",
+    "skill_slug": "treat-low-take-up-as-information",
+    "path": "skills/by-scholar/abhijit-banerjee/treat-low-take-up-as-information.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Miracle of Microfinance?",
+      "Health and education adoption studies",
+      "Poverty intervention studies"
+    ]
+  },
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Convert policy complexity into behavioral mechanisms",
+    "skill_slug": "convert-policy-complexity-into-behavioral-mechanisms",
+    "path": "skills/by-scholar/abhijit-banerjee/convert-policy-complexity-into-behavioral-mechanisms.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Poor Economics",
+      "Remedying Education",
+      "Graduation program studies"
+    ]
+  },
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Write accessible introductions with analytical bite",
+    "skill_slug": "write-accessible-introductions-with-analytical-bite",
+    "path": "skills/by-scholar/abhijit-banerjee/write-accessible-introductions-with-analytical-bite.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Economic Lives of the Poor",
+      "Poor Economics-related papers",
+      "Field experiment papers"
+    ]
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Find the externality in the policy problem",
+    "skill_slug": "find-the-externality-in-the-policy-problem",
+    "path": "skills/by-scholar/michael-kremer/find-the-externality-in-the-policy-problem.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Worms",
+      "The O-Ring Theory of Economic Development",
+      "Strong Medicine"
+    ]
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Turn bottlenecks into experimental design",
+    "skill_slug": "turn-bottlenecks-into-experimental-design",
+    "path": "skills/by-scholar/michael-kremer/turn-bottlenecks-into-experimental-design.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Deworming studies",
+      "Education interventions",
+      "Vaccine-market design work"
+    ]
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Model complementarity as a development force",
+    "skill_slug": "model-complementarity-as-a-development-force",
+    "path": "skills/by-scholar/michael-kremer/model-complementarity-as-a-development-force.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The O-Ring Theory of Economic Development",
+      "Development intervention work",
+      "Education and health studies"
+    ]
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Design for scalability early",
+    "skill_slug": "design-for-scalability-early",
+    "path": "skills/by-scholar/michael-kremer/design-for-scalability-early.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Strong Medicine",
+      "Development RCTs",
+      "Policy design papers"
+    ]
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Use simple natural experiments to test big claims",
+    "skill_slug": "use-simple-natural-experiments-to-test-big-claims",
+    "path": "skills/by-scholar/david-card/use-simple-natural-experiments-to-test-big-claims.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Minimum Wages and Employment",
+      "The Impact of the Mariel Boatlift",
+      "College proximity and schooling"
+    ]
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Privilege transparency over cleverness",
+    "skill_slug": "privilege-transparency-over-cleverness",
+    "path": "skills/by-scholar/david-card/privilege-transparency-over-cleverness.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Minimum wage case studies",
+      "Mariel Boatlift",
+      "Education returns papers"
+    ]
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Take labor-market adjustment seriously",
+    "skill_slug": "take-labor-market-adjustment-seriously",
+    "path": "skills/by-scholar/david-card/take-labor-market-adjustment-seriously.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Minimum Wages and Employment",
+      "Immigration and Inequality",
+      "Labor-market studies"
+    ]
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Write controversial results with design humility",
+    "skill_slug": "write-controversial-results-with-design-humility",
+    "path": "skills/by-scholar/david-card/write-controversial-results-with-design-humility.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Minimum wage studies",
+      "Mariel Boatlift",
+      "Education returns studies"
+    ]
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Use history to explain current frictions",
+    "skill_slug": "use-history-to-explain-current-frictions",
+    "path": "skills/by-scholar/claudia-goldin/use-history-to-explain-current-frictions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Quiet Revolution",
+      "A Grand Gender Convergence",
+      "Career and Family"
+    ]
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Turn description into mechanism",
+    "skill_slug": "turn-description-into-mechanism",
+    "path": "skills/by-scholar/claudia-goldin/turn-description-into-mechanism.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Quiet Revolution",
+      "A Grand Gender Convergence",
+      "The Power of the Pill"
+    ]
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Make measurement part of the contribution",
+    "skill_slug": "make-measurement-part-of-the-contribution",
+    "path": "skills/by-scholar/claudia-goldin/make-measurement-part-of-the-contribution.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Historical labor-force studies",
+      "Gender-gap studies",
+      "Career and Family"
+    ]
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Write with narrative discipline",
+    "skill_slug": "write-with-narrative-discipline",
+    "path": "skills/by-scholar/claudia-goldin/write-with-narrative-discipline.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Quiet Revolution",
+      "Career and Family",
+      "A Grand Gender Convergence"
+    ]
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Turn big data into public scientific infrastructure",
+    "skill_slug": "turn-big-data-into-public-scientific-infrastructure",
+    "path": "skills/by-scholar/raj-chetty/turn-big-data-into-public-scientific-infrastructure.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Opportunity Atlas",
+      "Where is the Land of Opportunity?",
+      "Mobility studies"
+    ]
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Validate descriptive facts before selling causal stories",
+    "skill_slug": "validate-descriptive-facts-before-selling-causal-stories",
+    "path": "skills/by-scholar/raj-chetty/validate-descriptive-facts-before-selling-causal-stories.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Mobility maps",
+      "Neighborhood effects papers",
+      "Tax salience papers"
+    ]
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Use exposure gradients to learn mechanisms",
+    "skill_slug": "use-exposure-gradients-to-learn-mechanisms",
+    "path": "skills/by-scholar/raj-chetty/use-exposure-gradients-to-learn-mechanisms.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Effects of Exposure to Better Neighborhoods on Children",
+      "Neighborhood mobility studies",
+      "Opportunity Atlas work"
+    ]
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Write for policy with measurement precision",
+    "skill_slug": "write-for-policy-with-measurement-precision",
+    "path": "skills/by-scholar/raj-chetty/write-for-policy-with-measurement-precision.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Opportunity Atlas",
+      "Mobility studies",
+      "Tax policy studies"
+    ]
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Use machine learning to target economic questions",
+    "skill_slug": "use-machine-learning-to-target-economic-questions",
+    "path": "skills/by-scholar/susan-athey/use-machine-learning-to-target-economic-questions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Machine Learning Methods That Economists Should Know About",
+      "Recursive Partitioning for Heterogeneous Causal Effects",
+      "Policy Learning papers"
+    ]
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Turn platform design into testable economics",
+    "skill_slug": "turn-platform-design-into-testable-economics",
+    "path": "skills/by-scholar/susan-athey/turn-platform-design-into-testable-economics.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Platform market papers",
+      "Auction and marketplace design work",
+      "Digital economy studies"
+    ]
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Combine method innovation with applied payoff",
+    "skill_slug": "combine-method-innovation-with-applied-payoff",
+    "path": "skills/by-scholar/susan-athey/combine-method-innovation-with-applied-payoff.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Causal forests / heterogeneous effects work",
+      "Policy learning work",
+      "Economics and ML surveys"
+    ]
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Audit algorithmic taste with economic structure",
+    "skill_slug": "audit-algorithmic-taste-with-economic-structure",
+    "path": "skills/by-scholar/susan-athey/audit-algorithmic-taste-with-economic-structure.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Policy learning papers",
+      "Platform design papers",
+      "ML for economics writing"
+    ]
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Measure informational objects directly",
+    "skill_slug": "measure-informational-objects-directly",
+    "path": "skills/by-scholar/matthew-gentzkow/measure-informational-objects-directly.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "What Drives Media Slant?",
+      "Text as Data",
+      "Ideological Segregation Online and Offline"
+    ]
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Connect content to incentives",
+    "skill_slug": "connect-content-to-incentives",
+    "path": "skills/by-scholar/matthew-gentzkow/connect-content-to-incentives.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "What Drives Media Slant?",
+      "Media Bias and Reputation",
+      "Media market studies"
+    ]
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Use text as data with economic purpose",
+    "skill_slug": "use-text-as-data-with-economic-purpose",
+    "path": "skills/by-scholar/matthew-gentzkow/use-text-as-data-with-economic-purpose.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Text as Data",
+      "Media slant papers",
+      "Political communication studies"
+    ]
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Write methodological humility into measurement papers",
+    "skill_slug": "write-methodological-humility-into-measurement-papers",
+    "path": "skills/by-scholar/matthew-gentzkow/write-methodological-humility-into-measurement-papers.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Text as Data",
+      "Sensitivity of parameter estimates papers",
+      "Media measurement papers"
+    ]
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Make hidden organizational practices measurable",
+    "skill_slug": "make-hidden-organizational-practices-measurable",
+    "path": "skills/by-scholar/nicholas-bloom/make-hidden-organizational-practices-measurable.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Measuring and Explaining Management Practices",
+      "Does Management Matter?",
+      "Firm organization studies"
+    ]
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Use field experiments inside firms",
+    "skill_slug": "use-field-experiments-inside-firms",
+    "path": "skills/by-scholar/nicholas-bloom/use-field-experiments-inside-firms.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Does Management Matter?",
+      "Management intervention studies",
+      "Working-from-home studies"
+    ]
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Treat management as technology",
+    "skill_slug": "treat-management-as-technology",
+    "path": "skills/by-scholar/nicholas-bloom/treat-management-as-technology.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Management practices across countries",
+      "Does Management Matter?",
+      "Firm productivity studies"
+    ]
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Write practical measurement as high-status research",
+    "skill_slug": "write-practical-measurement-as-high-status-research",
+    "path": "skills/by-scholar/nicholas-bloom/write-practical-measurement-as-high-status-research.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Management measurement papers",
+      "WFH survey work",
+      "Firm productivity studies"
+    ]
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Connect elasticities to welfare",
+    "skill_slug": "connect-elasticities-to-welfare",
+    "path": "skills/by-scholar/emmanuel-saez/connect-elasticities-to-welfare.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Using Elasticities to Derive Optimal Income Tax Rates",
+      "Bunching at kink points",
+      "Tax response papers"
+    ]
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Use administrative data to measure distribution",
+    "skill_slug": "use-administrative-data-to-measure-distribution",
+    "path": "skills/by-scholar/emmanuel-saez/use-administrative-data-to-measure-distribution.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Income Inequality in the United States",
+      "Top income shares work",
+      "Distributional National Accounts"
+    ]
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Use bunching as behavioral revealed preference",
+    "skill_slug": "use-bunching-as-behavioral-revealed-preference",
+    "path": "skills/by-scholar/emmanuel-saez/use-bunching-as-behavioral-revealed-preference.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Do Taxpayers Bunch at Kink Points?",
+      "Tax kink and notch studies",
+      "Public finance bunching papers"
+    ]
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Write policy relevance with distributional clarity",
+    "skill_slug": "write-policy-relevance-with-distributional-clarity",
+    "path": "skills/by-scholar/emmanuel-saez/write-policy-relevance-with-distributional-clarity.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Top income studies",
+      "Optimal tax papers",
+      "Distributional accounts"
+    ]
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Measure hidden activity through accounting gaps",
+    "skill_slug": "measure-hidden-activity-through-accounting-gaps",
+    "path": "skills/by-scholar/gabriel-zucman/measure-hidden-activity-through-accounting-gaps.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Missing Wealth of Nations",
+      "Who Owns the Wealth in Tax Havens?",
+      "Offshore wealth studies"
+    ]
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Combine macro accounts with micro distribution",
+    "skill_slug": "combine-macro-accounts-with-micro-distribution",
+    "path": "skills/by-scholar/gabriel-zucman/combine-macro-accounts-with-micro-distribution.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Distributional National Accounts",
+      "Global Wealth Inequality",
+      "Top wealth studies"
+    ]
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Turn data gaps into research questions",
+    "skill_slug": "turn-data-gaps-into-research-questions",
+    "path": "skills/by-scholar/gabriel-zucman/turn-data-gaps-into-research-questions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Offshore wealth studies",
+      "Tax evasion studies",
+      "Distributional accounts"
+    ]
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Write measurement work as policy-relevant detective work",
+    "skill_slug": "write-measurement-work-as-policy-relevant-detective-work",
+    "path": "skills/by-scholar/gabriel-zucman/write-measurement-work-as-policy-relevant-detective-work.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Missing Wealth of Nations",
+      "Distributional National Accounts",
+      "Tax haven studies"
+    ]
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Turn market efficiency into a joint test",
+    "skill_slug": "turn-market-efficiency-into-a-joint-test",
+    "path": "skills/by-scholar/eugene-fama/turn-market-efficiency-into-a-joint-test.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Efficient Capital Markets",
+      "Market Efficiency, Long-Term Returns, and Behavioral Finance",
+      "Event-study work"
+    ]
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Use portfolios to reveal systematic patterns",
+    "skill_slug": "use-portfolios-to-reveal-systematic-patterns",
+    "path": "skills/by-scholar/eugene-fama/use-portfolios-to-reveal-systematic-patterns.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Cross-Section of Expected Stock Returns",
+      "Common Risk Factors",
+      "Factor-model papers"
+    ]
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Build benchmark models that organize debate",
+    "skill_slug": "build-benchmark-models-that-organize-debate",
+    "path": "skills/by-scholar/eugene-fama/build-benchmark-models-that-organize-debate.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Common Risk Factors",
+      "Fama-French three-factor and five-factor papers",
+      "Cross-section papers"
+    ]
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Write with evidentiary restraint",
+    "skill_slug": "write-with-evidentiary-restraint",
+    "path": "skills/by-scholar/eugene-fama/write-with-evidentiary-restraint.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Efficient Capital Markets",
+      "Long-term returns and behavioral finance",
+      "Factor papers"
+    ]
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Make research infrastructure reusable",
+    "skill_slug": "make-research-infrastructure-reusable",
+    "path": "skills/by-scholar/kenneth-french/make-research-infrastructure-reusable.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Kenneth French Data Library",
+      "Common Risk Factors",
+      "Five-Factor Asset Pricing Model"
+    ]
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Define factors by economic sorts, not black boxes",
+    "skill_slug": "define-factors-by-economic-sorts-not-black-boxes",
+    "path": "skills/by-scholar/kenneth-french/define-factors-by-economic-sorts-not-black-boxes.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Three-factor model",
+      "Five-factor model",
+      "Size and value portfolio papers"
+    ]
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Use simple replication as a field standard",
+    "skill_slug": "use-simple-replication-as-a-field-standard",
+    "path": "skills/by-scholar/kenneth-french/use-simple-replication-as-a-field-standard.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "French Data Library",
+      "Factor model papers",
+      "Portfolio sort papers"
+    ]
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Separate factor construction from factor interpretation",
+    "skill_slug": "separate-factor-construction-from-factor-interpretation",
+    "path": "skills/by-scholar/kenneth-french/separate-factor-construction-from-factor-interpretation.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Common Risk Factors",
+      "Five-Factor Model",
+      "Cross-sectional returns papers"
+    ]
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Use prices to test expectations",
+    "skill_slug": "use-prices-to-test-expectations",
+    "path": "skills/by-scholar/robert-shiller/use-prices-to-test-expectations.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Do Stock Prices Move Too Much",
+      "Excess volatility studies",
+      "Irrational Exuberance"
+    ]
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Treat narratives as economic forces",
+    "skill_slug": "treat-narratives-as-economic-forces",
+    "path": "skills/by-scholar/robert-shiller/treat-narratives-as-economic-forces.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Stock Prices and Social Dynamics",
+      "Narrative Economics",
+      "Irrational Exuberance"
+    ]
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Challenge benchmarks with simple contradictions",
+    "skill_slug": "challenge-benchmarks-with-simple-contradictions",
+    "path": "skills/by-scholar/robert-shiller/challenge-benchmarks-with-simple-contradictions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Do Stock Prices Move Too Much",
+      "Long-run valuation studies",
+      "Survey expectation work"
+    ]
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Write for audience expansion without losing rigor",
+    "skill_slug": "write-for-audience-expansion-without-losing-rigor",
+    "path": "skills/by-scholar/robert-shiller/write-for-audience-expansion-without-losing-rigor.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Irrational Exuberance",
+      "Narrative Economics",
+      "Survey and valuation papers"
+    ]
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Decompose prices before interpreting them",
+    "skill_slug": "decompose-prices-before-interpreting-them",
+    "path": "skills/by-scholar/john-cochrane/decompose-prices-before-interpreting-them.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Discount Rates",
+      "Return predictability papers",
+      "Asset Pricing work"
+    ]
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Make accounting identities do conceptual work",
+    "skill_slug": "make-accounting-identities-do-conceptual-work",
+    "path": "skills/by-scholar/john-cochrane/make-accounting-identities-do-conceptual-work.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Discount Rates",
+      "Asset Pricing",
+      "Return decomposition papers"
+    ]
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Connect finance models to economic mechanisms",
+    "skill_slug": "connect-finance-models-to-economic-mechanisms",
+    "path": "skills/by-scholar/john-cochrane/connect-finance-models-to-economic-mechanisms.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Production-Based Asset Pricing",
+      "Asset Pricing",
+      "Macro-finance essays"
+    ]
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Write theory as clarifying discipline",
+    "skill_slug": "write-theory-as-clarifying-discipline",
+    "path": "skills/by-scholar/john-cochrane/write-theory-as-clarifying-discipline.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Asset Pricing",
+      "Discount Rates",
+      "Macro-finance writing"
+    ]
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Model variance as the object, not a nuisance",
+    "skill_slug": "model-variance-as-the-object-not-a-nuisance",
+    "path": "skills/by-scholar/robert-engle/model-variance-as-the-object-not-a-nuisance.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "ARCH paper",
+      "GARCH-related work",
+      "Volatility forecasting papers"
+    ]
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Build econometrics from data features",
+    "skill_slug": "build-econometrics-from-data-features",
+    "path": "skills/by-scholar/robert-engle/build-econometrics-from-data-features.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "ARCH paper",
+      "Dynamic Conditional Correlation",
+      "Financial volatility papers"
+    ]
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Turn risk measurement into infrastructure",
+    "skill_slug": "turn-risk-measurement-into-infrastructure",
+    "path": "skills/by-scholar/robert-engle/turn-risk-measurement-into-infrastructure.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Volatility models",
+      "DCC models",
+      "Systemic risk measurement work"
+    ]
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Write technical contributions around a simple fact",
+    "skill_slug": "write-technical-contributions-around-a-simple-fact",
+    "path": "skills/by-scholar/robert-engle/write-technical-contributions-around-a-simple-fact.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "ARCH paper",
+      "DCC paper",
+      "Volatility model papers"
+    ]
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Connect financial frictions to real outcomes",
+    "skill_slug": "connect-financial-frictions-to-real-outcomes",
+    "path": "skills/by-scholar/raghuram-rajan/connect-financial-frictions-to-real-outcomes.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Great Reversals",
+      "Financial development papers",
+      "Has Financial Development Made the World Riskier?"
+    ]
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Use cross-country variation with institutional caution",
+    "skill_slug": "use-cross-country-variation-with-institutional-caution",
+    "path": "skills/by-scholar/raghuram-rajan/use-cross-country-variation-with-institutional-caution.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Capital structure international evidence",
+      "The Great Reversals",
+      "Financial development studies"
+    ]
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Treat financial development as political economy",
+    "skill_slug": "treat-financial-development-as-political-economy",
+    "path": "skills/by-scholar/raghuram-rajan/treat-financial-development-as-political-economy.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Great Reversals",
+      "Financial development work",
+      "Governance papers"
+    ]
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Write crisis arguments before the crisis is obvious",
+    "skill_slug": "write-crisis-arguments-before-the-crisis-is-obvious",
+    "path": "skills/by-scholar/raghuram-rajan/write-crisis-arguments-before-the-crisis-is-obvious.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Has Financial Development Made the World Riskier?",
+      "Banking and liquidity papers",
+      "Crisis-related writing"
+    ]
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Turn behavioral frictions into market equilibrium",
+    "skill_slug": "turn-behavioral-frictions-into-market-equilibrium",
+    "path": "skills/by-scholar/andrei-shleifer/turn-behavioral-frictions-into-market-equilibrium.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "The Limits of Arbitrage",
+      "Investor Sentiment in the Stock Market",
+      "Inefficient Markets"
+    ]
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Use simple models to organize messy institutions",
+    "skill_slug": "use-simple-models-to-organize-messy-institutions",
+    "path": "skills/by-scholar/andrei-shleifer/use-simple-models-to-organize-messy-institutions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Law and Finance",
+      "Corporate governance survey",
+      "Transition-economy papers"
+    ]
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Explain why correction forces fail",
+    "skill_slug": "explain-why-correction-forces-fail",
+    "path": "skills/by-scholar/andrei-shleifer/explain-why-correction-forces-fail.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Limits of Arbitrage",
+      "Corporate governance studies",
+      "Law and finance work"
+    ]
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Write bold claims with a clear friction",
+    "skill_slug": "write-bold-claims-with-a-clear-friction",
+    "path": "skills/by-scholar/andrei-shleifer/write-bold-claims-with-a-clear-friction.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Law and Finance",
+      "Limits of Arbitrage",
+      "Investor sentiment papers"
+    ]
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Connect corporate finance to institutions",
+    "skill_slug": "connect-corporate-finance-to-institutions",
+    "path": "skills/by-scholar/luigi-zingales/connect-corporate-finance-to-institutions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "What Do We Know about Capital Structure?",
+      "Law and Finance",
+      "The Great Reversals"
+    ]
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Ask who finance serves",
+    "skill_slug": "ask-who-finance-serves",
+    "path": "skills/by-scholar/luigi-zingales/ask-who-finance-serves.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Does Finance Benefit Society?",
+      "Financial development work",
+      "Political economy of finance papers"
+    ]
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Use cultural and trust mechanisms carefully",
+    "skill_slug": "use-cultural-and-trust-mechanisms-carefully",
+    "path": "skills/by-scholar/luigi-zingales/use-cultural-and-trust-mechanisms-carefully.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Culture and finance papers",
+      "Trust and financial development work",
+      "Institutional finance papers"
+    ]
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Write public-facing finance with academic backbone",
+    "skill_slug": "write-public-facing-finance-with-academic-backbone",
+    "path": "skills/by-scholar/luigi-zingales/write-public-facing-finance-with-academic-backbone.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Does Finance Benefit Society?",
+      "Saving Capitalism from the Capitalists",
+      "Institutional finance papers"
+    ]
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Model amplification, not just shocks",
+    "skill_slug": "model-amplification-not-just-shocks",
+    "path": "skills/by-scholar/markus-brunnermeier/model-amplification-not-just-shocks.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Market Liquidity and Funding Liquidity",
+      "Deciphering the Liquidity and Credit Crunch",
+      "Bubbles and Crashes"
+    ]
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Separate market liquidity from funding liquidity",
+    "skill_slug": "separate-market-liquidity-from-funding-liquidity",
+    "path": "skills/by-scholar/markus-brunnermeier/separate-market-liquidity-from-funding-liquidity.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Market Liquidity and Funding Liquidity",
+      "Liquidity crunch papers",
+      "Macro-finance work"
+    ]
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Turn crisis narratives into state-variable models",
+    "skill_slug": "turn-crisis-narratives-into-state-variable-models",
+    "path": "skills/by-scholar/markus-brunnermeier/turn-crisis-narratives-into-state-variable-models.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Liquidity and credit crunch analysis",
+      "I Theory of Money",
+      "Systemic risk papers"
+    ]
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Write macro-finance as mechanism first",
+    "skill_slug": "write-macro-finance-as-mechanism-first",
+    "path": "skills/by-scholar/markus-brunnermeier/write-macro-finance-as-mechanism-first.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Market Liquidity and Funding Liquidity",
+      "I Theory of Money",
+      "Crisis papers"
+    ]
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Treat multiple testing as a first-order threat",
+    "skill_slug": "treat-multiple-testing-as-a-first-order-threat",
+    "path": "skills/by-scholar/campbell-harvey/treat-multiple-testing-as-a-first-order-threat.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "... and the Cross-Section of Expected Returns",
+      "Backtesting",
+      "Factor zoo papers"
+    ]
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Use global evidence to test return claims",
+    "skill_slug": "use-global-evidence-to-test-return-claims",
+    "path": "skills/by-scholar/campbell-harvey/use-global-evidence-to-test-return-claims.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Expected Returns and Volatility in 135 Countries",
+      "Emerging market return studies",
+      "Cross-country asset pricing work"
+    ]
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Connect empirical discovery to research ethics",
+    "skill_slug": "connect-empirical-discovery-to-research-ethics",
+    "path": "skills/by-scholar/campbell-harvey/connect-empirical-discovery-to-research-ethics.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Backtesting",
+      "Factor zoo papers",
+      "Research credibility writing"
+    ]
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Write finance results with survival tests",
+    "skill_slug": "write-finance-results-with-survival-tests",
+    "path": "skills/by-scholar/campbell-harvey/write-finance-results-with-survival-tests.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Backtesting",
+      "Expected returns studies",
+      "Factor evaluation work"
+    ]
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Turn lived experience into a state variable",
+    "skill_slug": "turn-lived-experience-into-a-state-variable",
+    "path": "skills/by-scholar/ulrike-malmendier/turn-lived-experience-into-a-state-variable.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Depression Babies",
+      "Experience Effects in Finance",
+      "Household finance studies"
+    ]
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Measure bias through revealed decisions",
+    "skill_slug": "measure-bias-through-revealed-decisions",
+    "path": "skills/by-scholar/ulrike-malmendier/measure-bias-through-revealed-decisions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "CEO Overconfidence and Corporate Investment",
+      "Behavioral corporate finance papers",
+      "Household finance work"
+    ]
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Connect behavioral finance to real decisions",
+    "skill_slug": "connect-behavioral-finance-to-real-decisions",
+    "path": "skills/by-scholar/ulrike-malmendier/connect-behavioral-finance-to-real-decisions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "CEO Overconfidence",
+      "Experience effects",
+      "Household finance studies"
+    ]
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Write behavioral mechanisms with rival explanations",
+    "skill_slug": "write-behavioral-mechanisms-with-rival-explanations",
+    "path": "skills/by-scholar/ulrike-malmendier/write-behavioral-mechanisms-with-rival-explanations.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "CEO Overconfidence",
+      "Experience effects",
+      "Behavioral finance papers"
+    ]
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Challenge policy frameworks with global evidence",
+    "skill_slug": "challenge-policy-frameworks-with-global-evidence",
+    "path": "skills/by-scholar/helene-rey/challenge-policy-frameworks-with-global-evidence.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Dilemma not Trilemma",
+      "Global Financial Cycle papers",
+      "International transmission studies"
+    ]
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Treat risk appetite as an international state variable",
+    "skill_slug": "treat-risk-appetite-as-an-international-state-variable",
+    "path": "skills/by-scholar/helene-rey/treat-risk-appetite-as-an-international-state-variable.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Global Financial Cycle papers",
+      "International monetary transmission",
+      "Capital flow studies"
+    ]
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Use policy impossibility results as research motivation",
+    "skill_slug": "use-policy-impossibility-results-as-research-motivation",
+    "path": "skills/by-scholar/helene-rey/use-policy-impossibility-results-as-research-motivation.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Dilemma not Trilemma",
+      "International monetary policy papers",
+      "Capital flow management discussions"
+    ]
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Write international finance with clear transmission channels",
+    "skill_slug": "write-international-finance-with-clear-transmission-channels",
+    "path": "skills/by-scholar/helene-rey/write-international-finance-with-clear-transmission-channels.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "International transmission papers",
+      "Global financial cycle work",
+      "Capital flow studies"
+    ]
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Measure systemic risk as marginal contribution",
+    "skill_slug": "measure-systemic-risk-as-marginal-contribution",
+    "path": "skills/by-scholar/viral-acharya/measure-systemic-risk-as-marginal-contribution.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Measuring Systemic Risk",
+      "SRISK-related work",
+      "Bank systemic risk studies"
+    ]
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Connect bank balance sheets to macro outcomes",
+    "skill_slug": "connect-bank-balance-sheets-to-macro-outcomes",
+    "path": "skills/by-scholar/viral-acharya/connect-bank-balance-sheets-to-macro-outcomes.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Banking crisis papers",
+      "Sovereign debt and banks",
+      "Credit supply studies"
+    ]
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Design regulation around externalities",
+    "skill_slug": "design-regulation-around-externalities",
+    "path": "skills/by-scholar/viral-acharya/design-regulation-around-externalities.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Systemic risk regulation theory",
+      "Measuring Systemic Risk",
+      "Macroprudential papers"
+    ]
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Write crisis papers with balance-sheet mechanics",
+    "skill_slug": "write-crisis-papers-with-balance-sheet-mechanics",
+    "path": "skills/by-scholar/viral-acharya/write-crisis-papers-with-balance-sheet-mechanics.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Seeds of a Crisis",
+      "Systemic risk papers",
+      "Sovereign-bank nexus work"
+    ]
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Decompose return variation into economic news",
+    "skill_slug": "decompose-return-variation-into-economic-news",
+    "path": "skills/by-scholar/john-campbell/decompose-return-variation-into-economic-news.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "A Variance Decomposition for Stock Returns",
+      "Bad Beta, Good Beta",
+      "Return predictability work"
+    ]
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Connect horizon to risk",
+    "skill_slug": "connect-horizon-to-risk",
+    "path": "skills/by-scholar/john-campbell/connect-horizon-to-risk.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Long-run risks and habit-related work",
+      "Asset allocation papers",
+      "Household finance work"
+    ]
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Treat household mistakes as research objects",
+    "skill_slug": "treat-household-mistakes-as-research-objects",
+    "path": "skills/by-scholar/john-campbell/treat-household-mistakes-as-research-objects.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Household Finance",
+      "Mortgage and portfolio choice papers",
+      "Asset allocation studies"
+    ]
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Write finance with welfare interpretation",
+    "skill_slug": "write-finance-with-welfare-interpretation",
+    "path": "skills/by-scholar/john-campbell/write-finance-with-welfare-interpretation.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Household Finance",
+      "Asset allocation papers",
+      "Consumption-based asset pricing"
+    ]
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Identify the friction behind financial behavior",
+    "skill_slug": "identify-the-friction-behind-financial-behavior",
+    "path": "skills/by-scholar/jeremy-stein/identify-the-friction-behind-financial-behavior.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Market Timing and Capital Structure",
+      "Inefficient Investment and Stock Market Valuation",
+      "Behavioral asset pricing work"
+    ]
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Connect market prices to real corporate actions",
+    "skill_slug": "connect-market-prices-to-real-corporate-actions",
+    "path": "skills/by-scholar/jeremy-stein/connect-market-prices-to-real-corporate-actions.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Inefficient Investment and Stock Market Valuation",
+      "Market Timing and Capital Structure",
+      "Behavioral corporate finance papers"
+    ]
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Write simple theory for empirical finance",
+    "skill_slug": "write-simple-theory-for-empirical-finance",
+    "path": "skills/by-scholar/jeremy-stein/write-simple-theory-for-empirical-finance.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Behavioral Approach to Asset Pricing",
+      "Corporate finance theory papers",
+      "Financial stability work"
+    ]
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Frame financial stability as a policy tradeoff",
+    "skill_slug": "frame-financial-stability-as-a-policy-tradeoff",
+    "path": "skills/by-scholar/jeremy-stein/frame-financial-stability-as-a-policy-tradeoff.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Monetary Policy as Financial-Stability Regulation",
+      "Macro-finance policy papers",
+      "Credit market studies"
+    ]
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Isolate the incentive constraint",
+    "skill_slug": "isolate-the-incentive-constraint",
+    "path": "skills/by-scholar/jean-tirole/isolate-the-incentive-constraint.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Incentives in Procurement and Regulation",
+      "Contract theory papers",
+      "Corporate finance theory work"
+    ]
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Use theory to design policy, not just explain",
+    "skill_slug": "use-theory-to-design-policy-not-just-explain",
+    "path": "skills/by-scholar/jean-tirole/use-theory-to-design-policy-not-just-explain.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Regulation theory work",
+      "Industrial organization models",
+      "Corporate finance theory"
+    ]
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Turn complex industries into strategic games",
+    "skill_slug": "turn-complex-industries-into-strategic-games",
+    "path": "skills/by-scholar/jean-tirole/turn-complex-industries-into-strategic-games.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Industrial organization work",
+      "Two-sided market papers",
+      "Regulation models"
+    ]
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Write theory introductions around a real institution",
+    "skill_slug": "write-theory-introductions-around-a-real-institution",
+    "path": "skills/by-scholar/jean-tirole/write-theory-introductions-around-a-real-institution.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Regulation work",
+      "Corporate finance theory",
+      "Platform theory"
+    ]
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Make selection the research object",
+    "skill_slug": "make-selection-the-research-object",
+    "path": "skills/by-scholar/james-heckman/make-selection-the-research-object.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Sample Selection Bias as a Specification Error",
+      "Selection model papers",
+      "Program evaluation work"
+    ]
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Treat treatment effects as heterogeneous",
+    "skill_slug": "treat-treatment-effects-as-heterogeneous",
+    "path": "skills/by-scholar/james-heckman/treat-treatment-effects-as-heterogeneous.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Treatment-effect heterogeneity work",
+      "Human capital evaluation papers",
+      "Program evaluation methods"
+    ]
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Connect skills formation to dynamic complementarity",
+    "skill_slug": "connect-skills-formation-to-dynamic-complementarity",
+    "path": "skills/by-scholar/james-heckman/connect-skills-formation-to-dynamic-complementarity.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Early childhood and human capital papers",
+      "Skill formation work",
+      "Program evaluation studies"
+    ]
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Write methodological critique as substantive warning",
+    "skill_slug": "write-methodological-critique-as-substantive-warning",
+    "path": "skills/by-scholar/james-heckman/write-methodological-critique-as-substantive-warning.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Sample selection papers",
+      "Treatment-effect interpretation papers",
+      "Program evaluation critiques"
+    ]
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Discipline models with moment restrictions",
+    "skill_slug": "discipline-models-with-moment-restrictions",
+    "path": "skills/by-scholar/lars-peter-hansen/discipline-models-with-moment-restrictions.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "GMM paper",
+      "Asset pricing GMM applications",
+      "Econometric method work"
+    ]
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Treat model misspecification as normal",
+    "skill_slug": "treat-model-misspecification-as-normal",
+    "path": "skills/by-scholar/lars-peter-hansen/treat-model-misspecification-as-normal.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Robustness papers",
+      "Uncertainty work",
+      "Asset pricing econometrics"
+    ]
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Connect econometrics to economic primitives",
+    "skill_slug": "connect-econometrics-to-economic-primitives",
+    "path": "skills/by-scholar/lars-peter-hansen/connect-econometrics-to-economic-primitives.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Asset pricing tests",
+      "GMM applications",
+      "Macroeconomic uncertainty work"
+    ]
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Write uncertainty as a core mechanism",
+    "skill_slug": "write-uncertainty-as-a-core-mechanism",
+    "path": "skills/by-scholar/lars-peter-hansen/write-uncertainty-as-a-core-mechanism.md",
+    "confidence": "medium",
+    "evidence_anchors": [
+      "Robustness and uncertainty papers",
+      "Asset pricing uncertainty work",
+      "Macro-finance theory"
+    ]
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Study financial decisions at the person level",
+    "skill_slug": "study-financial-decisions-at-the-person-level",
+    "path": "skills/by-scholar/antoinette-schoar/study-financial-decisions-at-the-person-level.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Household finance papers",
+      "Entrepreneurial finance studies",
+      "Consumer finance work"
+    ]
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Treat financial intermediation as advice and trust",
+    "skill_slug": "treat-financial-intermediation-as-advice-and-trust",
+    "path": "skills/by-scholar/antoinette-schoar/treat-financial-intermediation-as-advice-and-trust.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Financial advice studies",
+      "Household finance work",
+      "Consumer finance papers"
+    ]
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Connect entrepreneurial finance to real capabilities",
+    "skill_slug": "connect-entrepreneurial-finance-to-real-capabilities",
+    "path": "skills/by-scholar/antoinette-schoar/connect-entrepreneurial-finance-to-real-capabilities.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Entrepreneurial finance studies",
+      "Management and CEO work",
+      "Firm microdata papers"
+    ]
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Write heterogeneity as the main result",
+    "skill_slug": "write-heterogeneity-as-the-main-result",
+    "path": "skills/by-scholar/antoinette-schoar/write-heterogeneity-as-the-main-result.md",
+    "confidence": "high",
+    "evidence_anchors": [
+      "Household finance studies",
+      "Entrepreneurial finance work",
+      "Consumer finance papers"
+    ]
+  }
+]

@@ -1,0 +1,705 @@
+[
+  {
+    "name": "Abhijit Banerjee",
+    "slug": "abhijit-banerjee",
+    "path": "04-top-scholar-research-tastes/economists/abhijit-banerjee.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use simple behavioral models to explain development puzzles",
+      "Treat policy variation as a way to learn mechanisms",
+      "Build theory from field-level institutional detail"
+    ]
+  },
+  {
+    "name": "Bengt Holmström",
+    "slug": "bengt-holmstrom",
+    "path": "04-top-scholar-research-tastes/economists/bengt-holmstrom.md",
+    "field": "economics",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Model incentives under hidden action and information",
+      "Use contract design to explain organizations and finance",
+      "Connect simple principal-agent logic to real institutions"
+    ]
+  },
+  {
+    "name": "Claudia Goldin",
+    "slug": "claudia-goldin",
+    "path": "04-top-scholar-research-tastes/economists/claudia-goldin.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use history to explain long-run labor market change",
+      "Turn descriptive patterns into deep institutional questions",
+      "Combine narrative, measurement, and economics into one argument"
+    ]
+  },
+  {
+    "name": "Daron Acemoglu",
+    "slug": "daron-acemoglu",
+    "path": "04-top-scholar-research-tastes/economists/daron-acemoglu.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Model institutions as causal systems",
+      "Turn historical variation into modern causal evidence",
+      "Combine big questions with tractable empirical proxies",
+      "Use political economy mechanisms to explain economic outcomes"
+    ]
+  },
+  {
+    "name": "David Card",
+    "slug": "david-card",
+    "path": "04-top-scholar-research-tastes/economists/david-card.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use natural experiments to challenge conventional wisdom",
+      "Find comparison groups in real-world labor markets",
+      "Let transparent empirical design discipline controversial questions"
+    ]
+  },
+  {
+    "name": "Edward Glaeser",
+    "slug": "edward-glaeser",
+    "path": "04-top-scholar-research-tastes/economists/edward-glaeser.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Treat cities as laboratories for economic mechanisms",
+      "Use simple theory to organize spatial facts",
+      "Connect institutions, geography, and human capital"
+    ]
+  },
+  {
+    "name": "Emmanuel Saez",
+    "slug": "emmanuel-saez",
+    "path": "04-top-scholar-research-tastes/economists/emmanuel-saez.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use tax data to measure inequality and behavioral responses",
+      "Translate sufficient statistics into policy-relevant formulas",
+      "Connect empirical public finance to welfare analysis"
+    ]
+  },
+  {
+    "name": "Esther Duflo",
+    "slug": "esther-duflo",
+    "path": "04-top-scholar-research-tastes/economists/esther-duflo.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use field experiments as disciplined learning systems",
+      "Turn policy questions into testable mechanisms",
+      "Build research designs around implementation details"
+    ]
+  },
+  {
+    "name": "Gabriel Zucman",
+    "slug": "gabriel-zucman",
+    "path": "04-top-scholar-research-tastes/economists/gabriel-zucman.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Measure hidden wealth using accounting inconsistencies",
+      "Turn macro-financial data gaps into research questions",
+      "Combine public finance, international finance, and distribution"
+    ]
+  },
+  {
+    "name": "Guido Imbens",
+    "slug": "guido-imbens",
+    "path": "04-top-scholar-research-tastes/economists/guido-imbens.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Formalize causal inference without losing applied intuition",
+      "Clarify what an estimand means before estimating it",
+      "Separate design-based credibility from modeling assumptions"
+    ]
+  },
+  {
+    "name": "James Heckman",
+    "slug": "james-heckman",
+    "path": "04-top-scholar-research-tastes/economists/james-heckman.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Treat selection as a central research object",
+      "Link econometric structure to human capital mechanisms",
+      "Think about treatment effects as heterogeneous and policy-specific"
+    ]
+  },
+  {
+    "name": "Jean Tirole",
+    "slug": "jean-tirole",
+    "path": "04-top-scholar-research-tastes/economists/jean-tirole.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Build models around incentives, information, and strategic constraints",
+      "Use theory to organize regulation and market design",
+      "Derive policy insight from mechanism-level reasoning"
+    ]
+  },
+  {
+    "name": "Joel Mokyr",
+    "slug": "joel-mokyr",
+    "path": "04-top-scholar-research-tastes/economists/joel-mokyr.md",
+    "field": "economics",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Use economic history to explain technological progress",
+      "Treat culture and ideas as mechanisms in growth",
+      "Build arguments from historical accumulation rather than one narrow design"
+    ]
+  },
+  {
+    "name": "Joseph Stiglitz",
+    "slug": "joseph-stiglitz",
+    "path": "04-top-scholar-research-tastes/economists/joseph-stiglitz.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Treat information imperfections as first-order economic forces",
+      "Use theory to challenge benchmark market-efficiency claims",
+      "Connect micro frictions to macro and policy outcomes"
+    ]
+  },
+  {
+    "name": "Joshua Angrist",
+    "slug": "joshua-angrist",
+    "path": "04-top-scholar-research-tastes/economists/joshua-angrist.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Turn messy policy variation into credible causal designs",
+      "Explain identification in plain language",
+      "Use instrumental variables as a design, not a ritual"
+    ]
+  },
+  {
+    "name": "Matthew Gentzkow",
+    "slug": "matthew-gentzkow",
+    "path": "04-top-scholar-research-tastes/economists/matthew-gentzkow.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Measure information, media, and persuasion from text and behavior",
+      "Use structural and reduced-form tools to study communication markets",
+      "Turn digitized content into economic evidence"
+    ]
+  },
+  {
+    "name": "Michael Kremer",
+    "slug": "michael-kremer",
+    "path": "04-top-scholar-research-tastes/economists/michael-kremer.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Design experiments around practical policy bottlenecks",
+      "Use randomized evaluation to test scalable interventions",
+      "Turn development constraints into researchable mechanisms"
+    ]
+  },
+  {
+    "name": "Nicholas Bloom",
+    "slug": "nicholas-bloom",
+    "path": "04-top-scholar-research-tastes/economists/nicholas-bloom.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Measure management as an economic variable",
+      "Use surveys and experiments to study firms from the inside",
+      "Convert organizational practices into empirical objects"
+    ]
+  },
+  {
+    "name": "Oliver Hart",
+    "slug": "oliver-hart",
+    "path": "04-top-scholar-research-tastes/economists/oliver-hart.md",
+    "field": "economics",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Use incomplete contracts to explain firm boundaries",
+      "Turn governance problems into allocation-of-control problems",
+      "Connect contract theory to corporate finance and institutions"
+    ]
+  },
+  {
+    "name": "Paul Krugman",
+    "slug": "paul-krugman",
+    "path": "04-top-scholar-research-tastes/economists/paul-krugman.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Build simple models that change how a field sees a problem",
+      "Use increasing returns and geography to explain trade patterns",
+      "Communicate technical ideas through sharp economic intuition"
+    ]
+  },
+  {
+    "name": "Peter Howitt",
+    "slug": "peter-howitt",
+    "path": "04-top-scholar-research-tastes/economists/peter-howitt.md",
+    "field": "economics",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Use dynamic models to explain innovation-driven growth",
+      "Treat disruption as an endogenous part of progress",
+      "Translate Schumpeterian intuition into formal mechanisms"
+    ]
+  },
+  {
+    "name": "Philippe Aghion",
+    "slug": "philippe-aghion",
+    "path": "04-top-scholar-research-tastes/economists/philippe-aghion.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Model growth as creative destruction",
+      "Link innovation incentives to competition and institutions",
+      "Use theory and empirics together to study technological change"
+    ]
+  },
+  {
+    "name": "Raj Chetty",
+    "slug": "raj-chetty",
+    "path": "04-top-scholar-research-tastes/economists/raj-chetty.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use administrative data to map opportunity at scale",
+      "Turn granular empirical facts into policy-relevant design",
+      "Make descriptive evidence causal through credible variation and validation"
+    ]
+  },
+  {
+    "name": "Sendhil Mullainathan",
+    "slug": "sendhil-mullainathan",
+    "path": "04-top-scholar-research-tastes/economists/sendhil-mullainathan.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Turn behavioral anomalies into research programs",
+      "Use prediction problems to reveal hidden structure",
+      "Connect psychology, data, and economic decision-making"
+    ]
+  },
+  {
+    "name": "Susan Athey",
+    "slug": "susan-athey",
+    "path": "04-top-scholar-research-tastes/economists/susan-athey.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use machine learning to improve causal and policy analysis",
+      "Translate platform and market design problems into empirical questions",
+      "Combine theory, computation, and causal inference"
+    ]
+  },
+  {
+    "name": "Thomas Piketty",
+    "slug": "thomas-piketty",
+    "path": "04-top-scholar-research-tastes/economists/thomas-piketty.md",
+    "field": "economics",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Build long-run data to reopen old questions",
+      "Turn distributional history into macroeconomic evidence",
+      "Use public-facing data infrastructure as part of research contribution"
+    ]
+  },
+  {
+    "name": "Andrei Shleifer",
+    "slug": "andrei-shleifer",
+    "path": "04-top-scholar-research-tastes/finance-scholars/andrei-shleifer.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Turn behavioral limits into market-level implications",
+      "Use legal and institutional variation to study finance and growth",
+      "Build simple theories that explain broad empirical anomalies"
+    ]
+  },
+  {
+    "name": "Antoinette Schoar",
+    "slug": "antoinette-schoar",
+    "path": "04-top-scholar-research-tastes/finance-scholars/antoinette-schoar.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Study household and entrepreneurial finance through decision frictions",
+      "Use microdata to reveal financial behavior heterogeneity",
+      "Connect managerial traits, contracts, and firm outcomes"
+    ]
+  },
+  {
+    "name": "Campbell Harvey",
+    "slug": "campbell-harvey",
+    "path": "04-top-scholar-research-tastes/finance-scholars/campbell-harvey.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Study expected returns through cross-sectional and global evidence",
+      "Treat multiple testing and p-hacking as central finance problems",
+      "Build bridges between empirical finance and research credibility"
+    ]
+  },
+  {
+    "name": "Darrell Duffie",
+    "slug": "darrell-duffie",
+    "path": "04-top-scholar-research-tastes/finance-scholars/darrell-duffie.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Use institutional detail to model over-the-counter markets",
+      "Translate market plumbing into asset pricing and policy implications",
+      "Treat financial market design as a research object"
+    ]
+  },
+  {
+    "name": "Douglas Diamond",
+    "slug": "douglas-diamond",
+    "path": "04-top-scholar-research-tastes/finance-scholars/douglas-diamond.md",
+    "field": "finance",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Model banks as liquidity and monitoring institutions",
+      "Treat financial fragility as a structural feature of banking",
+      "Use simple theory to clarify why bank runs happen"
+    ]
+  },
+  {
+    "name": "Eugene Fama",
+    "slug": "eugene-fama",
+    "path": "04-top-scholar-research-tastes/finance-scholars/eugene-fama.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Treat prices as disciplined summaries of information",
+      "Convert market efficiency into testable implications",
+      "Use simple empirical regularities to organize an entire field"
+    ]
+  },
+  {
+    "name": "Fischer Black",
+    "slug": "fischer-black",
+    "path": "04-top-scholar-research-tastes/finance-scholars/fischer-black.md",
+    "field": "finance",
+    "status": "unfinished-upload-needed",
+    "confidence": "low",
+    "skills": [
+      "Turn pricing problems into replication arguments",
+      "Use arbitrage logic to derive valuation formulas",
+      "Connect simple assumptions to powerful market implications"
+    ]
+  },
+  {
+    "name": "Franco Modigliani",
+    "slug": "franco-modigliani",
+    "path": "04-top-scholar-research-tastes/finance-scholars/franco-modigliani.md",
+    "field": "finance",
+    "status": "unfinished-upload-needed",
+    "confidence": "low",
+    "skills": [
+      "Use irrelevance benchmarks to discipline corporate finance",
+      "Build clean theoretical baselines before adding frictions",
+      "Separate benchmark logic from real-world deviations"
+    ]
+  },
+  {
+    "name": "Harrison Hong",
+    "slug": "harrison-hong",
+    "path": "04-top-scholar-research-tastes/finance-scholars/harrison-hong.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Study disagreement, constraints, and market mispricing",
+      "Use social interaction and attention as finance mechanisms",
+      "Connect behavioral finance to limits of arbitrage"
+    ]
+  },
+  {
+    "name": "Hélène Rey",
+    "slug": "helene-rey",
+    "path": "04-top-scholar-research-tastes/finance-scholars/helene-rey.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Treat global financial cycles as constraints on national policy",
+      "Connect capital flows, exchange rates, and risk appetite",
+      "Use international finance facts to challenge policy trilemmas"
+    ]
+  },
+  {
+    "name": "Jeremy Stein",
+    "slug": "jeremy-stein",
+    "path": "04-top-scholar-research-tastes/finance-scholars/jeremy-stein.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Link corporate finance frictions to macro-financial outcomes",
+      "Use simple models to connect financial constraints and behavior",
+      "Treat investor sentiment as a force with real effects"
+    ]
+  },
+  {
+    "name": "John Campbell",
+    "slug": "john-campbell",
+    "path": "04-top-scholar-research-tastes/finance-scholars/john-campbell.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Decompose asset prices into interpretable economic components",
+      "Connect household finance decisions to asset pricing and welfare",
+      "Use long-run return predictability as a window into risk and beliefs"
+    ]
+  },
+  {
+    "name": "John Cochrane",
+    "slug": "john-cochrane",
+    "path": "04-top-scholar-research-tastes/finance-scholars/john-cochrane.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use asset pricing theory as a unifying language",
+      "Translate discount rates into economic mechanisms",
+      "Explain complex finance models through disciplined intuition"
+    ]
+  },
+  {
+    "name": "Kenneth French",
+    "slug": "kenneth-french",
+    "path": "04-top-scholar-research-tastes/finance-scholars/kenneth-french.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Turn factor construction into reusable research infrastructure",
+      "Use portfolio sorts to reveal systematic return patterns",
+      "Make data tools part of the scientific contribution"
+    ]
+  },
+  {
+    "name": "Lars Peter Hansen",
+    "slug": "lars-peter-hansen",
+    "path": "04-top-scholar-research-tastes/finance-scholars/lars-peter-hansen.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Use moment restrictions to discipline economic models",
+      "Treat uncertainty and robustness as research objects",
+      "Connect econometric methods to asset pricing and macro-finance"
+    ]
+  },
+  {
+    "name": "Luigi Zingales",
+    "slug": "luigi-zingales",
+    "path": "04-top-scholar-research-tastes/finance-scholars/luigi-zingales.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Connect corporate finance to institutions and politics",
+      "Use cross-country variation to study financial development",
+      "Treat trust, governance, and culture as economic mechanisms"
+    ]
+  },
+  {
+    "name": "Markus Brunnermeier",
+    "slug": "markus-brunnermeier",
+    "path": "04-top-scholar-research-tastes/finance-scholars/markus-brunnermeier.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Model financial fragility as endogenous amplification",
+      "Treat liquidity and leverage as dynamic state variables",
+      "Connect micro frictions to systemic risk"
+    ]
+  },
+  {
+    "name": "Merton Miller",
+    "slug": "merton-miller",
+    "path": "04-top-scholar-research-tastes/finance-scholars/merton-miller.md",
+    "field": "finance",
+    "status": "unfinished-upload-needed",
+    "confidence": "low",
+    "skills": [
+      "Use frictionless benchmarks to identify which frictions matter",
+      "Build corporate finance theory from clean arbitrage arguments",
+      "Ask what must be true for financing to matter"
+    ]
+  },
+  {
+    "name": "Michael Jensen",
+    "slug": "michael-jensen",
+    "path": "04-top-scholar-research-tastes/finance-scholars/michael-jensen.md",
+    "field": "finance",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Turn agency conflicts into corporate finance questions",
+      "Use governance failures to explain firm behavior",
+      "Convert organizational incentives into empirical predictions"
+    ]
+  },
+  {
+    "name": "Myron Scholes",
+    "slug": "myron-scholes",
+    "path": "04-top-scholar-research-tastes/finance-scholars/myron-scholes.md",
+    "field": "finance",
+    "status": "unfinished-upload-needed",
+    "confidence": "low",
+    "skills": [
+      "Convert derivative pricing into a no-arbitrage design",
+      "Use continuous-time reasoning to simplify valuation",
+      "Build pricing tools that reshape practice"
+    ]
+  },
+  {
+    "name": "Philip Dybvig",
+    "slug": "philip-dybvig",
+    "path": "04-top-scholar-research-tastes/finance-scholars/philip-dybvig.md",
+    "field": "finance",
+    "status": "partial",
+    "confidence": "low",
+    "skills": [
+      "Build minimal models of coordination failure",
+      "Explain banking crises through liquidity insurance and strategic behavior",
+      "Separate socially useful intermediation from fragile equilibria"
+    ]
+  },
+  {
+    "name": "Raghuram Rajan",
+    "slug": "raghuram-rajan",
+    "path": "04-top-scholar-research-tastes/finance-scholars/raghuram-rajan.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Connect financial development to real economic outcomes",
+      "Treat banks and intermediaries as macro-relevant institutions",
+      "Use institutional detail to understand crises and fragility"
+    ]
+  },
+  {
+    "name": "Robert Engle",
+    "slug": "robert-engle",
+    "path": "04-top-scholar-research-tastes/finance-scholars/robert-engle.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "medium",
+    "skills": [
+      "Model volatility as a dynamic economic object",
+      "Build econometric tools from observed market behavior",
+      "Turn risk measurement into research infrastructure"
+    ]
+  },
+  {
+    "name": "Robert Merton",
+    "slug": "robert-merton",
+    "path": "04-top-scholar-research-tastes/finance-scholars/robert-merton.md",
+    "field": "finance",
+    "status": "partial",
+    "confidence": "medium",
+    "skills": [
+      "Use continuous-time models to organize finance problems",
+      "Turn dynamic optimization into asset-pricing intuition",
+      "Connect theory, institutions, and financial innovation"
+    ]
+  },
+  {
+    "name": "Robert Shiller",
+    "slug": "robert-shiller",
+    "path": "04-top-scholar-research-tastes/finance-scholars/robert-shiller.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Use prices to test narratives, expectations, and excess volatility",
+      "Connect behavioral finance to macro-financial history",
+      "Build public datasets that make big claims testable"
+    ]
+  },
+  {
+    "name": "Stewart Myers",
+    "slug": "stewart-myers",
+    "path": "04-top-scholar-research-tastes/finance-scholars/stewart-myers.md",
+    "field": "finance",
+    "status": "unfinished-upload-needed",
+    "confidence": "low",
+    "skills": [
+      "Explain corporate financing through information and investment frictions",
+      "Use pecking order logic to organize financing behavior",
+      "Connect real options to corporate investment decisions"
+    ]
+  },
+  {
+    "name": "Ulrike Malmendier",
+    "slug": "ulrike-malmendier",
+    "path": "04-top-scholar-research-tastes/finance-scholars/ulrike-malmendier.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Turn life experience into an economic state variable",
+      "Measure behavioral biases in corporate and household decisions",
+      "Link psychology, memory, and financial choice"
+    ]
+  },
+  {
+    "name": "Viral Acharya",
+    "slug": "viral-acharya",
+    "path": "04-top-scholar-research-tastes/finance-scholars/viral-acharya.md",
+    "field": "finance",
+    "status": "ready-to-draft",
+    "confidence": "high",
+    "skills": [
+      "Measure systemic risk through bank behavior and market signals",
+      "Connect credit frictions to macroeconomic outcomes",
+      "Use crisis episodes to identify financial mechanisms"
+    ]
+  }
+]
