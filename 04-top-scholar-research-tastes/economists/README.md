@@ -1,57 +1,40 @@
-# Economists: Skill Generation Progress
+# Economists
 
-This folder tracks scholar-derived research taste pages for **economists**.
+Each scholar has exactly one page: a folder with a single `README.md`.
 
-## Progress Summary
+All copy/paste research taste skills for a scholar live as sections inside that scholar's README. This avoids deep nesting and makes the site easier to browse.
 
-| Metric | Count |
-|---|---:|
-| Ready-to-draft scholars | 22 |
-| Partial scholars | 4 |
-| Upload-needed scholars | 0 |
-| Copy/paste skill cards generated | 67 |
+## Progress
 
-## Scholar Table
+| Scholar | Embedded Skills | Status | Open-Access Status | Confidence |
+|---|---:|---|---|---|
+| [Abhijit Banerjee](abhijit-banerjee/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Bengt Holmström](bengt-holmstrom/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Claudia Goldin](claudia-goldin/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Daron Acemoglu](daron-acemoglu/) | 4 | `draft-filled` | `ready-to-draft` | `high` |
+| [David Card](david-card/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Edward Glaeser](edward-glaeser/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Emmanuel Saez](emmanuel-saez/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Esther Duflo](esther-duflo/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Gabriel Zucman](gabriel-zucman/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Guido Imbens](guido-imbens/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [James Heckman](james-heckman/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Jean Tirole](jean-tirole/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Joel Mokyr](joel-mokyr/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Joseph Stiglitz](joseph-stiglitz/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Joshua Angrist](joshua-angrist/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Matthew Gentzkow](matthew-gentzkow/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Michael Kremer](michael-kremer/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Nicholas Bloom](nicholas-bloom/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Oliver Hart](oliver-hart/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Paul Krugman](paul-krugman/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Peter Howitt](peter-howitt/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Philippe Aghion](philippe-aghion/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Raj Chetty](raj-chetty/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Sendhil Mullainathan](sendhil-mullainathan/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Susan Athey](susan-athey/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Thomas Piketty](thomas-piketty/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
 
-| Scholar | Status | Copy/Paste Skill Cards | Confidence |
-|---|---:|---:|---:|
-| Abhijit Banerjee | `ready-to-draft` | 3 | `high` |
-| Bengt Holmström | `partial` | 0 | `medium` |
-| Claudia Goldin | `ready-to-draft` | 3 | `high` |
-| Daron Acemoglu | `ready-to-draft` | 4 | `high` |
-| David Card | `ready-to-draft` | 3 | `high` |
-| Edward Glaeser | `ready-to-draft` | 3 | `high` |
-| Emmanuel Saez | `ready-to-draft` | 3 | `high` |
-| Esther Duflo | `ready-to-draft` | 3 | `high` |
-| Gabriel Zucman | `ready-to-draft` | 3 | `high` |
-| Guido Imbens | `ready-to-draft` | 3 | `high` |
-| James Heckman | `ready-to-draft` | 3 | `medium` |
-| Jean Tirole | `ready-to-draft` | 3 | `medium` |
-| Joel Mokyr | `partial` | 0 | `medium` |
-| Joseph Stiglitz | `ready-to-draft` | 3 | `medium` |
-| Joshua Angrist | `ready-to-draft` | 3 | `high` |
-| Matthew Gentzkow | `ready-to-draft` | 3 | `high` |
-| Michael Kremer | `ready-to-draft` | 3 | `high` |
-| Nicholas Bloom | `ready-to-draft` | 3 | `high` |
-| Oliver Hart | `partial` | 0 | `medium` |
-| Paul Krugman | `ready-to-draft` | 3 | `medium` |
-| Peter Howitt | `partial` | 0 | `medium` |
-| Philippe Aghion | `ready-to-draft` | 3 | `medium` |
-| Raj Chetty | `ready-to-draft` | 3 | `high` |
-| Sendhil Mullainathan | `ready-to-draft` | 3 | `high` |
-| Susan Athey | `ready-to-draft` | 3 | `high` |
-| Thomas Piketty | `ready-to-draft` | 3 | `high` |
+## Review Rule
 
-## Standard for a Generated Skill
-
-A generated scholar skill must be:
-
-1. **Copy/paste usable** — the card includes a direct research move and a self-review prompt.
-2. **Generalisable** — it teaches a transferable judgment, not a narrow topic.
-3. **Justifiable** — it names evidence anchors from papers or public research materials.
-4. **Critical** — it states when the skill becomes bad taste or overclaiming.
-5. **Extracted from paper structure** — question choice, test, mechanism, abstract/introduction framing, and limitations.
-
-## Next Step
-
-Add verified links, uploaded PDFs, and page-level notes before changing any scholar or skill card from `draft-filled` to `reviewed`.
+A page can move from `draft-filled` to `reviewed` only after the evidence anchors are linked to open-access papers, uploaded PDFs, author pages, Nobel materials, or other verifiable sources.

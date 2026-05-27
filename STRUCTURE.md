@@ -1,10 +1,8 @@
 # Repository Structure
 
-This repository has two layers.
+The repo is organized as a curriculum plus a small database layer.
 
-## 1. Curriculum Layer
-
-The numbered folders are the reading path.
+## Main Curriculum
 
 ```text
 00-start-here/
@@ -15,73 +13,26 @@ The numbered folders are the reading path.
 05-tastes-by-research-step/
 ```
 
-## 2. Database Layer
+## Simplified README Rule
 
-The non-numbered folders are reusable databases.
-
-```text
-skills/       skill cards and anti-skills
-evidence/     paper, empirical, dataset, and story evidence
-practice/     exercises and training drills
-maps/         conceptual maps and navigation pages
-templates/    file templates
-scripts/      repo helper scripts
-```
-
-## Design Rule
-
-Each important idea should eventually connect across five objects:
+For browsability, major content units use a single README page:
 
 ```text
-Skill ↔ Scholar ↔ Paper/Evidence ↔ Journal Taste ↔ Research Step
+04-top-scholar-research-tastes/economists/daron-acemoglu/README.md
+03-journal-research-tastes/top-finance-journals/journal-of-finance/README.md
+02-general-features-of-good-research-taste/good-question-taste/README.md
+05-tastes-by-research-step/03-building-theory/README.md
 ```
 
-## Scholar Pages
+No scholar has separate nested skill files. All of that scholar's copy/paste skills are embedded inside the scholar README.
 
-Each scholar gets one page:
+## Supporting Folders
 
 ```text
-04-top-scholar-research-tastes/economists/daron-acemoglu.md
-04-top-scholar-research-tastes/finance-scholars/eugene-fama.md
+skills/       general reusable skill categories
+evidence/     paper, empirical, story, and dataset examples
+practice/     drills and exercises
+maps/         conceptual maps
+templates/    page templates
+scripts/      repo checks and utility scripts
 ```
-
-Each page should include:
-
-1. One-sentence research taste.
-2. Signature questions.
-3. Signature methods.
-4. Three to five transferable skills.
-5. Open-access evidence notes.
-6. Upload-needed gaps.
-7. Practice exercises.
-
-## Skill Cards
-
-Each skill should be reusable outside the original paper or scholar.
-
-A strong skill card should answer:
-
-- What is the skill?
-- What kind of research problem does it solve?
-- What does good taste look like?
-- What does bad taste look like?
-- How does it differ in economics vs finance?
-- Which scholars demonstrate it?
-- Which journals value it?
-- How can a researcher practice it?
-
-## Evidence Pages
-
-Evidence pages are not generic summaries. They should support a skill.
-
-Every paper or empirical example should point to at least one skill.
-
-## Status Policy
-
-Do not mark a page as `reviewed`, `polished`, or `canonical` until it has:
-
-- evidence links or uploaded PDFs,
-- concrete examples,
-- no unresolved `TODO` items,
-- a practice exercise,
-- related skills.

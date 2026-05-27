@@ -4,7 +4,7 @@ This registry tracks scholar pages and candidate skills.
 
 ## Ready to Draft
 
-### [Abhijit Banerjee](economists/abhijit-banerjee.md)
+### [Abhijit Banerjee](economists/abhijit-banerjee/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -14,7 +14,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat policy variation as a way to learn mechanisms
   - Build theory from field-level institutional detail
 
-### [Claudia Goldin](economists/claudia-goldin.md)
+### [Claudia Goldin](economists/claudia-goldin/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -24,7 +24,7 @@ This registry tracks scholar pages and candidate skills.
   - Turn descriptive patterns into deep institutional questions
   - Combine narrative, measurement, and economics into one argument
 
-### [Daron Acemoglu](economists/daron-acemoglu.md)
+### [Daron Acemoglu](economists/daron-acemoglu/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -35,7 +35,7 @@ This registry tracks scholar pages and candidate skills.
   - Combine big questions with tractable empirical proxies
   - Use political economy mechanisms to explain economic outcomes
 
-### [David Card](economists/david-card.md)
+### [David Card](economists/david-card/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -45,7 +45,7 @@ This registry tracks scholar pages and candidate skills.
   - Find comparison groups in real-world labor markets
   - Let transparent empirical design discipline controversial questions
 
-### [Edward Glaeser](economists/edward-glaeser.md)
+### [Edward Glaeser](economists/edward-glaeser/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -55,7 +55,7 @@ This registry tracks scholar pages and candidate skills.
   - Use simple theory to organize spatial facts
   - Connect institutions, geography, and human capital
 
-### [Emmanuel Saez](economists/emmanuel-saez.md)
+### [Emmanuel Saez](economists/emmanuel-saez/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -65,7 +65,7 @@ This registry tracks scholar pages and candidate skills.
   - Translate sufficient statistics into policy-relevant formulas
   - Connect empirical public finance to welfare analysis
 
-### [Esther Duflo](economists/esther-duflo.md)
+### [Esther Duflo](economists/esther-duflo/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -75,7 +75,7 @@ This registry tracks scholar pages and candidate skills.
   - Turn policy questions into testable mechanisms
   - Build research designs around implementation details
 
-### [Gabriel Zucman](economists/gabriel-zucman.md)
+### [Gabriel Zucman](economists/gabriel-zucman/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -85,7 +85,7 @@ This registry tracks scholar pages and candidate skills.
   - Turn macro-financial data gaps into research questions
   - Combine public finance, international finance, and distribution
 
-### [Guido Imbens](economists/guido-imbens.md)
+### [Guido Imbens](economists/guido-imbens/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -95,7 +95,7 @@ This registry tracks scholar pages and candidate skills.
   - Clarify what an estimand means before estimating it
   - Separate design-based credibility from modeling assumptions
 
-### [James Heckman](economists/james-heckman.md)
+### [James Heckman](economists/james-heckman/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -105,7 +105,7 @@ This registry tracks scholar pages and candidate skills.
   - Link econometric structure to human capital mechanisms
   - Think about treatment effects as heterogeneous and policy-specific
 
-### [Jean Tirole](economists/jean-tirole.md)
+### [Jean Tirole](economists/jean-tirole/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -115,7 +115,7 @@ This registry tracks scholar pages and candidate skills.
   - Use theory to organize regulation and market design
   - Derive policy insight from mechanism-level reasoning
 
-### [Joseph Stiglitz](economists/joseph-stiglitz.md)
+### [Joseph Stiglitz](economists/joseph-stiglitz/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -125,7 +125,7 @@ This registry tracks scholar pages and candidate skills.
   - Use theory to challenge benchmark market-efficiency claims
   - Connect micro frictions to macro and policy outcomes
 
-### [Joshua Angrist](economists/joshua-angrist.md)
+### [Joshua Angrist](economists/joshua-angrist/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -135,7 +135,7 @@ This registry tracks scholar pages and candidate skills.
   - Explain identification in plain language
   - Use instrumental variables as a design, not a ritual
 
-### [Matthew Gentzkow](economists/matthew-gentzkow.md)
+### [Matthew Gentzkow](economists/matthew-gentzkow/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -145,7 +145,7 @@ This registry tracks scholar pages and candidate skills.
   - Use structural and reduced-form tools to study communication markets
   - Turn digitized content into economic evidence
 
-### [Michael Kremer](economists/michael-kremer.md)
+### [Michael Kremer](economists/michael-kremer/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -155,7 +155,7 @@ This registry tracks scholar pages and candidate skills.
   - Use randomized evaluation to test scalable interventions
   - Turn development constraints into researchable mechanisms
 
-### [Nicholas Bloom](economists/nicholas-bloom.md)
+### [Nicholas Bloom](economists/nicholas-bloom/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -165,7 +165,7 @@ This registry tracks scholar pages and candidate skills.
   - Use surveys and experiments to study firms from the inside
   - Convert organizational practices into empirical objects
 
-### [Paul Krugman](economists/paul-krugman.md)
+### [Paul Krugman](economists/paul-krugman/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -175,7 +175,7 @@ This registry tracks scholar pages and candidate skills.
   - Use increasing returns and geography to explain trade patterns
   - Communicate technical ideas through sharp economic intuition
 
-### [Philippe Aghion](economists/philippe-aghion.md)
+### [Philippe Aghion](economists/philippe-aghion/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -185,7 +185,7 @@ This registry tracks scholar pages and candidate skills.
   - Link innovation incentives to competition and institutions
   - Use theory and empirics together to study technological change
 
-### [Raj Chetty](economists/raj-chetty.md)
+### [Raj Chetty](economists/raj-chetty/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -195,7 +195,7 @@ This registry tracks scholar pages and candidate skills.
   - Turn granular empirical facts into policy-relevant design
   - Make descriptive evidence causal through credible variation and validation
 
-### [Sendhil Mullainathan](economists/sendhil-mullainathan.md)
+### [Sendhil Mullainathan](economists/sendhil-mullainathan/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -205,7 +205,7 @@ This registry tracks scholar pages and candidate skills.
   - Use prediction problems to reveal hidden structure
   - Connect psychology, data, and economic decision-making
 
-### [Susan Athey](economists/susan-athey.md)
+### [Susan Athey](economists/susan-athey/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -215,7 +215,7 @@ This registry tracks scholar pages and candidate skills.
   - Translate platform and market design problems into empirical questions
   - Combine theory, computation, and causal inference
 
-### [Thomas Piketty](economists/thomas-piketty.md)
+### [Thomas Piketty](economists/thomas-piketty/)
 
 - Field: `economics`
 - Status: `ready-to-draft`
@@ -225,7 +225,7 @@ This registry tracks scholar pages and candidate skills.
   - Turn distributional history into macroeconomic evidence
   - Use public-facing data infrastructure as part of research contribution
 
-### [Andrei Shleifer](finance-scholars/andrei-shleifer.md)
+### [Andrei Shleifer](finance-scholars/andrei-shleifer/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -235,7 +235,7 @@ This registry tracks scholar pages and candidate skills.
   - Use legal and institutional variation to study finance and growth
   - Build simple theories that explain broad empirical anomalies
 
-### [Antoinette Schoar](finance-scholars/antoinette-schoar.md)
+### [Antoinette Schoar](finance-scholars/antoinette-schoar/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -245,7 +245,7 @@ This registry tracks scholar pages and candidate skills.
   - Use microdata to reveal financial behavior heterogeneity
   - Connect managerial traits, contracts, and firm outcomes
 
-### [Campbell Harvey](finance-scholars/campbell-harvey.md)
+### [Campbell Harvey](finance-scholars/campbell-harvey/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -255,7 +255,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat multiple testing and p-hacking as central finance problems
   - Build bridges between empirical finance and research credibility
 
-### [Darrell Duffie](finance-scholars/darrell-duffie.md)
+### [Darrell Duffie](finance-scholars/darrell-duffie/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -265,7 +265,7 @@ This registry tracks scholar pages and candidate skills.
   - Translate market plumbing into asset pricing and policy implications
   - Treat financial market design as a research object
 
-### [Eugene Fama](finance-scholars/eugene-fama.md)
+### [Eugene Fama](finance-scholars/eugene-fama/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -275,7 +275,7 @@ This registry tracks scholar pages and candidate skills.
   - Convert market efficiency into testable implications
   - Use simple empirical regularities to organize an entire field
 
-### [Harrison Hong](finance-scholars/harrison-hong.md)
+### [Harrison Hong](finance-scholars/harrison-hong/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -285,7 +285,7 @@ This registry tracks scholar pages and candidate skills.
   - Use social interaction and attention as finance mechanisms
   - Connect behavioral finance to limits of arbitrage
 
-### [Hélène Rey](finance-scholars/helene-rey.md)
+### [Hélène Rey](finance-scholars/helene-rey/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -295,7 +295,7 @@ This registry tracks scholar pages and candidate skills.
   - Connect capital flows, exchange rates, and risk appetite
   - Use international finance facts to challenge policy trilemmas
 
-### [Jeremy Stein](finance-scholars/jeremy-stein.md)
+### [Jeremy Stein](finance-scholars/jeremy-stein/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -305,7 +305,7 @@ This registry tracks scholar pages and candidate skills.
   - Use simple models to connect financial constraints and behavior
   - Treat investor sentiment as a force with real effects
 
-### [John Campbell](finance-scholars/john-campbell.md)
+### [John Campbell](finance-scholars/john-campbell/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -315,7 +315,7 @@ This registry tracks scholar pages and candidate skills.
   - Connect household finance decisions to asset pricing and welfare
   - Use long-run return predictability as a window into risk and beliefs
 
-### [John Cochrane](finance-scholars/john-cochrane.md)
+### [John Cochrane](finance-scholars/john-cochrane/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -325,7 +325,7 @@ This registry tracks scholar pages and candidate skills.
   - Translate discount rates into economic mechanisms
   - Explain complex finance models through disciplined intuition
 
-### [Kenneth French](finance-scholars/kenneth-french.md)
+### [Kenneth French](finance-scholars/kenneth-french/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -335,7 +335,7 @@ This registry tracks scholar pages and candidate skills.
   - Use portfolio sorts to reveal systematic return patterns
   - Make data tools part of the scientific contribution
 
-### [Lars Peter Hansen](finance-scholars/lars-peter-hansen.md)
+### [Lars Peter Hansen](finance-scholars/lars-peter-hansen/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -345,7 +345,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat uncertainty and robustness as research objects
   - Connect econometric methods to asset pricing and macro-finance
 
-### [Luigi Zingales](finance-scholars/luigi-zingales.md)
+### [Luigi Zingales](finance-scholars/luigi-zingales/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -355,7 +355,7 @@ This registry tracks scholar pages and candidate skills.
   - Use cross-country variation to study financial development
   - Treat trust, governance, and culture as economic mechanisms
 
-### [Markus Brunnermeier](finance-scholars/markus-brunnermeier.md)
+### [Markus Brunnermeier](finance-scholars/markus-brunnermeier/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -365,7 +365,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat liquidity and leverage as dynamic state variables
   - Connect micro frictions to systemic risk
 
-### [Raghuram Rajan](finance-scholars/raghuram-rajan.md)
+### [Raghuram Rajan](finance-scholars/raghuram-rajan/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -375,7 +375,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat banks and intermediaries as macro-relevant institutions
   - Use institutional detail to understand crises and fragility
 
-### [Robert Engle](finance-scholars/robert-engle.md)
+### [Robert Engle](finance-scholars/robert-engle/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -385,7 +385,7 @@ This registry tracks scholar pages and candidate skills.
   - Build econometric tools from observed market behavior
   - Turn risk measurement into research infrastructure
 
-### [Robert Shiller](finance-scholars/robert-shiller.md)
+### [Robert Shiller](finance-scholars/robert-shiller/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -395,7 +395,7 @@ This registry tracks scholar pages and candidate skills.
   - Connect behavioral finance to macro-financial history
   - Build public datasets that make big claims testable
 
-### [Ulrike Malmendier](finance-scholars/ulrike-malmendier.md)
+### [Ulrike Malmendier](finance-scholars/ulrike-malmendier/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -405,7 +405,7 @@ This registry tracks scholar pages and candidate skills.
   - Measure behavioral biases in corporate and household decisions
   - Link psychology, memory, and financial choice
 
-### [Viral Acharya](finance-scholars/viral-acharya.md)
+### [Viral Acharya](finance-scholars/viral-acharya/)
 
 - Field: `finance`
 - Status: `ready-to-draft`
@@ -417,7 +417,7 @@ This registry tracks scholar pages and candidate skills.
 
 ## Partial
 
-### [Bengt Holmström](economists/bengt-holmstrom.md)
+### [Bengt Holmström](economists/bengt-holmstrom/)
 
 - Field: `economics`
 - Status: `partial`
@@ -427,7 +427,7 @@ This registry tracks scholar pages and candidate skills.
   - Use contract design to explain organizations and finance
   - Connect simple principal-agent logic to real institutions
 
-### [Joel Mokyr](economists/joel-mokyr.md)
+### [Joel Mokyr](economists/joel-mokyr/)
 
 - Field: `economics`
 - Status: `partial`
@@ -437,7 +437,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat culture and ideas as mechanisms in growth
   - Build arguments from historical accumulation rather than one narrow design
 
-### [Oliver Hart](economists/oliver-hart.md)
+### [Oliver Hart](economists/oliver-hart/)
 
 - Field: `economics`
 - Status: `partial`
@@ -447,7 +447,7 @@ This registry tracks scholar pages and candidate skills.
   - Turn governance problems into allocation-of-control problems
   - Connect contract theory to corporate finance and institutions
 
-### [Peter Howitt](economists/peter-howitt.md)
+### [Peter Howitt](economists/peter-howitt/)
 
 - Field: `economics`
 - Status: `partial`
@@ -457,7 +457,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat disruption as an endogenous part of progress
   - Translate Schumpeterian intuition into formal mechanisms
 
-### [Douglas Diamond](finance-scholars/douglas-diamond.md)
+### [Douglas Diamond](finance-scholars/douglas-diamond/)
 
 - Field: `finance`
 - Status: `partial`
@@ -467,7 +467,7 @@ This registry tracks scholar pages and candidate skills.
   - Treat financial fragility as a structural feature of banking
   - Use simple theory to clarify why bank runs happen
 
-### [Michael Jensen](finance-scholars/michael-jensen.md)
+### [Michael Jensen](finance-scholars/michael-jensen/)
 
 - Field: `finance`
 - Status: `partial`
@@ -477,7 +477,7 @@ This registry tracks scholar pages and candidate skills.
   - Use governance failures to explain firm behavior
   - Convert organizational incentives into empirical predictions
 
-### [Philip Dybvig](finance-scholars/philip-dybvig.md)
+### [Philip Dybvig](finance-scholars/philip-dybvig/)
 
 - Field: `finance`
 - Status: `partial`
@@ -487,7 +487,7 @@ This registry tracks scholar pages and candidate skills.
   - Explain banking crises through liquidity insurance and strategic behavior
   - Separate socially useful intermediation from fragile equilibria
 
-### [Robert Merton](finance-scholars/robert-merton.md)
+### [Robert Merton](finance-scholars/robert-merton/)
 
 - Field: `finance`
 - Status: `partial`
@@ -499,7 +499,7 @@ This registry tracks scholar pages and candidate skills.
 
 ## Unfinished / Upload Needed
 
-### [Fischer Black](finance-scholars/fischer-black.md)
+### [Fischer Black](finance-scholars/fischer-black/)
 
 - Field: `finance`
 - Status: `unfinished-upload-needed`
@@ -509,7 +509,7 @@ This registry tracks scholar pages and candidate skills.
   - Use arbitrage logic to derive valuation formulas
   - Connect simple assumptions to powerful market implications
 
-### [Franco Modigliani](finance-scholars/franco-modigliani.md)
+### [Franco Modigliani](finance-scholars/franco-modigliani/)
 
 - Field: `finance`
 - Status: `unfinished-upload-needed`
@@ -519,7 +519,7 @@ This registry tracks scholar pages and candidate skills.
   - Build clean theoretical baselines before adding frictions
   - Separate benchmark logic from real-world deviations
 
-### [Merton Miller](finance-scholars/merton-miller.md)
+### [Merton Miller](finance-scholars/merton-miller/)
 
 - Field: `finance`
 - Status: `unfinished-upload-needed`
@@ -529,7 +529,7 @@ This registry tracks scholar pages and candidate skills.
   - Build corporate finance theory from clean arbitrage arguments
   - Ask what must be true for financing to matter
 
-### [Myron Scholes](finance-scholars/myron-scholes.md)
+### [Myron Scholes](finance-scholars/myron-scholes/)
 
 - Field: `finance`
 - Status: `unfinished-upload-needed`
@@ -539,7 +539,7 @@ This registry tracks scholar pages and candidate skills.
   - Use continuous-time reasoning to simplify valuation
   - Build pricing tools that reshape practice
 
-### [Stewart Myers](finance-scholars/stewart-myers.md)
+### [Stewart Myers](finance-scholars/stewart-myers/)
 
 - Field: `finance`
 - Status: `unfinished-upload-needed`

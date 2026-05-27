@@ -138,3 +138,12 @@ Current generated layer:
 - 124 copy/paste scholar-derived skill cards
 - progress README files at the top of each scholar type folder
 - upload-needed scholars kept unfinished until papers are provided
+
+## Simplified Page Rule
+
+To keep the repo easy to browse:
+
+- one scholar = one folder with one `README.md`;
+- all scholar-derived skills live as sections inside that scholar README;
+- one journal/perspective/research-step = one folder with one `README.md`;
+- separate per-skill files are used only for general skill categories, not for scholar-specific skills.

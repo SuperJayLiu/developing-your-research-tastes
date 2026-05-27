@@ -1,59 +1,42 @@
-# Finance Scholars: Skill Generation Progress
+# Finance Scholars
 
-This folder tracks scholar-derived research taste pages for **finance scholars**.
+Each scholar has exactly one page: a folder with a single `README.md`.
 
-## Progress Summary
+All copy/paste research taste skills for a scholar live as sections inside that scholar's README. This avoids deep nesting and makes the site easier to browse.
 
-| Metric | Count |
-|---|---:|
-| Ready-to-draft scholars | 19 |
-| Partial scholars | 4 |
-| Upload-needed scholars | 5 |
-| Copy/paste skill cards generated | 57 |
+## Progress
 
-## Scholar Table
+| Scholar | Embedded Skills | Status | Open-Access Status | Confidence |
+|---|---:|---|---|---|
+| [Andrei Shleifer](andrei-shleifer/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Antoinette Schoar](antoinette-schoar/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Campbell Harvey](campbell-harvey/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Darrell Duffie](darrell-duffie/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Douglas Diamond](douglas-diamond/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Eugene Fama](eugene-fama/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Fischer Black](fischer-black/) | 0 | `unfinished-upload-needed` | `unfinished-upload-needed` | `low` |
+| [Franco Modigliani](franco-modigliani/) | 0 | `unfinished-upload-needed` | `unfinished-upload-needed` | `low` |
+| [Harrison Hong](harrison-hong/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Hélène Rey](helene-rey/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Jeremy Stein](jeremy-stein/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [John Campbell](john-campbell/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [John Cochrane](john-cochrane/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Kenneth French](kenneth-french/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Lars Peter Hansen](lars-peter-hansen/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Luigi Zingales](luigi-zingales/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Markus Brunnermeier](markus-brunnermeier/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Merton Miller](merton-miller/) | 0 | `unfinished-upload-needed` | `unfinished-upload-needed` | `low` |
+| [Michael Jensen](michael-jensen/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Myron Scholes](myron-scholes/) | 0 | `unfinished-upload-needed` | `unfinished-upload-needed` | `low` |
+| [Philip Dybvig](philip-dybvig/) | 0 | `partial-upload-helpful` | `partial` | `low` |
+| [Raghuram Rajan](raghuram-rajan/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Robert Engle](robert-engle/) | 3 | `draft-filled` | `ready-to-draft` | `medium` |
+| [Robert Merton](robert-merton/) | 0 | `partial-upload-helpful` | `partial` | `medium` |
+| [Robert Shiller](robert-shiller/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Stewart Myers](stewart-myers/) | 0 | `unfinished-upload-needed` | `unfinished-upload-needed` | `low` |
+| [Ulrike Malmendier](ulrike-malmendier/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
+| [Viral Acharya](viral-acharya/) | 3 | `draft-filled` | `ready-to-draft` | `high` |
 
-| Scholar | Status | Copy/Paste Skill Cards | Confidence |
-|---|---:|---:|---:|
-| Andrei Shleifer | `ready-to-draft` | 3 | `high` |
-| Antoinette Schoar | `ready-to-draft` | 3 | `high` |
-| Campbell Harvey | `ready-to-draft` | 3 | `high` |
-| Darrell Duffie | `ready-to-draft` | 3 | `medium` |
-| Douglas Diamond | `partial` | 0 | `medium` |
-| Eugene Fama | `ready-to-draft` | 3 | `medium` |
-| Fischer Black | `unfinished-upload-needed` | 0 | `low` |
-| Franco Modigliani | `unfinished-upload-needed` | 0 | `low` |
-| Harrison Hong | `ready-to-draft` | 3 | `medium` |
-| Hélène Rey | `ready-to-draft` | 3 | `high` |
-| Jeremy Stein | `ready-to-draft` | 3 | `medium` |
-| John Campbell | `ready-to-draft` | 3 | `medium` |
-| John Cochrane | `ready-to-draft` | 3 | `high` |
-| Kenneth French | `ready-to-draft` | 3 | `high` |
-| Lars Peter Hansen | `ready-to-draft` | 3 | `medium` |
-| Luigi Zingales | `ready-to-draft` | 3 | `high` |
-| Markus Brunnermeier | `ready-to-draft` | 3 | `high` |
-| Merton Miller | `unfinished-upload-needed` | 0 | `low` |
-| Michael Jensen | `partial` | 0 | `medium` |
-| Myron Scholes | `unfinished-upload-needed` | 0 | `low` |
-| Philip Dybvig | `partial` | 0 | `low` |
-| Raghuram Rajan | `ready-to-draft` | 3 | `high` |
-| Robert Engle | `ready-to-draft` | 3 | `medium` |
-| Robert Merton | `partial` | 0 | `medium` |
-| Robert Shiller | `ready-to-draft` | 3 | `high` |
-| Stewart Myers | `unfinished-upload-needed` | 0 | `low` |
-| Ulrike Malmendier | `ready-to-draft` | 3 | `high` |
-| Viral Acharya | `ready-to-draft` | 3 | `high` |
+## Review Rule
 
-## Standard for a Generated Skill
-
-A generated scholar skill must be:
-
-1. **Copy/paste usable** — the card includes a direct research move and a self-review prompt.
-2. **Generalisable** — it teaches a transferable judgment, not a narrow topic.
-3. **Justifiable** — it names evidence anchors from papers or public research materials.
-4. **Critical** — it states when the skill becomes bad taste or overclaiming.
-5. **Extracted from paper structure** — question choice, test, mechanism, abstract/introduction framing, and limitations.
-
-## Next Step
-
-Add verified links, uploaded PDFs, and page-level notes before changing any scholar or skill card from `draft-filled` to `reviewed`.
+A page can move from `draft-filled` to `reviewed` only after the evidence anchors are linked to open-access papers, uploaded PDFs, author pages, Nobel materials, or other verifiable sources.
