@@ -120,36 +120,21 @@ Research steps are application contexts.
 Practice is how taste improves.
 
 
-## Current Filled Scholar-Skill Batch
+## Copy/Paste Scholar Skills
 
-This version includes a first filled batch of scholar-derived research taste skills.
-
-- **Filled scholar pages**: 33
-- **Scholar-derived skill cards**: 132
-- **Extraction standard**: generalisable, justifiable, and critical
-
-The filled scholar pages live in:
-
-```text
-04-top-scholar-research-tastes/
-```
-
-The individual skill cards live in:
+The repo now includes a generated scholar-skill layer:
 
 ```text
 skills/by-scholar/
+├── economists/
+└── finance-scholars/
 ```
 
-The extraction method is documented here:
+Each generated skill is designed to be copied directly into a research memo, AI prompt, self-review checklist, or project design note. The skill cards are extracted from scholars' observable paper patterns: question choice, empirical/theoretical tests, mechanism discipline, and abstract/introduction framing.
 
-```text
-01-train-your-taste-model/how-to-extract-scholar-taste-from-papers.md
-```
+Current generated layer:
 
-A skill is not treated as valid just because a famous scholar used it. Each skill must be extracted from observable paper-level evidence:
-
-1. the research question,
-2. the empirical design or theory,
-3. the test or falsification logic,
-4. the abstract/introduction framing,
-5. the scope condition or critical boundary.
+- 41 ready-to-draft scholars
+- 124 copy/paste scholar-derived skill cards
+- progress README files at the top of each scholar type folder
+- upload-needed scholars kept unfinished until papers are provided

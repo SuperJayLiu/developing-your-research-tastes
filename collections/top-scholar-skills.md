@@ -1,167 +1,217 @@
-# Top Scholar Skills
+# Top Scholar-Derived Copy/Paste Skills
 
-This collection lists the scholar-derived skills currently filled in the repo.
+This collection indexes all generated scholar-derived research taste skills.
 
-The goal is not biography. The goal is to extract transferable research judgment from papers: question choice, empirical/theory tests, abstract/introduction framing, and critical scope conditions.
+Generated skill cards: **124**
 
-## Current Coverage
+Status: `draft-filled`; evidence links still need verification before `reviewed`.
 
-- Filled scholars: 33
-- Skill cards: 132
-- Economics-derived skills: 64
-- Finance-derived skills: 68
+## Economics
 
-## How These Skills Were Extracted
+### Abhijit Banerjee
+- [Use simple behavioral models to explain development puzzles](../skills/by-scholar/economists/abhijit-banerjee/use-simple-behavioral-models-to-explain-development-puzzles.md)
+- [Treat policy variation as a way to learn mechanisms](../skills/by-scholar/economists/abhijit-banerjee/treat-policy-variation-as-a-way-to-learn-mechanisms.md)
+- [Build theory from field-level institutional detail](../skills/by-scholar/economists/abhijit-banerjee/build-theory-from-field-level-institutional-detail.md)
 
-See:
+### Claudia Goldin
+- [Use history to explain long-run labor market change](../skills/by-scholar/economists/claudia-goldin/use-history-to-explain-long-run-labor-market-change.md)
+- [Turn descriptive patterns into deep institutional questions](../skills/by-scholar/economists/claudia-goldin/turn-descriptive-patterns-into-deep-institutional-questions.md)
+- [Combine narrative, measurement, and economics into one argument](../skills/by-scholar/economists/claudia-goldin/combine-narrative-measurement-and-economics-into-one-argument.md)
 
-- [How to Extract Research Taste from Scholar Papers](../01-train-your-taste-model/how-to-extract-scholar-taste-from-papers.md)
+### Daron Acemoglu
+- [Model institutions as causal systems](../skills/by-scholar/economists/daron-acemoglu/model-institutions-as-causal-systems.md)
+- [Turn historical variation into modern causal evidence](../skills/by-scholar/economists/daron-acemoglu/turn-historical-variation-into-modern-causal-evidence.md)
+- [Combine big questions with tractable empirical proxies](../skills/by-scholar/economists/daron-acemoglu/combine-big-questions-with-tractable-empirical-proxies.md)
+- [Use political economy mechanisms to explain economic outcomes](../skills/by-scholar/economists/daron-acemoglu/use-political-economy-mechanisms-to-explain-economic-outcomes.md)
 
-## Economics Scholar Skills
+### David Card
+- [Use natural experiments to challenge conventional wisdom](../skills/by-scholar/economists/david-card/use-natural-experiments-to-challenge-conventional-wisdom.md)
+- [Find comparison groups in real-world labor markets](../skills/by-scholar/economists/david-card/find-comparison-groups-in-real-world-labor-markets.md)
+- [Let transparent empirical design discipline controversial questions](../skills/by-scholar/economists/david-card/let-transparent-empirical-design-discipline-controversial-questions.md)
 
-- [Model institutions as causal systems](../skills/by-scholar/daron-acemoglu/model-institutions-as-causal-systems.md) — Daron Acemoglu
-- [Make big questions empirically tractable](../skills/by-scholar/daron-acemoglu/make-big-questions-empirically-tractable.md) — Daron Acemoglu
-- [Combine theory with historical or institutional evidence](../skills/by-scholar/daron-acemoglu/combine-theory-with-historical-or-institutional-evidence.md) — Daron Acemoglu
-- [Treat technology as distributional, not neutral](../skills/by-scholar/daron-acemoglu/treat-technology-as-distributional-not-neutral.md) — Daron Acemoglu
-- [State the comparison before the estimator](../skills/by-scholar/joshua-angrist/state-the-comparison-before-the-estimator.md) — Joshua Angrist
-- [Use instruments as research designs, not buttons](../skills/by-scholar/joshua-angrist/use-instruments-as-research-designs-not-buttons.md) — Joshua Angrist
-- [Make econometrics readable enough to audit](../skills/by-scholar/joshua-angrist/make-econometrics-readable-enough-to-audit.md) — Joshua Angrist
-- [Separate estimand from interpretation](../skills/by-scholar/joshua-angrist/separate-estimand-from-interpretation.md) — Joshua Angrist
-- [Define the estimand before estimation](../skills/by-scholar/guido-imbens/define-the-estimand-before-estimation.md) — Guido Imbens
-- [Treat design and analysis as separate steps](../skills/by-scholar/guido-imbens/treat-design-and-analysis-as-separate-steps.md) — Guido Imbens
-- [Make assumptions visible and test-adjacent](../skills/by-scholar/guido-imbens/make-assumptions-visible-and-test-adjacent.md) — Guido Imbens
-- [Use formalism to protect interpretation](../skills/by-scholar/guido-imbens/use-formalism-to-protect-interpretation.md) — Guido Imbens
-- [Turn policy questions into learning systems](../skills/by-scholar/esther-duflo/turn-policy-questions-into-learning-systems.md) — Esther Duflo
-- [Embed identification inside field reality](../skills/by-scholar/esther-duflo/embed-identification-inside-field-reality.md) — Esther Duflo
-- [Measure mechanisms, not just outcomes](../skills/by-scholar/esther-duflo/measure-mechanisms-not-just-outcomes.md) — Esther Duflo
-- [Write policy relevance without overclaiming](../skills/by-scholar/esther-duflo/write-policy-relevance-without-overclaiming.md) — Esther Duflo
-- [Build theory from micro details](../skills/by-scholar/abhijit-banerjee/build-theory-from-micro-details.md) — Abhijit Banerjee
-- [Treat low take-up as information](../skills/by-scholar/abhijit-banerjee/treat-low-take-up-as-information.md) — Abhijit Banerjee
-- [Convert policy complexity into behavioral mechanisms](../skills/by-scholar/abhijit-banerjee/convert-policy-complexity-into-behavioral-mechanisms.md) — Abhijit Banerjee
-- [Write accessible introductions with analytical bite](../skills/by-scholar/abhijit-banerjee/write-accessible-introductions-with-analytical-bite.md) — Abhijit Banerjee
-- [Find the externality in the policy problem](../skills/by-scholar/michael-kremer/find-the-externality-in-the-policy-problem.md) — Michael Kremer
-- [Turn bottlenecks into experimental design](../skills/by-scholar/michael-kremer/turn-bottlenecks-into-experimental-design.md) — Michael Kremer
-- [Model complementarity as a development force](../skills/by-scholar/michael-kremer/model-complementarity-as-a-development-force.md) — Michael Kremer
-- [Design for scalability early](../skills/by-scholar/michael-kremer/design-for-scalability-early.md) — Michael Kremer
-- [Use simple natural experiments to test big claims](../skills/by-scholar/david-card/use-simple-natural-experiments-to-test-big-claims.md) — David Card
-- [Privilege transparency over cleverness](../skills/by-scholar/david-card/privilege-transparency-over-cleverness.md) — David Card
-- [Take labor-market adjustment seriously](../skills/by-scholar/david-card/take-labor-market-adjustment-seriously.md) — David Card
-- [Write controversial results with design humility](../skills/by-scholar/david-card/write-controversial-results-with-design-humility.md) — David Card
-- [Use history to explain current frictions](../skills/by-scholar/claudia-goldin/use-history-to-explain-current-frictions.md) — Claudia Goldin
-- [Turn description into mechanism](../skills/by-scholar/claudia-goldin/turn-description-into-mechanism.md) — Claudia Goldin
-- [Make measurement part of the contribution](../skills/by-scholar/claudia-goldin/make-measurement-part-of-the-contribution.md) — Claudia Goldin
-- [Write with narrative discipline](../skills/by-scholar/claudia-goldin/write-with-narrative-discipline.md) — Claudia Goldin
-- [Turn big data into public scientific infrastructure](../skills/by-scholar/raj-chetty/turn-big-data-into-public-scientific-infrastructure.md) — Raj Chetty
-- [Validate descriptive facts before selling causal stories](../skills/by-scholar/raj-chetty/validate-descriptive-facts-before-selling-causal-stories.md) — Raj Chetty
-- [Use exposure gradients to learn mechanisms](../skills/by-scholar/raj-chetty/use-exposure-gradients-to-learn-mechanisms.md) — Raj Chetty
-- [Write for policy with measurement precision](../skills/by-scholar/raj-chetty/write-for-policy-with-measurement-precision.md) — Raj Chetty
-- [Use machine learning to target economic questions](../skills/by-scholar/susan-athey/use-machine-learning-to-target-economic-questions.md) — Susan Athey
-- [Turn platform design into testable economics](../skills/by-scholar/susan-athey/turn-platform-design-into-testable-economics.md) — Susan Athey
-- [Combine method innovation with applied payoff](../skills/by-scholar/susan-athey/combine-method-innovation-with-applied-payoff.md) — Susan Athey
-- [Audit algorithmic taste with economic structure](../skills/by-scholar/susan-athey/audit-algorithmic-taste-with-economic-structure.md) — Susan Athey
-- [Measure informational objects directly](../skills/by-scholar/matthew-gentzkow/measure-informational-objects-directly.md) — Matthew Gentzkow
-- [Connect content to incentives](../skills/by-scholar/matthew-gentzkow/connect-content-to-incentives.md) — Matthew Gentzkow
-- [Use text as data with economic purpose](../skills/by-scholar/matthew-gentzkow/use-text-as-data-with-economic-purpose.md) — Matthew Gentzkow
-- [Write methodological humility into measurement papers](../skills/by-scholar/matthew-gentzkow/write-methodological-humility-into-measurement-papers.md) — Matthew Gentzkow
-- [Make hidden organizational practices measurable](../skills/by-scholar/nicholas-bloom/make-hidden-organizational-practices-measurable.md) — Nicholas Bloom
-- [Use field experiments inside firms](../skills/by-scholar/nicholas-bloom/use-field-experiments-inside-firms.md) — Nicholas Bloom
-- [Treat management as technology](../skills/by-scholar/nicholas-bloom/treat-management-as-technology.md) — Nicholas Bloom
-- [Write practical measurement as high-status research](../skills/by-scholar/nicholas-bloom/write-practical-measurement-as-high-status-research.md) — Nicholas Bloom
-- [Connect elasticities to welfare](../skills/by-scholar/emmanuel-saez/connect-elasticities-to-welfare.md) — Emmanuel Saez
-- [Use administrative data to measure distribution](../skills/by-scholar/emmanuel-saez/use-administrative-data-to-measure-distribution.md) — Emmanuel Saez
-- [Use bunching as behavioral revealed preference](../skills/by-scholar/emmanuel-saez/use-bunching-as-behavioral-revealed-preference.md) — Emmanuel Saez
-- [Write policy relevance with distributional clarity](../skills/by-scholar/emmanuel-saez/write-policy-relevance-with-distributional-clarity.md) — Emmanuel Saez
-- [Measure hidden activity through accounting gaps](../skills/by-scholar/gabriel-zucman/measure-hidden-activity-through-accounting-gaps.md) — Gabriel Zucman
-- [Combine macro accounts with micro distribution](../skills/by-scholar/gabriel-zucman/combine-macro-accounts-with-micro-distribution.md) — Gabriel Zucman
-- [Turn data gaps into research questions](../skills/by-scholar/gabriel-zucman/turn-data-gaps-into-research-questions.md) — Gabriel Zucman
-- [Write measurement work as policy-relevant detective work](../skills/by-scholar/gabriel-zucman/write-measurement-work-as-policy-relevant-detective-work.md) — Gabriel Zucman
-- [Isolate the incentive constraint](../skills/by-scholar/jean-tirole/isolate-the-incentive-constraint.md) — Jean Tirole
-- [Use theory to design policy, not just explain](../skills/by-scholar/jean-tirole/use-theory-to-design-policy-not-just-explain.md) — Jean Tirole
-- [Turn complex industries into strategic games](../skills/by-scholar/jean-tirole/turn-complex-industries-into-strategic-games.md) — Jean Tirole
-- [Write theory introductions around a real institution](../skills/by-scholar/jean-tirole/write-theory-introductions-around-a-real-institution.md) — Jean Tirole
-- [Make selection the research object](../skills/by-scholar/james-heckman/make-selection-the-research-object.md) — James Heckman
-- [Treat treatment effects as heterogeneous](../skills/by-scholar/james-heckman/treat-treatment-effects-as-heterogeneous.md) — James Heckman
-- [Connect skills formation to dynamic complementarity](../skills/by-scholar/james-heckman/connect-skills-formation-to-dynamic-complementarity.md) — James Heckman
-- [Write methodological critique as substantive warning](../skills/by-scholar/james-heckman/write-methodological-critique-as-substantive-warning.md) — James Heckman
+### Edward Glaeser
+- [Treat cities as laboratories for economic mechanisms](../skills/by-scholar/economists/edward-glaeser/treat-cities-as-laboratories-for-economic-mechanisms.md)
+- [Use simple theory to organize spatial facts](../skills/by-scholar/economists/edward-glaeser/use-simple-theory-to-organize-spatial-facts.md)
+- [Connect institutions, geography, and human capital](../skills/by-scholar/economists/edward-glaeser/connect-institutions-geography-and-human-capital.md)
 
-## Finance Scholar Skills
+### Emmanuel Saez
+- [Use tax data to measure inequality and behavioral responses](../skills/by-scholar/economists/emmanuel-saez/use-tax-data-to-measure-inequality-and-behavioral-responses.md)
+- [Translate sufficient statistics into policy-relevant formulas](../skills/by-scholar/economists/emmanuel-saez/translate-sufficient-statistics-into-policy-relevant-formulas.md)
+- [Connect empirical public finance to welfare analysis](../skills/by-scholar/economists/emmanuel-saez/connect-empirical-public-finance-to-welfare-analysis.md)
 
-- [Turn market efficiency into a joint test](../skills/by-scholar/eugene-fama/turn-market-efficiency-into-a-joint-test.md) — Eugene Fama
-- [Use portfolios to reveal systematic patterns](../skills/by-scholar/eugene-fama/use-portfolios-to-reveal-systematic-patterns.md) — Eugene Fama
-- [Build benchmark models that organize debate](../skills/by-scholar/eugene-fama/build-benchmark-models-that-organize-debate.md) — Eugene Fama
-- [Write with evidentiary restraint](../skills/by-scholar/eugene-fama/write-with-evidentiary-restraint.md) — Eugene Fama
-- [Make research infrastructure reusable](../skills/by-scholar/kenneth-french/make-research-infrastructure-reusable.md) — Kenneth French
-- [Define factors by economic sorts, not black boxes](../skills/by-scholar/kenneth-french/define-factors-by-economic-sorts-not-black-boxes.md) — Kenneth French
-- [Use simple replication as a field standard](../skills/by-scholar/kenneth-french/use-simple-replication-as-a-field-standard.md) — Kenneth French
-- [Separate factor construction from factor interpretation](../skills/by-scholar/kenneth-french/separate-factor-construction-from-factor-interpretation.md) — Kenneth French
-- [Use prices to test expectations](../skills/by-scholar/robert-shiller/use-prices-to-test-expectations.md) — Robert Shiller
-- [Treat narratives as economic forces](../skills/by-scholar/robert-shiller/treat-narratives-as-economic-forces.md) — Robert Shiller
-- [Challenge benchmarks with simple contradictions](../skills/by-scholar/robert-shiller/challenge-benchmarks-with-simple-contradictions.md) — Robert Shiller
-- [Write for audience expansion without losing rigor](../skills/by-scholar/robert-shiller/write-for-audience-expansion-without-losing-rigor.md) — Robert Shiller
-- [Decompose prices before interpreting them](../skills/by-scholar/john-cochrane/decompose-prices-before-interpreting-them.md) — John Cochrane
-- [Make accounting identities do conceptual work](../skills/by-scholar/john-cochrane/make-accounting-identities-do-conceptual-work.md) — John Cochrane
-- [Connect finance models to economic mechanisms](../skills/by-scholar/john-cochrane/connect-finance-models-to-economic-mechanisms.md) — John Cochrane
-- [Write theory as clarifying discipline](../skills/by-scholar/john-cochrane/write-theory-as-clarifying-discipline.md) — John Cochrane
-- [Model variance as the object, not a nuisance](../skills/by-scholar/robert-engle/model-variance-as-the-object-not-a-nuisance.md) — Robert Engle
-- [Build econometrics from data features](../skills/by-scholar/robert-engle/build-econometrics-from-data-features.md) — Robert Engle
-- [Turn risk measurement into infrastructure](../skills/by-scholar/robert-engle/turn-risk-measurement-into-infrastructure.md) — Robert Engle
-- [Write technical contributions around a simple fact](../skills/by-scholar/robert-engle/write-technical-contributions-around-a-simple-fact.md) — Robert Engle
-- [Connect financial frictions to real outcomes](../skills/by-scholar/raghuram-rajan/connect-financial-frictions-to-real-outcomes.md) — Raghuram Rajan
-- [Use cross-country variation with institutional caution](../skills/by-scholar/raghuram-rajan/use-cross-country-variation-with-institutional-caution.md) — Raghuram Rajan
-- [Treat financial development as political economy](../skills/by-scholar/raghuram-rajan/treat-financial-development-as-political-economy.md) — Raghuram Rajan
-- [Write crisis arguments before the crisis is obvious](../skills/by-scholar/raghuram-rajan/write-crisis-arguments-before-the-crisis-is-obvious.md) — Raghuram Rajan
-- [Turn behavioral frictions into market equilibrium](../skills/by-scholar/andrei-shleifer/turn-behavioral-frictions-into-market-equilibrium.md) — Andrei Shleifer
-- [Use simple models to organize messy institutions](../skills/by-scholar/andrei-shleifer/use-simple-models-to-organize-messy-institutions.md) — Andrei Shleifer
-- [Explain why correction forces fail](../skills/by-scholar/andrei-shleifer/explain-why-correction-forces-fail.md) — Andrei Shleifer
-- [Write bold claims with a clear friction](../skills/by-scholar/andrei-shleifer/write-bold-claims-with-a-clear-friction.md) — Andrei Shleifer
-- [Connect corporate finance to institutions](../skills/by-scholar/luigi-zingales/connect-corporate-finance-to-institutions.md) — Luigi Zingales
-- [Ask who finance serves](../skills/by-scholar/luigi-zingales/ask-who-finance-serves.md) — Luigi Zingales
-- [Use cultural and trust mechanisms carefully](../skills/by-scholar/luigi-zingales/use-cultural-and-trust-mechanisms-carefully.md) — Luigi Zingales
-- [Write public-facing finance with academic backbone](../skills/by-scholar/luigi-zingales/write-public-facing-finance-with-academic-backbone.md) — Luigi Zingales
-- [Model amplification, not just shocks](../skills/by-scholar/markus-brunnermeier/model-amplification-not-just-shocks.md) — Markus Brunnermeier
-- [Separate market liquidity from funding liquidity](../skills/by-scholar/markus-brunnermeier/separate-market-liquidity-from-funding-liquidity.md) — Markus Brunnermeier
-- [Turn crisis narratives into state-variable models](../skills/by-scholar/markus-brunnermeier/turn-crisis-narratives-into-state-variable-models.md) — Markus Brunnermeier
-- [Write macro-finance as mechanism first](../skills/by-scholar/markus-brunnermeier/write-macro-finance-as-mechanism-first.md) — Markus Brunnermeier
-- [Treat multiple testing as a first-order threat](../skills/by-scholar/campbell-harvey/treat-multiple-testing-as-a-first-order-threat.md) — Campbell Harvey
-- [Use global evidence to test return claims](../skills/by-scholar/campbell-harvey/use-global-evidence-to-test-return-claims.md) — Campbell Harvey
-- [Connect empirical discovery to research ethics](../skills/by-scholar/campbell-harvey/connect-empirical-discovery-to-research-ethics.md) — Campbell Harvey
-- [Write finance results with survival tests](../skills/by-scholar/campbell-harvey/write-finance-results-with-survival-tests.md) — Campbell Harvey
-- [Turn lived experience into a state variable](../skills/by-scholar/ulrike-malmendier/turn-lived-experience-into-a-state-variable.md) — Ulrike Malmendier
-- [Measure bias through revealed decisions](../skills/by-scholar/ulrike-malmendier/measure-bias-through-revealed-decisions.md) — Ulrike Malmendier
-- [Connect behavioral finance to real decisions](../skills/by-scholar/ulrike-malmendier/connect-behavioral-finance-to-real-decisions.md) — Ulrike Malmendier
-- [Write behavioral mechanisms with rival explanations](../skills/by-scholar/ulrike-malmendier/write-behavioral-mechanisms-with-rival-explanations.md) — Ulrike Malmendier
-- [Challenge policy frameworks with global evidence](../skills/by-scholar/helene-rey/challenge-policy-frameworks-with-global-evidence.md) — Hélène Rey
-- [Treat risk appetite as an international state variable](../skills/by-scholar/helene-rey/treat-risk-appetite-as-an-international-state-variable.md) — Hélène Rey
-- [Use policy impossibility results as research motivation](../skills/by-scholar/helene-rey/use-policy-impossibility-results-as-research-motivation.md) — Hélène Rey
-- [Write international finance with clear transmission channels](../skills/by-scholar/helene-rey/write-international-finance-with-clear-transmission-channels.md) — Hélène Rey
-- [Measure systemic risk as marginal contribution](../skills/by-scholar/viral-acharya/measure-systemic-risk-as-marginal-contribution.md) — Viral Acharya
-- [Connect bank balance sheets to macro outcomes](../skills/by-scholar/viral-acharya/connect-bank-balance-sheets-to-macro-outcomes.md) — Viral Acharya
-- [Design regulation around externalities](../skills/by-scholar/viral-acharya/design-regulation-around-externalities.md) — Viral Acharya
-- [Write crisis papers with balance-sheet mechanics](../skills/by-scholar/viral-acharya/write-crisis-papers-with-balance-sheet-mechanics.md) — Viral Acharya
-- [Decompose return variation into economic news](../skills/by-scholar/john-campbell/decompose-return-variation-into-economic-news.md) — John Campbell
-- [Connect horizon to risk](../skills/by-scholar/john-campbell/connect-horizon-to-risk.md) — John Campbell
-- [Treat household mistakes as research objects](../skills/by-scholar/john-campbell/treat-household-mistakes-as-research-objects.md) — John Campbell
-- [Write finance with welfare interpretation](../skills/by-scholar/john-campbell/write-finance-with-welfare-interpretation.md) — John Campbell
-- [Identify the friction behind financial behavior](../skills/by-scholar/jeremy-stein/identify-the-friction-behind-financial-behavior.md) — Jeremy Stein
-- [Connect market prices to real corporate actions](../skills/by-scholar/jeremy-stein/connect-market-prices-to-real-corporate-actions.md) — Jeremy Stein
-- [Write simple theory for empirical finance](../skills/by-scholar/jeremy-stein/write-simple-theory-for-empirical-finance.md) — Jeremy Stein
-- [Frame financial stability as a policy tradeoff](../skills/by-scholar/jeremy-stein/frame-financial-stability-as-a-policy-tradeoff.md) — Jeremy Stein
-- [Discipline models with moment restrictions](../skills/by-scholar/lars-peter-hansen/discipline-models-with-moment-restrictions.md) — Lars Peter Hansen
-- [Treat model misspecification as normal](../skills/by-scholar/lars-peter-hansen/treat-model-misspecification-as-normal.md) — Lars Peter Hansen
-- [Connect econometrics to economic primitives](../skills/by-scholar/lars-peter-hansen/connect-econometrics-to-economic-primitives.md) — Lars Peter Hansen
-- [Write uncertainty as a core mechanism](../skills/by-scholar/lars-peter-hansen/write-uncertainty-as-a-core-mechanism.md) — Lars Peter Hansen
-- [Study financial decisions at the person level](../skills/by-scholar/antoinette-schoar/study-financial-decisions-at-the-person-level.md) — Antoinette Schoar
-- [Treat financial intermediation as advice and trust](../skills/by-scholar/antoinette-schoar/treat-financial-intermediation-as-advice-and-trust.md) — Antoinette Schoar
-- [Connect entrepreneurial finance to real capabilities](../skills/by-scholar/antoinette-schoar/connect-entrepreneurial-finance-to-real-capabilities.md) — Antoinette Schoar
-- [Write heterogeneity as the main result](../skills/by-scholar/antoinette-schoar/write-heterogeneity-as-the-main-result.md) — Antoinette Schoar
+### Esther Duflo
+- [Use field experiments as disciplined learning systems](../skills/by-scholar/economists/esther-duflo/use-field-experiments-as-disciplined-learning-systems.md)
+- [Turn policy questions into testable mechanisms](../skills/by-scholar/economists/esther-duflo/turn-policy-questions-into-testable-mechanisms.md)
+- [Build research designs around implementation details](../skills/by-scholar/economists/esther-duflo/build-research-designs-around-implementation-details.md)
 
-## Use Rule
+### Gabriel Zucman
+- [Measure hidden wealth using accounting inconsistencies](../skills/by-scholar/economists/gabriel-zucman/measure-hidden-wealth-using-accounting-inconsistencies.md)
+- [Turn macro-financial data gaps into research questions](../skills/by-scholar/economists/gabriel-zucman/turn-macro-financial-data-gaps-into-research-questions.md)
+- [Combine public finance, international finance, and distribution](../skills/by-scholar/economists/gabriel-zucman/combine-public-finance-international-finance-and-distribution.md)
 
-For every skill, ask:
+### Guido Imbens
+- [Formalize causal inference without losing applied intuition](../skills/by-scholar/economists/guido-imbens/formalize-causal-inference-without-losing-applied-intuition.md)
+- [Clarify what an estimand means before estimating it](../skills/by-scholar/economists/guido-imbens/clarify-what-an-estimand-means-before-estimating-it.md)
+- [Separate design-based credibility from modeling assumptions](../skills/by-scholar/economists/guido-imbens/separate-design-based-credibility-from-modeling-assumptions.md)
 
-```text
-Can I use this to develop a theory?
-Can I use this to test the theory?
-Can I state what would make the theory fail?
-Can I write the introduction so the contribution is clear but not overclaimed?
-```
+### James Heckman
+- [Treat selection as a central research object](../skills/by-scholar/economists/james-heckman/treat-selection-as-a-central-research-object.md)
+- [Link econometric structure to human capital mechanisms](../skills/by-scholar/economists/james-heckman/link-econometric-structure-to-human-capital-mechanisms.md)
+- [Think about treatment effects as heterogeneous and policy-specific](../skills/by-scholar/economists/james-heckman/think-about-treatment-effects-as-heterogeneous-and-policy-specific.md)
+
+### Jean Tirole
+- [Build models around incentives, information, and strategic constraints](../skills/by-scholar/economists/jean-tirole/build-models-around-incentives-information-and-strategic-constraints.md)
+- [Use theory to organize regulation and market design](../skills/by-scholar/economists/jean-tirole/use-theory-to-organize-regulation-and-market-design.md)
+- [Derive policy insight from mechanism-level reasoning](../skills/by-scholar/economists/jean-tirole/derive-policy-insight-from-mechanism-level-reasoning.md)
+
+### Joseph Stiglitz
+- [Treat information imperfections as first-order economic forces](../skills/by-scholar/economists/joseph-stiglitz/treat-information-imperfections-as-first-order-economic-forces.md)
+- [Use theory to challenge benchmark market-efficiency claims](../skills/by-scholar/economists/joseph-stiglitz/use-theory-to-challenge-benchmark-market-efficiency-claims.md)
+- [Connect micro frictions to macro and policy outcomes](../skills/by-scholar/economists/joseph-stiglitz/connect-micro-frictions-to-macro-and-policy-outcomes.md)
+
+### Joshua Angrist
+- [Turn messy policy variation into credible causal designs](../skills/by-scholar/economists/joshua-angrist/turn-messy-policy-variation-into-credible-causal-designs.md)
+- [Explain identification in plain language](../skills/by-scholar/economists/joshua-angrist/explain-identification-in-plain-language.md)
+- [Use instrumental variables as a design, not a ritual](../skills/by-scholar/economists/joshua-angrist/use-instrumental-variables-as-a-design-not-a-ritual.md)
+
+### Matthew Gentzkow
+- [Measure information, media, and persuasion from text and behavior](../skills/by-scholar/economists/matthew-gentzkow/measure-information-media-and-persuasion-from-text-and-behavior.md)
+- [Use structural and reduced-form tools to study communication markets](../skills/by-scholar/economists/matthew-gentzkow/use-structural-and-reduced-form-tools-to-study-communication-markets.md)
+- [Turn digitized content into economic evidence](../skills/by-scholar/economists/matthew-gentzkow/turn-digitized-content-into-economic-evidence.md)
+
+### Michael Kremer
+- [Design experiments around practical policy bottlenecks](../skills/by-scholar/economists/michael-kremer/design-experiments-around-practical-policy-bottlenecks.md)
+- [Use randomized evaluation to test scalable interventions](../skills/by-scholar/economists/michael-kremer/use-randomized-evaluation-to-test-scalable-interventions.md)
+- [Turn development constraints into researchable mechanisms](../skills/by-scholar/economists/michael-kremer/turn-development-constraints-into-researchable-mechanisms.md)
+
+### Nicholas Bloom
+- [Measure management as an economic variable](../skills/by-scholar/economists/nicholas-bloom/measure-management-as-an-economic-variable.md)
+- [Use surveys and experiments to study firms from the inside](../skills/by-scholar/economists/nicholas-bloom/use-surveys-and-experiments-to-study-firms-from-the-inside.md)
+- [Convert organizational practices into empirical objects](../skills/by-scholar/economists/nicholas-bloom/convert-organizational-practices-into-empirical-objects.md)
+
+### Paul Krugman
+- [Build simple models that change how a field sees a problem](../skills/by-scholar/economists/paul-krugman/build-simple-models-that-change-how-a-field-sees-a-problem.md)
+- [Use increasing returns and geography to explain trade patterns](../skills/by-scholar/economists/paul-krugman/use-increasing-returns-and-geography-to-explain-trade-patterns.md)
+- [Communicate technical ideas through sharp economic intuition](../skills/by-scholar/economists/paul-krugman/communicate-technical-ideas-through-sharp-economic-intuition.md)
+
+### Philippe Aghion
+- [Model growth as creative destruction](../skills/by-scholar/economists/philippe-aghion/model-growth-as-creative-destruction.md)
+- [Link innovation incentives to competition and institutions](../skills/by-scholar/economists/philippe-aghion/link-innovation-incentives-to-competition-and-institutions.md)
+- [Use theory and empirics together to study technological change](../skills/by-scholar/economists/philippe-aghion/use-theory-and-empirics-together-to-study-technological-change.md)
+
+### Raj Chetty
+- [Use administrative data to map opportunity at scale](../skills/by-scholar/economists/raj-chetty/use-administrative-data-to-map-opportunity-at-scale.md)
+- [Turn granular empirical facts into policy-relevant design](../skills/by-scholar/economists/raj-chetty/turn-granular-empirical-facts-into-policy-relevant-design.md)
+- [Make descriptive evidence causal through credible variation and validation](../skills/by-scholar/economists/raj-chetty/make-descriptive-evidence-causal-through-credible-variation-and-validation.md)
+
+### Sendhil Mullainathan
+- [Turn behavioral anomalies into research programs](../skills/by-scholar/economists/sendhil-mullainathan/turn-behavioral-anomalies-into-research-programs.md)
+- [Use prediction problems to reveal hidden structure](../skills/by-scholar/economists/sendhil-mullainathan/use-prediction-problems-to-reveal-hidden-structure.md)
+- [Connect psychology, data, and economic decision-making](../skills/by-scholar/economists/sendhil-mullainathan/connect-psychology-data-and-economic-decision-making.md)
+
+### Susan Athey
+- [Use machine learning to improve causal and policy analysis](../skills/by-scholar/economists/susan-athey/use-machine-learning-to-improve-causal-and-policy-analysis.md)
+- [Translate platform and market design problems into empirical questions](../skills/by-scholar/economists/susan-athey/translate-platform-and-market-design-problems-into-empirical-questions.md)
+- [Combine theory, computation, and causal inference](../skills/by-scholar/economists/susan-athey/combine-theory-computation-and-causal-inference.md)
+
+### Thomas Piketty
+- [Build long-run data to reopen old questions](../skills/by-scholar/economists/thomas-piketty/build-long-run-data-to-reopen-old-questions.md)
+- [Turn distributional history into macroeconomic evidence](../skills/by-scholar/economists/thomas-piketty/turn-distributional-history-into-macroeconomic-evidence.md)
+- [Use public-facing data infrastructure as part of research contribution](../skills/by-scholar/economists/thomas-piketty/use-public-facing-data-infrastructure-as-part-of-research-contribution.md)
+
+## Finance
+
+### Andrei Shleifer
+- [Turn behavioral limits into market-level implications](../skills/by-scholar/finance-scholars/andrei-shleifer/turn-behavioral-limits-into-market-level-implications.md)
+- [Use legal and institutional variation to study finance and growth](../skills/by-scholar/finance-scholars/andrei-shleifer/use-legal-and-institutional-variation-to-study-finance-and-growth.md)
+- [Build simple theories that explain broad empirical anomalies](../skills/by-scholar/finance-scholars/andrei-shleifer/build-simple-theories-that-explain-broad-empirical-anomalies.md)
+
+### Antoinette Schoar
+- [Study household and entrepreneurial finance through decision frictions](../skills/by-scholar/finance-scholars/antoinette-schoar/study-household-and-entrepreneurial-finance-through-decision-frictions.md)
+- [Use microdata to reveal financial behavior heterogeneity](../skills/by-scholar/finance-scholars/antoinette-schoar/use-microdata-to-reveal-financial-behavior-heterogeneity.md)
+- [Connect managerial traits, contracts, and firm outcomes](../skills/by-scholar/finance-scholars/antoinette-schoar/connect-managerial-traits-contracts-and-firm-outcomes.md)
+
+### Campbell Harvey
+- [Study expected returns through cross-sectional and global evidence](../skills/by-scholar/finance-scholars/campbell-harvey/study-expected-returns-through-cross-sectional-and-global-evidence.md)
+- [Treat multiple testing and p-hacking as central finance problems](../skills/by-scholar/finance-scholars/campbell-harvey/treat-multiple-testing-and-p-hacking-as-central-finance-problems.md)
+- [Build bridges between empirical finance and research credibility](../skills/by-scholar/finance-scholars/campbell-harvey/build-bridges-between-empirical-finance-and-research-credibility.md)
+
+### Darrell Duffie
+- [Use institutional detail to model over-the-counter markets](../skills/by-scholar/finance-scholars/darrell-duffie/use-institutional-detail-to-model-over-the-counter-markets.md)
+- [Translate market plumbing into asset pricing and policy implications](../skills/by-scholar/finance-scholars/darrell-duffie/translate-market-plumbing-into-asset-pricing-and-policy-implications.md)
+- [Treat financial market design as a research object](../skills/by-scholar/finance-scholars/darrell-duffie/treat-financial-market-design-as-a-research-object.md)
+
+### Eugene Fama
+- [Treat prices as disciplined summaries of information](../skills/by-scholar/finance-scholars/eugene-fama/treat-prices-as-disciplined-summaries-of-information.md)
+- [Convert market efficiency into testable implications](../skills/by-scholar/finance-scholars/eugene-fama/convert-market-efficiency-into-testable-implications.md)
+- [Use simple empirical regularities to organize an entire field](../skills/by-scholar/finance-scholars/eugene-fama/use-simple-empirical-regularities-to-organize-an-entire-field.md)
+
+### Harrison Hong
+- [Study disagreement, constraints, and market mispricing](../skills/by-scholar/finance-scholars/harrison-hong/study-disagreement-constraints-and-market-mispricing.md)
+- [Use social interaction and attention as finance mechanisms](../skills/by-scholar/finance-scholars/harrison-hong/use-social-interaction-and-attention-as-finance-mechanisms.md)
+- [Connect behavioral finance to limits of arbitrage](../skills/by-scholar/finance-scholars/harrison-hong/connect-behavioral-finance-to-limits-of-arbitrage.md)
+
+### Hélène Rey
+- [Treat global financial cycles as constraints on national policy](../skills/by-scholar/finance-scholars/helene-rey/treat-global-financial-cycles-as-constraints-on-national-policy.md)
+- [Connect capital flows, exchange rates, and risk appetite](../skills/by-scholar/finance-scholars/helene-rey/connect-capital-flows-exchange-rates-and-risk-appetite.md)
+- [Use international finance facts to challenge policy trilemmas](../skills/by-scholar/finance-scholars/helene-rey/use-international-finance-facts-to-challenge-policy-trilemmas.md)
+
+### Jeremy Stein
+- [Link corporate finance frictions to macro-financial outcomes](../skills/by-scholar/finance-scholars/jeremy-stein/link-corporate-finance-frictions-to-macro-financial-outcomes.md)
+- [Use simple models to connect financial constraints and behavior](../skills/by-scholar/finance-scholars/jeremy-stein/use-simple-models-to-connect-financial-constraints-and-behavior.md)
+- [Treat investor sentiment as a force with real effects](../skills/by-scholar/finance-scholars/jeremy-stein/treat-investor-sentiment-as-a-force-with-real-effects.md)
+
+### John Campbell
+- [Decompose asset prices into interpretable economic components](../skills/by-scholar/finance-scholars/john-campbell/decompose-asset-prices-into-interpretable-economic-components.md)
+- [Connect household finance decisions to asset pricing and welfare](../skills/by-scholar/finance-scholars/john-campbell/connect-household-finance-decisions-to-asset-pricing-and-welfare.md)
+- [Use long-run return predictability as a window into risk and beliefs](../skills/by-scholar/finance-scholars/john-campbell/use-long-run-return-predictability-as-a-window-into-risk-and-beliefs.md)
+
+### John Cochrane
+- [Use asset pricing theory as a unifying language](../skills/by-scholar/finance-scholars/john-cochrane/use-asset-pricing-theory-as-a-unifying-language.md)
+- [Translate discount rates into economic mechanisms](../skills/by-scholar/finance-scholars/john-cochrane/translate-discount-rates-into-economic-mechanisms.md)
+- [Explain complex finance models through disciplined intuition](../skills/by-scholar/finance-scholars/john-cochrane/explain-complex-finance-models-through-disciplined-intuition.md)
+
+### Kenneth French
+- [Turn factor construction into reusable research infrastructure](../skills/by-scholar/finance-scholars/kenneth-french/turn-factor-construction-into-reusable-research-infrastructure.md)
+- [Use portfolio sorts to reveal systematic return patterns](../skills/by-scholar/finance-scholars/kenneth-french/use-portfolio-sorts-to-reveal-systematic-return-patterns.md)
+- [Make data tools part of the scientific contribution](../skills/by-scholar/finance-scholars/kenneth-french/make-data-tools-part-of-the-scientific-contribution.md)
+
+### Lars Peter Hansen
+- [Use moment restrictions to discipline economic models](../skills/by-scholar/finance-scholars/lars-peter-hansen/use-moment-restrictions-to-discipline-economic-models.md)
+- [Treat uncertainty and robustness as research objects](../skills/by-scholar/finance-scholars/lars-peter-hansen/treat-uncertainty-and-robustness-as-research-objects.md)
+- [Connect econometric methods to asset pricing and macro-finance](../skills/by-scholar/finance-scholars/lars-peter-hansen/connect-econometric-methods-to-asset-pricing-and-macro-finance.md)
+
+### Luigi Zingales
+- [Connect corporate finance to institutions and politics](../skills/by-scholar/finance-scholars/luigi-zingales/connect-corporate-finance-to-institutions-and-politics.md)
+- [Use cross-country variation to study financial development](../skills/by-scholar/finance-scholars/luigi-zingales/use-cross-country-variation-to-study-financial-development.md)
+- [Treat trust, governance, and culture as economic mechanisms](../skills/by-scholar/finance-scholars/luigi-zingales/treat-trust-governance-and-culture-as-economic-mechanisms.md)
+
+### Markus Brunnermeier
+- [Model financial fragility as endogenous amplification](../skills/by-scholar/finance-scholars/markus-brunnermeier/model-financial-fragility-as-endogenous-amplification.md)
+- [Treat liquidity and leverage as dynamic state variables](../skills/by-scholar/finance-scholars/markus-brunnermeier/treat-liquidity-and-leverage-as-dynamic-state-variables.md)
+- [Connect micro frictions to systemic risk](../skills/by-scholar/finance-scholars/markus-brunnermeier/connect-micro-frictions-to-systemic-risk.md)
+
+### Raghuram Rajan
+- [Connect financial development to real economic outcomes](../skills/by-scholar/finance-scholars/raghuram-rajan/connect-financial-development-to-real-economic-outcomes.md)
+- [Treat banks and intermediaries as macro-relevant institutions](../skills/by-scholar/finance-scholars/raghuram-rajan/treat-banks-and-intermediaries-as-macro-relevant-institutions.md)
+- [Use institutional detail to understand crises and fragility](../skills/by-scholar/finance-scholars/raghuram-rajan/use-institutional-detail-to-understand-crises-and-fragility.md)
+
+### Robert Engle
+- [Model volatility as a dynamic economic object](../skills/by-scholar/finance-scholars/robert-engle/model-volatility-as-a-dynamic-economic-object.md)
+- [Build econometric tools from observed market behavior](../skills/by-scholar/finance-scholars/robert-engle/build-econometric-tools-from-observed-market-behavior.md)
+- [Turn risk measurement into research infrastructure](../skills/by-scholar/finance-scholars/robert-engle/turn-risk-measurement-into-research-infrastructure.md)
+
+### Robert Shiller
+- [Use prices to test narratives, expectations, and excess volatility](../skills/by-scholar/finance-scholars/robert-shiller/use-prices-to-test-narratives-expectations-and-excess-volatility.md)
+- [Connect behavioral finance to macro-financial history](../skills/by-scholar/finance-scholars/robert-shiller/connect-behavioral-finance-to-macro-financial-history.md)
+- [Build public datasets that make big claims testable](../skills/by-scholar/finance-scholars/robert-shiller/build-public-datasets-that-make-big-claims-testable.md)
+
+### Ulrike Malmendier
+- [Turn life experience into an economic state variable](../skills/by-scholar/finance-scholars/ulrike-malmendier/turn-life-experience-into-an-economic-state-variable.md)
+- [Measure behavioral biases in corporate and household decisions](../skills/by-scholar/finance-scholars/ulrike-malmendier/measure-behavioral-biases-in-corporate-and-household-decisions.md)
+- [Link psychology, memory, and financial choice](../skills/by-scholar/finance-scholars/ulrike-malmendier/link-psychology-memory-and-financial-choice.md)
+
+### Viral Acharya
+- [Measure systemic risk through bank behavior and market signals](../skills/by-scholar/finance-scholars/viral-acharya/measure-systemic-risk-through-bank-behavior-and-market-signals.md)
+- [Connect credit frictions to macroeconomic outcomes](../skills/by-scholar/finance-scholars/viral-acharya/connect-credit-frictions-to-macroeconomic-outcomes.md)
+- [Use crisis episodes to identify financial mechanisms](../skills/by-scholar/finance-scholars/viral-acharya/use-crisis-episodes-to-identify-financial-mechanisms.md)

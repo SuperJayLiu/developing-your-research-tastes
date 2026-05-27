@@ -1,32 +1,59 @@
-# Finance Scholars
+# Finance Scholars: Skill Generation Progress
 
-One page per scholar. Each page extracts reusable research skills.
+This folder tracks scholar-derived research taste pages for **finance scholars**.
 
-- [Andrei Shleifer](andrei-shleifer.md) — `ready-to-draft`
-- [Antoinette Schoar](antoinette-schoar.md) — `ready-to-draft`
-- [Campbell Harvey](campbell-harvey.md) — `ready-to-draft`
-- [Darrell Duffie](darrell-duffie.md) — `ready-to-draft`
-- [Douglas Diamond](douglas-diamond.md) — `partial`
-- [Eugene Fama](eugene-fama.md) — `ready-to-draft`
-- [Fischer Black](fischer-black.md) — `unfinished-upload-needed`
-- [Franco Modigliani](franco-modigliani.md) — `unfinished-upload-needed`
-- [Harrison Hong](harrison-hong.md) — `ready-to-draft`
-- [Hélène Rey](helene-rey.md) — `ready-to-draft`
-- [Jeremy Stein](jeremy-stein.md) — `ready-to-draft`
-- [John Campbell](john-campbell.md) — `ready-to-draft`
-- [John Cochrane](john-cochrane.md) — `ready-to-draft`
-- [Kenneth French](kenneth-french.md) — `ready-to-draft`
-- [Lars Peter Hansen](lars-peter-hansen.md) — `ready-to-draft`
-- [Luigi Zingales](luigi-zingales.md) — `ready-to-draft`
-- [Markus Brunnermeier](markus-brunnermeier.md) — `ready-to-draft`
-- [Merton Miller](merton-miller.md) — `unfinished-upload-needed`
-- [Michael Jensen](michael-jensen.md) — `partial`
-- [Myron Scholes](myron-scholes.md) — `unfinished-upload-needed`
-- [Philip Dybvig](philip-dybvig.md) — `partial`
-- [Raghuram Rajan](raghuram-rajan.md) — `ready-to-draft`
-- [Robert Engle](robert-engle.md) — `ready-to-draft`
-- [Robert Merton](robert-merton.md) — `partial`
-- [Robert Shiller](robert-shiller.md) — `ready-to-draft`
-- [Stewart Myers](stewart-myers.md) — `unfinished-upload-needed`
-- [Ulrike Malmendier](ulrike-malmendier.md) — `ready-to-draft`
-- [Viral Acharya](viral-acharya.md) — `ready-to-draft`
+## Progress Summary
+
+| Metric | Count |
+|---|---:|
+| Ready-to-draft scholars | 19 |
+| Partial scholars | 4 |
+| Upload-needed scholars | 5 |
+| Copy/paste skill cards generated | 57 |
+
+## Scholar Table
+
+| Scholar | Status | Copy/Paste Skill Cards | Confidence |
+|---|---:|---:|---:|
+| Andrei Shleifer | `ready-to-draft` | 3 | `high` |
+| Antoinette Schoar | `ready-to-draft` | 3 | `high` |
+| Campbell Harvey | `ready-to-draft` | 3 | `high` |
+| Darrell Duffie | `ready-to-draft` | 3 | `medium` |
+| Douglas Diamond | `partial` | 0 | `medium` |
+| Eugene Fama | `ready-to-draft` | 3 | `medium` |
+| Fischer Black | `unfinished-upload-needed` | 0 | `low` |
+| Franco Modigliani | `unfinished-upload-needed` | 0 | `low` |
+| Harrison Hong | `ready-to-draft` | 3 | `medium` |
+| Hélène Rey | `ready-to-draft` | 3 | `high` |
+| Jeremy Stein | `ready-to-draft` | 3 | `medium` |
+| John Campbell | `ready-to-draft` | 3 | `medium` |
+| John Cochrane | `ready-to-draft` | 3 | `high` |
+| Kenneth French | `ready-to-draft` | 3 | `high` |
+| Lars Peter Hansen | `ready-to-draft` | 3 | `medium` |
+| Luigi Zingales | `ready-to-draft` | 3 | `high` |
+| Markus Brunnermeier | `ready-to-draft` | 3 | `high` |
+| Merton Miller | `unfinished-upload-needed` | 0 | `low` |
+| Michael Jensen | `partial` | 0 | `medium` |
+| Myron Scholes | `unfinished-upload-needed` | 0 | `low` |
+| Philip Dybvig | `partial` | 0 | `low` |
+| Raghuram Rajan | `ready-to-draft` | 3 | `high` |
+| Robert Engle | `ready-to-draft` | 3 | `medium` |
+| Robert Merton | `partial` | 0 | `medium` |
+| Robert Shiller | `ready-to-draft` | 3 | `high` |
+| Stewart Myers | `unfinished-upload-needed` | 0 | `low` |
+| Ulrike Malmendier | `ready-to-draft` | 3 | `high` |
+| Viral Acharya | `ready-to-draft` | 3 | `high` |
+
+## Standard for a Generated Skill
+
+A generated scholar skill must be:
+
+1. **Copy/paste usable** — the card includes a direct research move and a self-review prompt.
+2. **Generalisable** — it teaches a transferable judgment, not a narrow topic.
+3. **Justifiable** — it names evidence anchors from papers or public research materials.
+4. **Critical** — it states when the skill becomes bad taste or overclaiming.
+5. **Extracted from paper structure** — question choice, test, mechanism, abstract/introduction framing, and limitations.
+
+## Next Step
+
+Add verified links, uploaded PDFs, and page-level notes before changing any scholar or skill card from `draft-filled` to `reviewed`.

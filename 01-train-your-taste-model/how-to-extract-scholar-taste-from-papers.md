@@ -1,192 +1,90 @@
-# How to Extract Research Taste from Scholar Papers
+# How to Extract Scholar Taste from Papers
 
-This repo treats research taste as an observable pattern, not a personality trait.
+This file documents the method used to turn top scholars' papers into reusable research skills.
 
-A scholar's taste should be extracted from repeated choices in papers:
+The goal is not biography and not paper summary. The goal is to extract a **copyable research judgment**.
 
-```text
-question choice
-    → model or empirical design
-    → test or falsification logic
-    → writing/framing move
-    → transferable skill
-    → critical boundary
-```
+## The Four-Trace Method
 
-## The Four-Part Extraction Lens
+For each scholar, read across multiple papers and look for four observable traces.
 
-### 1. Question taste
+### 1. Question Choice
 
 Ask:
 
-- What kinds of questions does this scholar repeatedly choose?
-- Are the questions about anomalies, mechanisms, institutions, measurement, theory, policy, or markets?
-- What makes the question important rather than merely clever?
+- What kind of puzzle does this scholar repeatedly treat as important?
+- Is the question about a fact, a mechanism, a market failure, a policy, a model, or a measurement gap?
+- What makes the question larger than the specific setting?
+
+### 2. Empirical or Theoretical Test
+
+Ask:
+
+- What does the paper actually test, estimate, compare, model, or rule out?
+- What would have made the theory or mechanism look wrong?
+- Is the test strong enough for the claim made in the abstract and introduction?
+
+### 3. Mechanism Discipline
+
+Ask:
+
+- Is the mechanism separable from competing explanations?
+- Does the paper provide a model, design, decomposition, experiment, or empirical pattern that isolates the mechanism?
+- What alternative explanation remains plausible?
+
+### 4. Abstract and Introduction Framing
+
+Ask:
+
+- How does the abstract move from puzzle to method to contribution?
+- How does the introduction explain why the setting is informative?
+- What does the paper claim, and what does it avoid claiming?
+
+## Turning Taste into a Copy/Paste Skill
+
+A scholar-derived skill should have this form:
+
+```text
+Use this skill when I am designing or evaluating a project:
+
+1. Start with the setting where the puzzle appears.
+2. State the mechanism in one sentence: X affects Y because Z.
+3. Name the closest alternative explanation.
+4. Write the empirical or theoretical test that distinguishes the two.
+5. In the introduction, claim only what the test supports.
+6. Explain what the result teaches beyond the setting.
+```
+
+## What Makes a Good Scholar-Derived Skill
+
+A good skill is:
+
+- **Generalisable:** it can travel beyond the original paper.
+- **Justifiable:** it is anchored in paper evidence.
+- **Critical:** it explains when the move fails or becomes overclaiming.
+- **Operational:** a user can paste it into a project memo or AI prompt.
+- **Non-biographical:** it extracts judgment, not admiration.
+
+## What to Avoid
 
 Bad extraction:
 
-> This scholar studies labor markets.
+```text
+This scholar studies institutions, so I should study institutions too.
+```
 
 Better extraction:
 
-> This scholar repeatedly chooses labor-market settings where a transparent institutional shock can test a controversial causal claim.
-
-### 2. Design or theory taste
-
-Ask:
-
-- What kind of empirical design, model, or measurement move makes the question answerable?
-- Does the paper rely on institutional variation, a benchmark model, a field experiment, a historical comparison, portfolio sorts, structural restrictions, or a new dataset?
-- Why is this design/model a judgment choice rather than just a technique?
-
-Bad extraction:
-
-> This paper uses IV.
-
-Better extraction:
-
-> The paper uses an institutionally interpretable instrument and clearly states the complier group, so the method disciplines the causal claim.
-
-### 3. Testing taste
-
-Ask:
-
-- What does the paper need to show for the claim to be believable?
-- What alternative mechanisms are ruled out?
-- What result would make the theory weaker?
-- Does the paper test mechanisms, boundary conditions, heterogeneity, or only the main effect?
-
-Good taste usually includes a clear failure condition.
-
-### 4. Writing taste
-
-Read the abstract and introduction carefully.
-
-Ask:
-
-- How does the paper make the reader care?
-- How quickly does it move from broad motivation to exact contribution?
-- Does the introduction state the puzzle, mechanism, design, and contribution?
-- Does it overclaim relative to the evidence?
-
-A good introduction often has this structure:
-
 ```text
-Important phenomenon
-    → unresolved puzzle
-    → mechanism or design opportunity
-    → evidence/model
-    → contribution
-    → scope and limits
+This scholar turns institutional variation into a mechanism-level causal test. I can copy that move by asking what rule, threshold, or historical constraint creates variation in my own setting.
 ```
 
-## The Skill Extraction Formula
+## Review Standard
 
-Use this sentence:
+A skill card should stay `draft-filled` until it has:
 
-```text
-This scholar teaches the skill of [research move] by using [design/model/test] to show [mechanism], while limiting the claim to [scope condition].
-```
-
-Example:
-
-```text
-This scholar teaches the skill of turning historical institutions into causal systems by using historically grounded variation to test whether institutional differences persistently affect economic outcomes, while limiting the claim to settings where rival geographic and selection channels can be addressed.
-```
-
-## Critical Standards
-
-A skill is only useful if it is:
-
-### Generalisable
-
-It can be applied outside the original paper's topic.
-
-### Justifiable
-
-It is grounded in observable patterns across papers, not vague admiration.
-
-### Critical
-
-It includes boundaries, failure modes, and common overextensions.
-
-## What Not to Do
-
-Do not extract taste like this:
-
-- "Use RCTs."
-- "Study finance."
-- "Write clearly."
-- "Use big data."
-- "Be like Fama."
-- "Be like Acemoglu."
-
-Extract taste like this:
-
-- "Use field experiments as learning systems, not only evaluation devices."
-- "Treat prices as model-dependent tests of information, risk, and mispricing."
-- "Turn institutional details into causal variation."
-- "Make measurement infrastructure part of the contribution."
-- "Separate the factor construction from the factor interpretation."
-
-## Paper-Level Worksheet
-
-For every paper, fill this in:
-
-```markdown
-# Paper Taste Extraction
-
-## Paper
-
-## Scholar
-
-## Broad question
-
-## Exact research question
-
-## Mechanism
-
-## Design or model
-
-## What is tested?
-
-## What would weaken the claim?
-
-## Abstract/introduction move
-
-## Skill extracted
-
-## Why the skill generalises
-
-## Critical boundary
-
-## Practice exercise
-```
-
-## Scholar-Level Worksheet
-
-After reading 3 to 5 papers by one scholar, fill this in:
-
-```markdown
-# Scholar Taste Extraction
-
-## Repeated question pattern
-
-## Repeated design/model pattern
-
-## Repeated testing pattern
-
-## Repeated writing/framing pattern
-
-## Skill 1
-
-## Skill 2
-
-## Skill 3
-
-## Skill 4
-
-## What not to copy
-
-## What needs uploaded evidence before further extraction
-```
+1. at least two verified paper links or uploaded PDFs;
+2. a clear statement of what the papers test;
+3. an abstract/introduction framing note;
+4. a critical boundary;
+5. a copy/paste prompt or checklist.

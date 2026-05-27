@@ -2,55 +2,56 @@
 title: "Philippe Aghion"
 type: "scholar-profile"
 field: ["economics"]
-status: "unfinished-upload-needed"
-open_access_status: "unfinished-upload-needed"
-open_access_confidence: "low"
-primary_skill_clusters: []
-representative_papers: []
-related_skills: []
+status: "draft-filled"
+open_access_status: "ready-to-draft"
+open_access_confidence: "medium"
+skill_cards_generated: 3
 related_collections: ["top-scholar-skills"]
-tags: ["upload-needed", "economics", "scholar-derived-skill"]
 ---
 
 # Philippe Aghion
 
-## Status
+## One-Sentence Research Taste
 
-- Page status: `unfinished-upload-needed`
-- Reason: this scholar is important, but I did not fill this page in the first audited batch.
-- Next action: upload canonical papers, author CV, lecture notes, or preferred paper list before converting this page into skill cards.
+This page extracts reusable research taste from Philippe Aghion: how the scholar selects questions, builds mechanisms or designs, tests claims, and frames the contribution in abstracts and introductions.
 
-## Why This Page Is Reserved
+## Generated Copy/Paste Skill Cards
 
-The goal of this repo is not to write generic praise for famous scholars. A scholar page should extract research taste from observable evidence:
+- [Model growth as creative destruction](../../skills/by-scholar/economists/philippe-aghion/model-growth-as-creative-destruction.md)
+- [Link innovation incentives to competition and institutions](../../skills/by-scholar/economists/philippe-aghion/link-innovation-incentives-to-competition-and-institutions.md)
+- [Use theory and empirics together to study technological change](../../skills/by-scholar/economists/philippe-aghion/use-theory-and-empirics-together-to-study-technological-change.md)
 
-1. the questions the scholar repeatedly asks,
-2. the empirical or theoretical tests they use,
-3. the way their abstracts and introductions frame contribution,
-4. the limits and scope conditions of the research move.
+## How These Skills Were Extracted
 
-Until there is enough material to audit those patterns, this page stays unfinished.
+The extraction uses four traces from papers:
 
-## Skill 1: Upload-needed skill extraction placeholder
+1. **Question choice** — what kind of puzzle the scholar treats as important.
+2. **Empirical/theoretical test** — what the paper actually tests, rules out, estimates, or formalizes.
+3. **Mechanism discipline** — whether the paper makes the mechanism separable from alternative explanations.
+4. **Abstract/introduction framing** — how the paper moves from puzzle to contribution without overclaiming.
 
-### What to upload
+## Representative Evidence Anchors to Verify
 
-- 3 to 5 representative papers.
-- Any open working paper versions if available.
-- A CV or publication list if you want a broader profile.
-- Notes on which papers matter most for your own field.
+- A Model of Growth Through Creative Destruction
+- Competition and Innovation: An Inverted-U Relationship
+- Endogenous Growth Theory
 
-### Extraction task after upload
+## What This Scholar Teaches About Taste
 
-For each uploaded paper, extract:
+The main transferable lesson is not a topic but a research move. A user should read this scholar to learn how to make a question sharper, a mechanism more testable, and an introduction more honest about what the evidence can support.
 
-- the main question,
-- the mechanism,
-- the empirical or theoretical test,
-- the introduction/abstract framing move,
-- the transferable skill,
-- the critical boundary.
+## Critical Boundary
 
-## Upload Needed
+Do not copy the scholar's topic mechanically. Good imitation means copying the **structure of judgment**: question → mechanism → test → contribution → limitation.
 
-Add PDFs or links before marking this page as `draft-filled`.
+
+## Skill Card Status
+
+This page tracks scholar-level skill extraction. Detailed copy/paste skill cards are generated in `skills/by-scholar/` when the scholar is ready-to-draft.
+
+## Progress
+
+- Scholar status: `draft-filled`
+- Copy/paste skill cards generated: **3**
+- Evidence links/PDF citations: `to-verify`
+- Review status: `not-reviewed`

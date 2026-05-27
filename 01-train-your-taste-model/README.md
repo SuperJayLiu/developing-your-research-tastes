@@ -26,8 +26,3 @@ Read → Extract Skill → Build Theory → Derive Predictions → Test → Upda
 - [Taste model scorecard](taste-model-scorecard.md)
 - [Taste training exercises](taste-training-exercises.md)
 - [Personal taste log template](personal-taste-log-template.md)
-
-
-## New in this section
-
-- [How to Extract Research Taste from Scholar Papers](how-to-extract-scholar-taste-from-papers.md)

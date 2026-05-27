@@ -1,60 +1,44 @@
-# Scholar-Derived Skills
+# Copy/Paste Skills by Scholar
 
-This folder contains skill cards extracted from top economics and finance scholars.
+This folder contains one copy/paste skill-card set per top scholar.
 
-Current filled batch:
+The skill cards are generated only for scholars marked `ready-to-draft`. Scholars marked `partial` or `unfinished-upload-needed` remain in the scholar registry until papers are uploaded or linked.
 
-- Filled scholars: 33
-- Skill cards: 132
+## Current Progress
 
-Each skill card is written to be:
+| Group | Ready Scholars | Partial | Upload Needed | Copy/Paste Skill Cards |
+|---|---:|---:|---:|---:|
+| Economists | 22 | 4 | 0 | 67 |
+| Finance scholars | 19 | 4 | 5 | 57 |
+| **Total** | 41 | 8 | 5 | 124 |
 
-1. **Generalisable**: useful outside the original paper topic.
-2. **Justifiable**: grounded in papers, tests, and writing patterns.
-3. **Critical**: includes boundaries and failure modes.
+## How to Use a Skill Card
 
-## How to Read a Skill Card
+Each card contains:
 
-Each card asks:
+- a **Copy/Paste Research Skill**;
+- a **Copy/Paste AI / Self-Review Prompt**;
+- evidence anchors;
+- extraction notes from paper tests and abstract/introduction framing;
+- a critical boundary;
+- a mini exercise.
 
-- What is the transferable research move?
-- Which papers anchor the extraction?
-- What empirical or theoretical tests support the move?
-- How do the abstract and introduction frame the contribution?
-- When does the skill fail?
+Use the card directly when developing a research idea, reviewing a draft, preparing a seminar presentation, or deciding whether a project has enough taste to continue.
 
-## Index by Scholar
+## Folder Layout
 
-- [Daron Acemoglu](daron-acemoglu/)
-- [Joshua Angrist](joshua-angrist/)
-- [Guido Imbens](guido-imbens/)
-- [Esther Duflo](esther-duflo/)
-- [Abhijit Banerjee](abhijit-banerjee/)
-- [Michael Kremer](michael-kremer/)
-- [David Card](david-card/)
-- [Claudia Goldin](claudia-goldin/)
-- [Raj Chetty](raj-chetty/)
-- [Susan Athey](susan-athey/)
-- [Matthew Gentzkow](matthew-gentzkow/)
-- [Nicholas Bloom](nicholas-bloom/)
-- [Emmanuel Saez](emmanuel-saez/)
-- [Gabriel Zucman](gabriel-zucman/)
-- [Eugene Fama](eugene-fama/)
-- [Kenneth French](kenneth-french/)
-- [Robert Shiller](robert-shiller/)
-- [John Cochrane](john-cochrane/)
-- [Robert Engle](robert-engle/)
-- [Raghuram Rajan](raghuram-rajan/)
-- [Andrei Shleifer](andrei-shleifer/)
-- [Luigi Zingales](luigi-zingales/)
-- [Markus Brunnermeier](markus-brunnermeier/)
-- [Campbell Harvey](campbell-harvey/)
-- [Ulrike Malmendier](ulrike-malmendier/)
-- [Hélène Rey](helene-rey/)
-- [Viral Acharya](viral-acharya/)
-- [John Campbell](john-campbell/)
-- [Jeremy Stein](jeremy-stein/)
-- [Jean Tirole](jean-tirole/)
-- [James Heckman](james-heckman/)
-- [Lars Peter Hansen](lars-peter-hansen/)
-- [Antoinette Schoar](antoinette-schoar/)
+```text
+skills/by-scholar/
+├── economists/
+│   └── scholar-name/
+│       ├── README.md
+│       └── skill-card.md
+└── finance-scholars/
+    └── scholar-name/
+        ├── README.md
+        └── skill-card.md
+```
+
+## Review Rule
+
+Do not mark a generated card as `reviewed` until the evidence anchors have been replaced or supplemented with verified links, uploaded PDFs, or exact citations.

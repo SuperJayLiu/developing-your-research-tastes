@@ -1,9 +1,17 @@
-# Nobel Laureates
+# Nobel Laureates: Skill Generation Progress
 
-Use this folder for Nobel-specific research taste pages and cross-scholar skill maps.
+This folder will track Nobel-laureate-specific research taste pages.
 
-Suggested files:
+Current approach:
 
-- `nobel-skill-map.md`
-- `nobel-econ-taste-patterns.md`
-- one page per laureate when the evidence is sufficient.
+- Nobel laureates who are already represented under `economists/` or `finance-scholars/` are first handled in those field folders.
+- A separate Nobel page should be created only when the page extracts Nobel-specific taste, such as how the prize contribution reorganized a field.
+- Upload or link Nobel lectures and canonical papers before marking Nobel-specific pages as `reviewed`.
+
+## Progress
+
+| Type | Status |
+|---|---|
+| Field scholar pages | in progress |
+| Nobel-specific synthesis pages | planned |
+| Verified Nobel lecture links | needed |

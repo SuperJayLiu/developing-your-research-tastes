@@ -5,52 +5,26 @@ field: ["finance"]
 status: "unfinished-upload-needed"
 open_access_status: "unfinished-upload-needed"
 open_access_confidence: "low"
-primary_skill_clusters: []
-representative_papers: []
-related_skills: []
-related_collections: ["top-scholar-skills"]
-tags: ["upload-needed", "finance", "scholar-derived-skill"]
+skill_cards_generated: 0
 ---
 
 # Myron Scholes
 
 ## Status
 
-- Page status: `unfinished-upload-needed`
-- Reason: this scholar is important, but I did not fill this page in the first audited batch.
-- Next action: upload canonical papers, author CV, lecture notes, or preferred paper list before converting this page into skill cards.
+This page is intentionally unfinished. The scholar is important, but I should not generate detailed copy/paste skills until you upload or link the canonical papers.
 
-## Why This Page Is Reserved
+## Candidate Skills
 
-The goal of this repo is not to write generic praise for famous scholars. A scholar page should extract research taste from observable evidence:
+- Convert derivative pricing into a no-arbitrage design
+- Use continuous-time reasoning to simplify valuation
+- Build pricing tools that reshape practice
 
-1. the questions the scholar repeatedly asks,
-2. the empirical or theoretical tests they use,
-3. the way their abstracts and introductions frame contribution,
-4. the limits and scope conditions of the research move.
 
-Until there is enough material to audit those patterns, this page stays unfinished.
+## Skill Card Status
 
-## Skill 1: Upload-needed skill extraction placeholder
-
-### What to upload
-
-- 3 to 5 representative papers.
-- Any open working paper versions if available.
-- A CV or publication list if you want a broader profile.
-- Notes on which papers matter most for your own field.
-
-### Extraction task after upload
-
-For each uploaded paper, extract:
-
-- the main question,
-- the mechanism,
-- the empirical or theoretical test,
-- the introduction/abstract framing move,
-- the transferable skill,
-- the critical boundary.
+This page tracks scholar-level skill extraction. Detailed copy/paste skill cards are generated in `skills/by-scholar/` when the scholar is ready-to-draft.
 
 ## Upload Needed
 
-Add PDFs or links before marking this page as `draft-filled`.
+Please upload the key papers or notes. After upload, the skills should be extracted from concrete evidence: what the paper tests, how it frames the contribution, and what critical boundary prevents overclaiming.
