@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Turn an Anomaly into a Question",
+    "path": "skills/question-finding/turn-an-anomaly-into-a-question.md",
+    "one_sentence": "Use a surprising fact as the starting point for a research question rather than as a result to decorate."
+  },
+  {
+    "title": "Find Variation in Institutions",
+    "path": "skills/question-finding/find-variation-in-institutions.md",
+    "one_sentence": "Look for rules, thresholds, timing, or assignments that create informative variation."
+  },
+  {
+    "title": "Isolate the Core Friction",
+    "path": "skills/theory-building/isolate-the-core-friction.md",
+    "one_sentence": "Reduce a complex setting to the friction that drives behavior and predictions."
+  },
+  {
+    "title": "Build a Minimal Model",
+    "path": "skills/theory-building/build-a-minimal-model.md",
+    "one_sentence": "Use the simplest model that clarifies the mechanism and produces testable predictions."
+  },
+  {
+    "title": "Derive Testable Predictions",
+    "path": "skills/theory-testing/derive-testable-predictions.md",
+    "one_sentence": "Turn a theory into predictions that can be contradicted by data."
+  },
+  {
+    "title": "Separate Competing Mechanisms",
+    "path": "skills/theory-testing/separate-competing-mechanisms.md",
+    "one_sentence": "Design tests that distinguish your explanation from plausible alternatives."
+  },
+  {
+    "title": "Find Identification in Institutions",
+    "path": "skills/empirical-design/find-identification-in-institutions.md",
+    "one_sentence": "Use institutional rules, timing, or constraints to create credible comparisons."
+  },
+  {
+    "title": "Design a Falsification Test",
+    "path": "skills/empirical-design/design-a-falsification-test.md",
+    "one_sentence": "Test where the theory predicts no effect or a different effect."
+  },
+  {
+    "title": "Measure an Unobservable Concept",
+    "path": "skills/measurement/measure-an-unobservable-concept.md",
+    "one_sentence": "Build and validate proxies for beliefs, constraints, quality, attention, or institutions."
+  },
+  {
+    "title": "Test the Mechanism, Not Only the Effect",
+    "path": "skills/mechanism-testing/test-the-mechanism-not-only-the-effect.md",
+    "one_sentence": "Show why the main result happens rather than only documenting that it happens."
+  },
+  {
+    "title": "Separate Risk from Mispricing",
+    "path": "skills/finance-specific/separate-risk-from-mispricing.md",
+    "one_sentence": "Design evidence that distinguishes compensation for risk from mistakes, beliefs, constraints, or limits to arbitrage."
+  },
+  {
+    "title": "Use Prices as Belief Measures",
+    "path": "skills/finance-specific/use-prices-as-belief-measures.md",
+    "one_sentence": "Treat asset prices, returns, and spreads as noisy but informative objects about expectations, risk, and constraints."
+  },
+  {
+    "title": "Connect Treatment Effects to Welfare",
+    "path": "skills/economics-specific/connect-treatment-effects-to-welfare.md",
+    "one_sentence": "Move from estimating effects to explaining welfare, mechanisms, and policy relevance."
+  },
+  {
+    "title": "Use Policy Variation as Design",
+    "path": "skills/economics-specific/use-policy-variation-as-design.md",
+    "one_sentence": "Convert policy rules, timing, eligibility, or reforms into credible research designs."
+  },
+  {
+    "title": "Write the One-Paragraph Paper",
+    "path": "skills/writing-and-framing/write-the-one-paragraph-paper.md",
+    "one_sentence": "State the question, answer, design, mechanism, and contribution in one coherent paragraph."
+  },
+  {
+    "title": "Anti-Skill: Overclaiming from Weak Identification",
+    "path": "skills/anti-skills/overclaiming-from-weak-identification.md",
+    "one_sentence": "Avoid making causal or mechanism claims that the design cannot support."
+  },
+  {
+    "title": "Anti-Skill: Confusing Interesting with Important",
+    "path": "skills/anti-skills/confusing-interesting-with-important.md",
+    "one_sentence": "Avoid mistaking novelty or cleverness for a contribution that changes beliefs."
+  },
+  {
+    "title": "Anti-Skill: Adding Robustness without Learning",
+    "path": "skills/anti-skills/adding-robustness-without-learning.md",
+    "one_sentence": "Avoid adding checks that do not clarify threats, mechanisms, or interpretation."
+  }
+]

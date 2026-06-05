@@ -1,0 +1,1242 @@
+[
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Use simple behavioral models to explain development puzzles",
+    "skill_slug": "use-simple-behavioral-models-to-explain-development-puzzles",
+    "path": "skills/by-scholar/economists/abhijit-banerjee/use-simple-behavioral-models-to-explain-development-puzzles.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Treat policy variation as a way to learn mechanisms",
+    "skill_slug": "treat-policy-variation-as-a-way-to-learn-mechanisms",
+    "path": "skills/by-scholar/economists/abhijit-banerjee/treat-policy-variation-as-a-way-to-learn-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Abhijit Banerjee",
+    "scholar_slug": "abhijit-banerjee",
+    "field": "economics",
+    "skill": "Build theory from field-level institutional detail",
+    "skill_slug": "build-theory-from-field-level-institutional-detail",
+    "path": "skills/by-scholar/economists/abhijit-banerjee/build-theory-from-field-level-institutional-detail.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Use history to explain long-run labor market change",
+    "skill_slug": "use-history-to-explain-long-run-labor-market-change",
+    "path": "skills/by-scholar/economists/claudia-goldin/use-history-to-explain-long-run-labor-market-change.md",
+    "status": "draft-filled",
+    "skill_family": "writing-and-framing"
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Turn descriptive patterns into deep institutional questions",
+    "skill_slug": "turn-descriptive-patterns-into-deep-institutional-questions",
+    "path": "skills/by-scholar/economists/claudia-goldin/turn-descriptive-patterns-into-deep-institutional-questions.md",
+    "status": "draft-filled",
+    "skill_family": "question-finding"
+  },
+  {
+    "scholar": "Claudia Goldin",
+    "scholar_slug": "claudia-goldin",
+    "field": "economics",
+    "skill": "Combine narrative, measurement, and economics into one argument",
+    "skill_slug": "combine-narrative-measurement-and-economics-into-one-argument",
+    "path": "skills/by-scholar/economists/claudia-goldin/combine-narrative-measurement-and-economics-into-one-argument.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Model institutions as causal systems",
+    "skill_slug": "model-institutions-as-causal-systems",
+    "path": "skills/by-scholar/economists/daron-acemoglu/model-institutions-as-causal-systems.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Turn historical variation into modern causal evidence",
+    "skill_slug": "turn-historical-variation-into-modern-causal-evidence",
+    "path": "skills/by-scholar/economists/daron-acemoglu/turn-historical-variation-into-modern-causal-evidence.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Combine big questions with tractable empirical proxies",
+    "skill_slug": "combine-big-questions-with-tractable-empirical-proxies",
+    "path": "skills/by-scholar/economists/daron-acemoglu/combine-big-questions-with-tractable-empirical-proxies.md",
+    "status": "draft-filled",
+    "skill_family": "question-finding"
+  },
+  {
+    "scholar": "Daron Acemoglu",
+    "scholar_slug": "daron-acemoglu",
+    "field": "economics",
+    "skill": "Use political economy mechanisms to explain economic outcomes",
+    "skill_slug": "use-political-economy-mechanisms-to-explain-economic-outcomes",
+    "path": "skills/by-scholar/economists/daron-acemoglu/use-political-economy-mechanisms-to-explain-economic-outcomes.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Use natural experiments to challenge conventional wisdom",
+    "skill_slug": "use-natural-experiments-to-challenge-conventional-wisdom",
+    "path": "skills/by-scholar/economists/david-card/use-natural-experiments-to-challenge-conventional-wisdom.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Find comparison groups in real-world labor markets",
+    "skill_slug": "find-comparison-groups-in-real-world-labor-markets",
+    "path": "skills/by-scholar/economists/david-card/find-comparison-groups-in-real-world-labor-markets.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "David Card",
+    "scholar_slug": "david-card",
+    "field": "economics",
+    "skill": "Let transparent empirical design discipline controversial questions",
+    "skill_slug": "let-transparent-empirical-design-discipline-controversial-questions",
+    "path": "skills/by-scholar/economists/david-card/let-transparent-empirical-design-discipline-controversial-questions.md",
+    "status": "draft-filled",
+    "skill_family": "question-finding"
+  },
+  {
+    "scholar": "Edward Glaeser",
+    "scholar_slug": "edward-glaeser",
+    "field": "economics",
+    "skill": "Treat cities as laboratories for economic mechanisms",
+    "skill_slug": "treat-cities-as-laboratories-for-economic-mechanisms",
+    "path": "skills/by-scholar/economists/edward-glaeser/treat-cities-as-laboratories-for-economic-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Edward Glaeser",
+    "scholar_slug": "edward-glaeser",
+    "field": "economics",
+    "skill": "Use simple theory to organize spatial facts",
+    "skill_slug": "use-simple-theory-to-organize-spatial-facts",
+    "path": "skills/by-scholar/economists/edward-glaeser/use-simple-theory-to-organize-spatial-facts.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Edward Glaeser",
+    "scholar_slug": "edward-glaeser",
+    "field": "economics",
+    "skill": "Connect institutions, geography, and human capital",
+    "skill_slug": "connect-institutions-geography-and-human-capital",
+    "path": "skills/by-scholar/economists/edward-glaeser/connect-institutions-geography-and-human-capital.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Use tax data to measure inequality and behavioral responses",
+    "skill_slug": "use-tax-data-to-measure-inequality-and-behavioral-responses",
+    "path": "skills/by-scholar/economists/emmanuel-saez/use-tax-data-to-measure-inequality-and-behavioral-responses.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Translate sufficient statistics into policy-relevant formulas",
+    "skill_slug": "translate-sufficient-statistics-into-policy-relevant-formulas",
+    "path": "skills/by-scholar/economists/emmanuel-saez/translate-sufficient-statistics-into-policy-relevant-formulas.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Emmanuel Saez",
+    "scholar_slug": "emmanuel-saez",
+    "field": "economics",
+    "skill": "Connect empirical public finance to welfare analysis",
+    "skill_slug": "connect-empirical-public-finance-to-welfare-analysis",
+    "path": "skills/by-scholar/economists/emmanuel-saez/connect-empirical-public-finance-to-welfare-analysis.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Use field experiments as disciplined learning systems",
+    "skill_slug": "use-field-experiments-as-disciplined-learning-systems",
+    "path": "skills/by-scholar/economists/esther-duflo/use-field-experiments-as-disciplined-learning-systems.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Turn policy questions into testable mechanisms",
+    "skill_slug": "turn-policy-questions-into-testable-mechanisms",
+    "path": "skills/by-scholar/economists/esther-duflo/turn-policy-questions-into-testable-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Esther Duflo",
+    "scholar_slug": "esther-duflo",
+    "field": "economics",
+    "skill": "Build research designs around implementation details",
+    "skill_slug": "build-research-designs-around-implementation-details",
+    "path": "skills/by-scholar/economists/esther-duflo/build-research-designs-around-implementation-details.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Measure hidden wealth using accounting inconsistencies",
+    "skill_slug": "measure-hidden-wealth-using-accounting-inconsistencies",
+    "path": "skills/by-scholar/economists/gabriel-zucman/measure-hidden-wealth-using-accounting-inconsistencies.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Turn macro-financial data gaps into research questions",
+    "skill_slug": "turn-macro-financial-data-gaps-into-research-questions",
+    "path": "skills/by-scholar/economists/gabriel-zucman/turn-macro-financial-data-gaps-into-research-questions.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Gabriel Zucman",
+    "scholar_slug": "gabriel-zucman",
+    "field": "economics",
+    "skill": "Combine public finance, international finance, and distribution",
+    "skill_slug": "combine-public-finance-international-finance-and-distribution",
+    "path": "skills/by-scholar/economists/gabriel-zucman/combine-public-finance-international-finance-and-distribution.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Formalize causal inference without losing applied intuition",
+    "skill_slug": "formalize-causal-inference-without-losing-applied-intuition",
+    "path": "skills/by-scholar/economists/guido-imbens/formalize-causal-inference-without-losing-applied-intuition.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Clarify what an estimand means before estimating it",
+    "skill_slug": "clarify-what-an-estimand-means-before-estimating-it",
+    "path": "skills/by-scholar/economists/guido-imbens/clarify-what-an-estimand-means-before-estimating-it.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Guido Imbens",
+    "scholar_slug": "guido-imbens",
+    "field": "economics",
+    "skill": "Separate design-based credibility from modeling assumptions",
+    "skill_slug": "separate-design-based-credibility-from-modeling-assumptions",
+    "path": "skills/by-scholar/economists/guido-imbens/separate-design-based-credibility-from-modeling-assumptions.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Treat selection as a central research object",
+    "skill_slug": "treat-selection-as-a-central-research-object",
+    "path": "skills/by-scholar/economists/james-heckman/treat-selection-as-a-central-research-object.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Link econometric structure to human capital mechanisms",
+    "skill_slug": "link-econometric-structure-to-human-capital-mechanisms",
+    "path": "skills/by-scholar/economists/james-heckman/link-econometric-structure-to-human-capital-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "James Heckman",
+    "scholar_slug": "james-heckman",
+    "field": "economics",
+    "skill": "Think about treatment effects as heterogeneous and policy-specific",
+    "skill_slug": "think-about-treatment-effects-as-heterogeneous-and-policy-specific",
+    "path": "skills/by-scholar/economists/james-heckman/think-about-treatment-effects-as-heterogeneous-and-policy-specific.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Build models around incentives, information, and strategic constraints",
+    "skill_slug": "build-models-around-incentives-information-and-strategic-constraints",
+    "path": "skills/by-scholar/economists/jean-tirole/build-models-around-incentives-information-and-strategic-constraints.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Use theory to organize regulation and market design",
+    "skill_slug": "use-theory-to-organize-regulation-and-market-design",
+    "path": "skills/by-scholar/economists/jean-tirole/use-theory-to-organize-regulation-and-market-design.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Jean Tirole",
+    "scholar_slug": "jean-tirole",
+    "field": "economics",
+    "skill": "Derive policy insight from mechanism-level reasoning",
+    "skill_slug": "derive-policy-insight-from-mechanism-level-reasoning",
+    "path": "skills/by-scholar/economists/jean-tirole/derive-policy-insight-from-mechanism-level-reasoning.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Joseph Stiglitz",
+    "scholar_slug": "joseph-stiglitz",
+    "field": "economics",
+    "skill": "Treat information imperfections as first-order economic forces",
+    "skill_slug": "treat-information-imperfections-as-first-order-economic-forces",
+    "path": "skills/by-scholar/economists/joseph-stiglitz/treat-information-imperfections-as-first-order-economic-forces.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Joseph Stiglitz",
+    "scholar_slug": "joseph-stiglitz",
+    "field": "economics",
+    "skill": "Use theory to challenge benchmark market-efficiency claims",
+    "skill_slug": "use-theory-to-challenge-benchmark-market-efficiency-claims",
+    "path": "skills/by-scholar/economists/joseph-stiglitz/use-theory-to-challenge-benchmark-market-efficiency-claims.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Joseph Stiglitz",
+    "scholar_slug": "joseph-stiglitz",
+    "field": "economics",
+    "skill": "Connect micro frictions to macro and policy outcomes",
+    "skill_slug": "connect-micro-frictions-to-macro-and-policy-outcomes",
+    "path": "skills/by-scholar/economists/joseph-stiglitz/connect-micro-frictions-to-macro-and-policy-outcomes.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "Turn messy policy variation into credible causal designs",
+    "skill_slug": "turn-messy-policy-variation-into-credible-causal-designs",
+    "path": "skills/by-scholar/economists/joshua-angrist/turn-messy-policy-variation-into-credible-causal-designs.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "Explain identification in plain language",
+    "skill_slug": "explain-identification-in-plain-language",
+    "path": "skills/by-scholar/economists/joshua-angrist/explain-identification-in-plain-language.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Joshua Angrist",
+    "scholar_slug": "joshua-angrist",
+    "field": "economics",
+    "skill": "Use instrumental variables as a design, not a ritual",
+    "skill_slug": "use-instrumental-variables-as-a-design-not-a-ritual",
+    "path": "skills/by-scholar/economists/joshua-angrist/use-instrumental-variables-as-a-design-not-a-ritual.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Measure information, media, and persuasion from text and behavior",
+    "skill_slug": "measure-information-media-and-persuasion-from-text-and-behavior",
+    "path": "skills/by-scholar/economists/matthew-gentzkow/measure-information-media-and-persuasion-from-text-and-behavior.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Use structural and reduced-form tools to study communication markets",
+    "skill_slug": "use-structural-and-reduced-form-tools-to-study-communication-markets",
+    "path": "skills/by-scholar/economists/matthew-gentzkow/use-structural-and-reduced-form-tools-to-study-communication-markets.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Matthew Gentzkow",
+    "scholar_slug": "matthew-gentzkow",
+    "field": "economics",
+    "skill": "Turn digitized content into economic evidence",
+    "skill_slug": "turn-digitized-content-into-economic-evidence",
+    "path": "skills/by-scholar/economists/matthew-gentzkow/turn-digitized-content-into-economic-evidence.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Design experiments around practical policy bottlenecks",
+    "skill_slug": "design-experiments-around-practical-policy-bottlenecks",
+    "path": "skills/by-scholar/economists/michael-kremer/design-experiments-around-practical-policy-bottlenecks.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Use randomized evaluation to test scalable interventions",
+    "skill_slug": "use-randomized-evaluation-to-test-scalable-interventions",
+    "path": "skills/by-scholar/economists/michael-kremer/use-randomized-evaluation-to-test-scalable-interventions.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Michael Kremer",
+    "scholar_slug": "michael-kremer",
+    "field": "economics",
+    "skill": "Turn development constraints into researchable mechanisms",
+    "skill_slug": "turn-development-constraints-into-researchable-mechanisms",
+    "path": "skills/by-scholar/economists/michael-kremer/turn-development-constraints-into-researchable-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Measure management as an economic variable",
+    "skill_slug": "measure-management-as-an-economic-variable",
+    "path": "skills/by-scholar/economists/nicholas-bloom/measure-management-as-an-economic-variable.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Use surveys and experiments to study firms from the inside",
+    "skill_slug": "use-surveys-and-experiments-to-study-firms-from-the-inside",
+    "path": "skills/by-scholar/economists/nicholas-bloom/use-surveys-and-experiments-to-study-firms-from-the-inside.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Nicholas Bloom",
+    "scholar_slug": "nicholas-bloom",
+    "field": "economics",
+    "skill": "Convert organizational practices into empirical objects",
+    "skill_slug": "convert-organizational-practices-into-empirical-objects",
+    "path": "skills/by-scholar/economists/nicholas-bloom/convert-organizational-practices-into-empirical-objects.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Paul Krugman",
+    "scholar_slug": "paul-krugman",
+    "field": "economics",
+    "skill": "Build simple models that change how a field sees a problem",
+    "skill_slug": "build-simple-models-that-change-how-a-field-sees-a-problem",
+    "path": "skills/by-scholar/economists/paul-krugman/build-simple-models-that-change-how-a-field-sees-a-problem.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Paul Krugman",
+    "scholar_slug": "paul-krugman",
+    "field": "economics",
+    "skill": "Use increasing returns and geography to explain trade patterns",
+    "skill_slug": "use-increasing-returns-and-geography-to-explain-trade-patterns",
+    "path": "skills/by-scholar/economists/paul-krugman/use-increasing-returns-and-geography-to-explain-trade-patterns.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Paul Krugman",
+    "scholar_slug": "paul-krugman",
+    "field": "economics",
+    "skill": "Communicate technical ideas through sharp economic intuition",
+    "skill_slug": "communicate-technical-ideas-through-sharp-economic-intuition",
+    "path": "skills/by-scholar/economists/paul-krugman/communicate-technical-ideas-through-sharp-economic-intuition.md",
+    "status": "draft-filled",
+    "skill_family": "writing-and-framing"
+  },
+  {
+    "scholar": "Philippe Aghion",
+    "scholar_slug": "philippe-aghion",
+    "field": "economics",
+    "skill": "Model growth as creative destruction",
+    "skill_slug": "model-growth-as-creative-destruction",
+    "path": "skills/by-scholar/economists/philippe-aghion/model-growth-as-creative-destruction.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Philippe Aghion",
+    "scholar_slug": "philippe-aghion",
+    "field": "economics",
+    "skill": "Link innovation incentives to competition and institutions",
+    "skill_slug": "link-innovation-incentives-to-competition-and-institutions",
+    "path": "skills/by-scholar/economists/philippe-aghion/link-innovation-incentives-to-competition-and-institutions.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Philippe Aghion",
+    "scholar_slug": "philippe-aghion",
+    "field": "economics",
+    "skill": "Use theory and empirics together to study technological change",
+    "skill_slug": "use-theory-and-empirics-together-to-study-technological-change",
+    "path": "skills/by-scholar/economists/philippe-aghion/use-theory-and-empirics-together-to-study-technological-change.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Use administrative data to map opportunity at scale",
+    "skill_slug": "use-administrative-data-to-map-opportunity-at-scale",
+    "path": "skills/by-scholar/economists/raj-chetty/use-administrative-data-to-map-opportunity-at-scale.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Turn granular empirical facts into policy-relevant design",
+    "skill_slug": "turn-granular-empirical-facts-into-policy-relevant-design",
+    "path": "skills/by-scholar/economists/raj-chetty/turn-granular-empirical-facts-into-policy-relevant-design.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Raj Chetty",
+    "scholar_slug": "raj-chetty",
+    "field": "economics",
+    "skill": "Make descriptive evidence causal through credible variation and validation",
+    "skill_slug": "make-descriptive-evidence-causal-through-credible-variation-and-validation",
+    "path": "skills/by-scholar/economists/raj-chetty/make-descriptive-evidence-causal-through-credible-variation-and-validation.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Sendhil Mullainathan",
+    "scholar_slug": "sendhil-mullainathan",
+    "field": "economics",
+    "skill": "Turn behavioral anomalies into research programs",
+    "skill_slug": "turn-behavioral-anomalies-into-research-programs",
+    "path": "skills/by-scholar/economists/sendhil-mullainathan/turn-behavioral-anomalies-into-research-programs.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Sendhil Mullainathan",
+    "scholar_slug": "sendhil-mullainathan",
+    "field": "economics",
+    "skill": "Use prediction problems to reveal hidden structure",
+    "skill_slug": "use-prediction-problems-to-reveal-hidden-structure",
+    "path": "skills/by-scholar/economists/sendhil-mullainathan/use-prediction-problems-to-reveal-hidden-structure.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Sendhil Mullainathan",
+    "scholar_slug": "sendhil-mullainathan",
+    "field": "economics",
+    "skill": "Connect psychology, data, and economic decision-making",
+    "skill_slug": "connect-psychology-data-and-economic-decision-making",
+    "path": "skills/by-scholar/economists/sendhil-mullainathan/connect-psychology-data-and-economic-decision-making.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Use machine learning to improve causal and policy analysis",
+    "skill_slug": "use-machine-learning-to-improve-causal-and-policy-analysis",
+    "path": "skills/by-scholar/economists/susan-athey/use-machine-learning-to-improve-causal-and-policy-analysis.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Translate platform and market design problems into empirical questions",
+    "skill_slug": "translate-platform-and-market-design-problems-into-empirical-questions",
+    "path": "skills/by-scholar/economists/susan-athey/translate-platform-and-market-design-problems-into-empirical-questions.md",
+    "status": "draft-filled",
+    "skill_family": "question-finding"
+  },
+  {
+    "scholar": "Susan Athey",
+    "scholar_slug": "susan-athey",
+    "field": "economics",
+    "skill": "Combine theory, computation, and causal inference",
+    "skill_slug": "combine-theory-computation-and-causal-inference",
+    "path": "skills/by-scholar/economists/susan-athey/combine-theory-computation-and-causal-inference.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Thomas Piketty",
+    "scholar_slug": "thomas-piketty",
+    "field": "economics",
+    "skill": "Build long-run data to reopen old questions",
+    "skill_slug": "build-long-run-data-to-reopen-old-questions",
+    "path": "skills/by-scholar/economists/thomas-piketty/build-long-run-data-to-reopen-old-questions.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Thomas Piketty",
+    "scholar_slug": "thomas-piketty",
+    "field": "economics",
+    "skill": "Turn distributional history into macroeconomic evidence",
+    "skill_slug": "turn-distributional-history-into-macroeconomic-evidence",
+    "path": "skills/by-scholar/economists/thomas-piketty/turn-distributional-history-into-macroeconomic-evidence.md",
+    "status": "draft-filled",
+    "skill_family": "economics-specific"
+  },
+  {
+    "scholar": "Thomas Piketty",
+    "scholar_slug": "thomas-piketty",
+    "field": "economics",
+    "skill": "Use public-facing data infrastructure as part of research contribution",
+    "skill_slug": "use-public-facing-data-infrastructure-as-part-of-research-contribution",
+    "path": "skills/by-scholar/economists/thomas-piketty/use-public-facing-data-infrastructure-as-part-of-research-contribution.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Turn behavioral limits into market-level implications",
+    "skill_slug": "turn-behavioral-limits-into-market-level-implications",
+    "path": "skills/by-scholar/finance-scholars/andrei-shleifer/turn-behavioral-limits-into-market-level-implications.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Use legal and institutional variation to study finance and growth",
+    "skill_slug": "use-legal-and-institutional-variation-to-study-finance-and-growth",
+    "path": "skills/by-scholar/finance-scholars/andrei-shleifer/use-legal-and-institutional-variation-to-study-finance-and-growth.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Andrei Shleifer",
+    "scholar_slug": "andrei-shleifer",
+    "field": "finance",
+    "skill": "Build simple theories that explain broad empirical anomalies",
+    "skill_slug": "build-simple-theories-that-explain-broad-empirical-anomalies",
+    "path": "skills/by-scholar/finance-scholars/andrei-shleifer/build-simple-theories-that-explain-broad-empirical-anomalies.md",
+    "status": "draft-filled",
+    "skill_family": "writing-and-framing"
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Study household and entrepreneurial finance through decision frictions",
+    "skill_slug": "study-household-and-entrepreneurial-finance-through-decision-frictions",
+    "path": "skills/by-scholar/finance-scholars/antoinette-schoar/study-household-and-entrepreneurial-finance-through-decision-frictions.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Use microdata to reveal financial behavior heterogeneity",
+    "skill_slug": "use-microdata-to-reveal-financial-behavior-heterogeneity",
+    "path": "skills/by-scholar/finance-scholars/antoinette-schoar/use-microdata-to-reveal-financial-behavior-heterogeneity.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Antoinette Schoar",
+    "scholar_slug": "antoinette-schoar",
+    "field": "finance",
+    "skill": "Connect managerial traits, contracts, and firm outcomes",
+    "skill_slug": "connect-managerial-traits-contracts-and-firm-outcomes",
+    "path": "skills/by-scholar/finance-scholars/antoinette-schoar/connect-managerial-traits-contracts-and-firm-outcomes.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Study expected returns through cross-sectional and global evidence",
+    "skill_slug": "study-expected-returns-through-cross-sectional-and-global-evidence",
+    "path": "skills/by-scholar/finance-scholars/campbell-harvey/study-expected-returns-through-cross-sectional-and-global-evidence.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Treat multiple testing and p-hacking as central finance problems",
+    "skill_slug": "treat-multiple-testing-and-p-hacking-as-central-finance-problems",
+    "path": "skills/by-scholar/finance-scholars/campbell-harvey/treat-multiple-testing-and-p-hacking-as-central-finance-problems.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Campbell Harvey",
+    "scholar_slug": "campbell-harvey",
+    "field": "finance",
+    "skill": "Build bridges between empirical finance and research credibility",
+    "skill_slug": "build-bridges-between-empirical-finance-and-research-credibility",
+    "path": "skills/by-scholar/finance-scholars/campbell-harvey/build-bridges-between-empirical-finance-and-research-credibility.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Darrell Duffie",
+    "scholar_slug": "darrell-duffie",
+    "field": "finance",
+    "skill": "Use institutional detail to model over-the-counter markets",
+    "skill_slug": "use-institutional-detail-to-model-over-the-counter-markets",
+    "path": "skills/by-scholar/finance-scholars/darrell-duffie/use-institutional-detail-to-model-over-the-counter-markets.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Darrell Duffie",
+    "scholar_slug": "darrell-duffie",
+    "field": "finance",
+    "skill": "Translate market plumbing into asset pricing and policy implications",
+    "skill_slug": "translate-market-plumbing-into-asset-pricing-and-policy-implications",
+    "path": "skills/by-scholar/finance-scholars/darrell-duffie/translate-market-plumbing-into-asset-pricing-and-policy-implications.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Darrell Duffie",
+    "scholar_slug": "darrell-duffie",
+    "field": "finance",
+    "skill": "Treat financial market design as a research object",
+    "skill_slug": "treat-financial-market-design-as-a-research-object",
+    "path": "skills/by-scholar/finance-scholars/darrell-duffie/treat-financial-market-design-as-a-research-object.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Treat prices as disciplined summaries of information",
+    "skill_slug": "treat-prices-as-disciplined-summaries-of-information",
+    "path": "skills/by-scholar/finance-scholars/eugene-fama/treat-prices-as-disciplined-summaries-of-information.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Convert market efficiency into testable implications",
+    "skill_slug": "convert-market-efficiency-into-testable-implications",
+    "path": "skills/by-scholar/finance-scholars/eugene-fama/convert-market-efficiency-into-testable-implications.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Eugene Fama",
+    "scholar_slug": "eugene-fama",
+    "field": "finance",
+    "skill": "Use simple empirical regularities to organize an entire field",
+    "skill_slug": "use-simple-empirical-regularities-to-organize-an-entire-field",
+    "path": "skills/by-scholar/finance-scholars/eugene-fama/use-simple-empirical-regularities-to-organize-an-entire-field.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Harrison Hong",
+    "scholar_slug": "harrison-hong",
+    "field": "finance",
+    "skill": "Study disagreement, constraints, and market mispricing",
+    "skill_slug": "study-disagreement-constraints-and-market-mispricing",
+    "path": "skills/by-scholar/finance-scholars/harrison-hong/study-disagreement-constraints-and-market-mispricing.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Harrison Hong",
+    "scholar_slug": "harrison-hong",
+    "field": "finance",
+    "skill": "Use social interaction and attention as finance mechanisms",
+    "skill_slug": "use-social-interaction-and-attention-as-finance-mechanisms",
+    "path": "skills/by-scholar/finance-scholars/harrison-hong/use-social-interaction-and-attention-as-finance-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Harrison Hong",
+    "scholar_slug": "harrison-hong",
+    "field": "finance",
+    "skill": "Connect behavioral finance to limits of arbitrage",
+    "skill_slug": "connect-behavioral-finance-to-limits-of-arbitrage",
+    "path": "skills/by-scholar/finance-scholars/harrison-hong/connect-behavioral-finance-to-limits-of-arbitrage.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Treat global financial cycles as constraints on national policy",
+    "skill_slug": "treat-global-financial-cycles-as-constraints-on-national-policy",
+    "path": "skills/by-scholar/finance-scholars/helene-rey/treat-global-financial-cycles-as-constraints-on-national-policy.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Connect capital flows, exchange rates, and risk appetite",
+    "skill_slug": "connect-capital-flows-exchange-rates-and-risk-appetite",
+    "path": "skills/by-scholar/finance-scholars/helene-rey/connect-capital-flows-exchange-rates-and-risk-appetite.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Hélène Rey",
+    "scholar_slug": "helene-rey",
+    "field": "finance",
+    "skill": "Use international finance facts to challenge policy trilemmas",
+    "skill_slug": "use-international-finance-facts-to-challenge-policy-trilemmas",
+    "path": "skills/by-scholar/finance-scholars/helene-rey/use-international-finance-facts-to-challenge-policy-trilemmas.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Link corporate finance frictions to macro-financial outcomes",
+    "skill_slug": "link-corporate-finance-frictions-to-macro-financial-outcomes",
+    "path": "skills/by-scholar/finance-scholars/jeremy-stein/link-corporate-finance-frictions-to-macro-financial-outcomes.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Use simple models to connect financial constraints and behavior",
+    "skill_slug": "use-simple-models-to-connect-financial-constraints-and-behavior",
+    "path": "skills/by-scholar/finance-scholars/jeremy-stein/use-simple-models-to-connect-financial-constraints-and-behavior.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Jeremy Stein",
+    "scholar_slug": "jeremy-stein",
+    "field": "finance",
+    "skill": "Treat investor sentiment as a force with real effects",
+    "skill_slug": "treat-investor-sentiment-as-a-force-with-real-effects",
+    "path": "skills/by-scholar/finance-scholars/jeremy-stein/treat-investor-sentiment-as-a-force-with-real-effects.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Decompose asset prices into interpretable economic components",
+    "skill_slug": "decompose-asset-prices-into-interpretable-economic-components",
+    "path": "skills/by-scholar/finance-scholars/john-campbell/decompose-asset-prices-into-interpretable-economic-components.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Connect household finance decisions to asset pricing and welfare",
+    "skill_slug": "connect-household-finance-decisions-to-asset-pricing-and-welfare",
+    "path": "skills/by-scholar/finance-scholars/john-campbell/connect-household-finance-decisions-to-asset-pricing-and-welfare.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "John Campbell",
+    "scholar_slug": "john-campbell",
+    "field": "finance",
+    "skill": "Use long-run return predictability as a window into risk and beliefs",
+    "skill_slug": "use-long-run-return-predictability-as-a-window-into-risk-and-beliefs",
+    "path": "skills/by-scholar/finance-scholars/john-campbell/use-long-run-return-predictability-as-a-window-into-risk-and-beliefs.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Use asset pricing theory as a unifying language",
+    "skill_slug": "use-asset-pricing-theory-as-a-unifying-language",
+    "path": "skills/by-scholar/finance-scholars/john-cochrane/use-asset-pricing-theory-as-a-unifying-language.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Translate discount rates into economic mechanisms",
+    "skill_slug": "translate-discount-rates-into-economic-mechanisms",
+    "path": "skills/by-scholar/finance-scholars/john-cochrane/translate-discount-rates-into-economic-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "John Cochrane",
+    "scholar_slug": "john-cochrane",
+    "field": "finance",
+    "skill": "Explain complex finance models through disciplined intuition",
+    "skill_slug": "explain-complex-finance-models-through-disciplined-intuition",
+    "path": "skills/by-scholar/finance-scholars/john-cochrane/explain-complex-finance-models-through-disciplined-intuition.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Turn factor construction into reusable research infrastructure",
+    "skill_slug": "turn-factor-construction-into-reusable-research-infrastructure",
+    "path": "skills/by-scholar/finance-scholars/kenneth-french/turn-factor-construction-into-reusable-research-infrastructure.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Use portfolio sorts to reveal systematic return patterns",
+    "skill_slug": "use-portfolio-sorts-to-reveal-systematic-return-patterns",
+    "path": "skills/by-scholar/finance-scholars/kenneth-french/use-portfolio-sorts-to-reveal-systematic-return-patterns.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Kenneth French",
+    "scholar_slug": "kenneth-french",
+    "field": "finance",
+    "skill": "Make data tools part of the scientific contribution",
+    "skill_slug": "make-data-tools-part-of-the-scientific-contribution",
+    "path": "skills/by-scholar/finance-scholars/kenneth-french/make-data-tools-part-of-the-scientific-contribution.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Use moment restrictions to discipline economic models",
+    "skill_slug": "use-moment-restrictions-to-discipline-economic-models",
+    "path": "skills/by-scholar/finance-scholars/lars-peter-hansen/use-moment-restrictions-to-discipline-economic-models.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Treat uncertainty and robustness as research objects",
+    "skill_slug": "treat-uncertainty-and-robustness-as-research-objects",
+    "path": "skills/by-scholar/finance-scholars/lars-peter-hansen/treat-uncertainty-and-robustness-as-research-objects.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Lars Peter Hansen",
+    "scholar_slug": "lars-peter-hansen",
+    "field": "finance",
+    "skill": "Connect econometric methods to asset pricing and macro-finance",
+    "skill_slug": "connect-econometric-methods-to-asset-pricing-and-macro-finance",
+    "path": "skills/by-scholar/finance-scholars/lars-peter-hansen/connect-econometric-methods-to-asset-pricing-and-macro-finance.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Connect corporate finance to institutions and politics",
+    "skill_slug": "connect-corporate-finance-to-institutions-and-politics",
+    "path": "skills/by-scholar/finance-scholars/luigi-zingales/connect-corporate-finance-to-institutions-and-politics.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Use cross-country variation to study financial development",
+    "skill_slug": "use-cross-country-variation-to-study-financial-development",
+    "path": "skills/by-scholar/finance-scholars/luigi-zingales/use-cross-country-variation-to-study-financial-development.md",
+    "status": "draft-filled",
+    "skill_family": "empirical-design"
+  },
+  {
+    "scholar": "Luigi Zingales",
+    "scholar_slug": "luigi-zingales",
+    "field": "finance",
+    "skill": "Treat trust, governance, and culture as economic mechanisms",
+    "skill_slug": "treat-trust-governance-and-culture-as-economic-mechanisms",
+    "path": "skills/by-scholar/finance-scholars/luigi-zingales/treat-trust-governance-and-culture-as-economic-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Model financial fragility as endogenous amplification",
+    "skill_slug": "model-financial-fragility-as-endogenous-amplification",
+    "path": "skills/by-scholar/finance-scholars/markus-brunnermeier/model-financial-fragility-as-endogenous-amplification.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Treat liquidity and leverage as dynamic state variables",
+    "skill_slug": "treat-liquidity-and-leverage-as-dynamic-state-variables",
+    "path": "skills/by-scholar/finance-scholars/markus-brunnermeier/treat-liquidity-and-leverage-as-dynamic-state-variables.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Markus Brunnermeier",
+    "scholar_slug": "markus-brunnermeier",
+    "field": "finance",
+    "skill": "Connect micro frictions to systemic risk",
+    "skill_slug": "connect-micro-frictions-to-systemic-risk",
+    "path": "skills/by-scholar/finance-scholars/markus-brunnermeier/connect-micro-frictions-to-systemic-risk.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Connect financial development to real economic outcomes",
+    "skill_slug": "connect-financial-development-to-real-economic-outcomes",
+    "path": "skills/by-scholar/finance-scholars/raghuram-rajan/connect-financial-development-to-real-economic-outcomes.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Treat banks and intermediaries as macro-relevant institutions",
+    "skill_slug": "treat-banks-and-intermediaries-as-macro-relevant-institutions",
+    "path": "skills/by-scholar/finance-scholars/raghuram-rajan/treat-banks-and-intermediaries-as-macro-relevant-institutions.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Raghuram Rajan",
+    "scholar_slug": "raghuram-rajan",
+    "field": "finance",
+    "skill": "Use institutional detail to understand crises and fragility",
+    "skill_slug": "use-institutional-detail-to-understand-crises-and-fragility",
+    "path": "skills/by-scholar/finance-scholars/raghuram-rajan/use-institutional-detail-to-understand-crises-and-fragility.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Model volatility as a dynamic economic object",
+    "skill_slug": "model-volatility-as-a-dynamic-economic-object",
+    "path": "skills/by-scholar/finance-scholars/robert-engle/model-volatility-as-a-dynamic-economic-object.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Build econometric tools from observed market behavior",
+    "skill_slug": "build-econometric-tools-from-observed-market-behavior",
+    "path": "skills/by-scholar/finance-scholars/robert-engle/build-econometric-tools-from-observed-market-behavior.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Robert Engle",
+    "scholar_slug": "robert-engle",
+    "field": "finance",
+    "skill": "Turn risk measurement into research infrastructure",
+    "skill_slug": "turn-risk-measurement-into-research-infrastructure",
+    "path": "skills/by-scholar/finance-scholars/robert-engle/turn-risk-measurement-into-research-infrastructure.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Use prices to test narratives, expectations, and excess volatility",
+    "skill_slug": "use-prices-to-test-narratives-expectations-and-excess-volatility",
+    "path": "skills/by-scholar/finance-scholars/robert-shiller/use-prices-to-test-narratives-expectations-and-excess-volatility.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Connect behavioral finance to macro-financial history",
+    "skill_slug": "connect-behavioral-finance-to-macro-financial-history",
+    "path": "skills/by-scholar/finance-scholars/robert-shiller/connect-behavioral-finance-to-macro-financial-history.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Robert Shiller",
+    "scholar_slug": "robert-shiller",
+    "field": "finance",
+    "skill": "Build public datasets that make big claims testable",
+    "skill_slug": "build-public-datasets-that-make-big-claims-testable",
+    "path": "skills/by-scholar/finance-scholars/robert-shiller/build-public-datasets-that-make-big-claims-testable.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Turn life experience into an economic state variable",
+    "skill_slug": "turn-life-experience-into-an-economic-state-variable",
+    "path": "skills/by-scholar/finance-scholars/ulrike-malmendier/turn-life-experience-into-an-economic-state-variable.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Measure behavioral biases in corporate and household decisions",
+    "skill_slug": "measure-behavioral-biases-in-corporate-and-household-decisions",
+    "path": "skills/by-scholar/finance-scholars/ulrike-malmendier/measure-behavioral-biases-in-corporate-and-household-decisions.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Ulrike Malmendier",
+    "scholar_slug": "ulrike-malmendier",
+    "field": "finance",
+    "skill": "Link psychology, memory, and financial choice",
+    "skill_slug": "link-psychology-memory-and-financial-choice",
+    "path": "skills/by-scholar/finance-scholars/ulrike-malmendier/link-psychology-memory-and-financial-choice.md",
+    "status": "draft-filled",
+    "skill_family": "finance-specific"
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Measure systemic risk through bank behavior and market signals",
+    "skill_slug": "measure-systemic-risk-through-bank-behavior-and-market-signals",
+    "path": "skills/by-scholar/finance-scholars/viral-acharya/measure-systemic-risk-through-bank-behavior-and-market-signals.md",
+    "status": "draft-filled",
+    "skill_family": "measurement"
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Connect credit frictions to macroeconomic outcomes",
+    "skill_slug": "connect-credit-frictions-to-macroeconomic-outcomes",
+    "path": "skills/by-scholar/finance-scholars/viral-acharya/connect-credit-frictions-to-macroeconomic-outcomes.md",
+    "status": "draft-filled",
+    "skill_family": "theory-building"
+  },
+  {
+    "scholar": "Viral Acharya",
+    "scholar_slug": "viral-acharya",
+    "field": "finance",
+    "skill": "Use crisis episodes to identify financial mechanisms",
+    "skill_slug": "use-crisis-episodes-to-identify-financial-mechanisms",
+    "path": "skills/by-scholar/finance-scholars/viral-acharya/use-crisis-episodes-to-identify-financial-mechanisms.md",
+    "status": "draft-filled",
+    "skill_family": "theory-testing"
+  }
+]

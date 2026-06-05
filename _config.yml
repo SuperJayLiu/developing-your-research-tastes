@@ -1,0 +1,7 @@
+title: Developing Your Research Tastes
+description: A skill-based research taste curriculum for economics and finance.
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins: []

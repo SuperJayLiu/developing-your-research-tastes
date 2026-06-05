@@ -1,14 +1,20 @@
 .DS_Store
-.venv/
 __pycache__/
+*.pyc
 *.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.cache/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+_site/
+*.zip
+*.log
+*.tmp
 
 data/raw/
 data/processed/
 models/local/
-
-*.log
-*.tmp
