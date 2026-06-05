@@ -1,0 +1,7 @@
+beautifulsoup4>=4.12
+pdfminer.six>=20231228
+pypdf>=4.0
+pytest>=8.0
+PyYAML>=6.0
+requests>=2.31
+spacy>=3.7,<3.8

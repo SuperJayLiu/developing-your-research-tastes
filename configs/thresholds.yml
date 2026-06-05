@@ -1,0 +1,6 @@
+language: en
+min_support: 2
+min_support_ratio_large_corpus: 0.25
+large_corpus_size: 8
+max_evidence_per_signal: 2
+draft_low_support_below_papers: 4
