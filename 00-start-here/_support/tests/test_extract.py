@@ -1,3 +1,9 @@
+import sys
+from pathlib import Path
+
+SUPPORT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(SUPPORT_ROOT))
+
 from scripts.extract_scholar_taste import (
     PaperRecord,
     analyze_paper,

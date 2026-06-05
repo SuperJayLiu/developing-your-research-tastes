@@ -7,7 +7,8 @@ import re
 import sys
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[3]
+SUPPORT = ROOT / "00-start-here" / "_support"
 
 
 def main() -> int:
@@ -24,16 +25,15 @@ def main() -> int:
         "03-journal-research-tastes/README.md",
         "04-top-scholar-research-tastes/README.md",
         "05-tastes-by-research-step/README.md",
-        "templates/skill-card-template.md",
-        "templates/scholar-page-template.md",
+        "00-start-here/_support/templates/skill-card-template.md",
+        "00-start-here/_support/templates/scholar-page-template.md",
         "requirements-core.txt",
-        "configs/thresholds.yml",
-        "configs/lexicons.yml",
-        "scripts/extract_scholar_taste.py",
-        "scripts/install.sh",
-        "scripts/run_tests.sh",
-        "tests/test_extract.py",
-        ".github/workflows/ci.yml",
+        "00-start-here/_support/configs/thresholds.yml",
+        "00-start-here/_support/configs/lexicons.yml",
+        "00-start-here/_support/scripts/extract_scholar_taste.py",
+        "00-start-here/_support/scripts/install.sh",
+        "00-start-here/_support/scripts/run_tests.sh",
+        "00-start-here/_support/tests/test_extract.py",
     ]
 
     for rel in required:
@@ -41,7 +41,7 @@ def main() -> int:
             errors.append(f"Missing required file: {rel}")
 
     for md in ROOT.rglob("*.md"):
-        if ".venv" in md.parts:
+        if ".venv" in md.parts or "_support" in md.parts:
             continue
         text = md.read_text(encoding="utf-8")
         if not text.strip():
@@ -84,7 +84,7 @@ def main() -> int:
             if extras:
                 errors.append(f"Local generated scholar folder has extra files: {scholar_folder.relative_to(ROOT)}")
 
-    by_scholar = ROOT / "skills" / "by-scholar"
+    by_scholar = SUPPORT / "skills" / "by-scholar"
     if by_scholar.exists():
         nested_skill_files = [p for p in by_scholar.rglob("*.md") if p.name != "README.md"]
         if nested_skill_files:

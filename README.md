@@ -1,185 +1,62 @@
 # Developing Your Research Tastes
 
-A skill-based research taste curriculum for economics and finance.
+This repository is written as a small open book about research taste in economics and finance. It is meant to be read from chapter `00` through chapter `05`, not browsed as a pile of folders. The central claim is simple: research taste is not a mysterious personality trait. It is a trainable judgment system that helps a scholar decide which questions matter, which mechanisms are worth modeling, which evidence should be trusted, and which contribution claims are honest.
 
-This repository helps researchers train their personal **taste model**: the internal judgment system used to decide which questions are worth asking, which theories are promising, which evidence is convincing, and what makes a paper publishable.
+The book treats papers, scholars, journals, and research steps as evidence about judgment. A good paper is not only a finished product; it is a record of choices. The author chose a question instead of many alternatives, selected a setting, made a measurement decision, committed to an identification or modeling strategy, wrote the introduction in a particular order, and decided how far the conclusion should travel. Reading for taste means recovering those choices and turning them into reusable habits.
 
-The project is not a paper-summary archive. It is a structured system for turning great papers, scholars, journals, empirical designs, and research stories into reusable research skills.
-
-## Core Idea
-
-```text
-Paper / Scholar / Journal / Research Step
-        ↓
-Research Move
-        ↓
-Transferable Skill
-        ↓
-Taste Principle
-        ↓
-Theory Development
-        ↓
-Theory Test
-        ↓
-Personal Taste Model Update
+```mermaid
+flowchart LR
+    A["Read a paper"] --> B["Find the research move"]
+    B --> C["Name the transferable skill"]
+    C --> D["Test the skill on your own project"]
+    D --> E["Update your taste model"]
+    E --> F["Ask sharper questions"]
 ```
 
-The goal is not only to read better papers.
+## How To Read The Book
 
-The goal is to become the kind of researcher who can recognize, build, test, and communicate better ideas.
+Begin with `00-start-here`, which explains the vocabulary and the reading method. Then move to `01-train-your-taste-model`, where the repo becomes a practical training system. Chapter `02` explains the general features of good research taste: question choice, theory, data, measurement, identification, mechanism, contribution, writing, and anti-skills. Chapter `03` compares journal taste environments, because the same paper can be too narrow for one journal and too under-identified for another. Chapter `04` reads top scholars as patterns of judgment rather than as celebrities. Chapter `05` turns the whole system into a research workflow, from idea generation to revision.
 
----
+The visible folders are intentionally limited to these chapters. Supporting material, scripts, templates, data, and old indexes have been folded into `00-start-here/_support/` so readers do not have to decide whether to open them. If you are reading the book, ignore `_support`. If you are maintaining the repo, it is there.
 
-## The Five Pillars
+## What Counts As A Skill
 
-### 1. Train Your Taste Model
+A skill in this repo is not a slogan. It has to be portable, useful under pressure, and bounded. “Study institutions” is not a skill. “Turn an institutional difference into a mechanism and then ask what evidence would distinguish it from a competing mechanism” is a skill. The second version tells a researcher what to do, how to test whether the move worked, and when the move might become bad taste.
 
-Learn how to convert papers, scholars, journal examples, and research stories into reusable skills. Then use those skills to develop theories, derive predictions, test mechanisms, and update your own judgment.
+The same standard applies to scholar pages. A scholar page should not say that a scholar is “interested in labor” or “known for asset pricing.” It should explain the repeated research move: how the scholar compresses a question, builds a design or model, reads evidence, handles scope, and teaches the reader what changed.
 
-Start here: [`01-train-your-taste-model/`](01-train-your-taste-model/)
+## Visual Map Of The Repository
 
-### 2. General Features of Good Research Taste
-
-Study what good research taste looks like across economics and finance: important questions, clean mechanisms, credible evidence, strong measurement, meaningful contribution, and clear writing.
-
-Start here: [`02-general-features-of-good-research-taste/`](02-general-features-of-good-research-taste/)
-
-### 3. Research Tastes of Top Economics and Finance Journals
-
-Compare what different top journals tend to value in questions, evidence, theory, identification, contribution, and writing.
-
-Start here: [`03-journal-research-tastes/`](03-journal-research-tastes/)
-
-### 4. Research Tastes of Top Scholars
-
-Extract transferable skills from leading economists, finance scholars, and Nobel laureates. Each scholar gets one page.
-
-Start here: [`04-top-scholar-research-tastes/`](04-top-scholar-research-tastes/)
-
-### 5. Research Taste by Research Step
-
-Apply taste to each stage of a research project: idea generation, theory building, literature positioning, measurement, identification, empirical testing, mechanism testing, writing, and revision.
-
-Start here: [`05-tastes-by-research-step/`](05-tastes-by-research-step/)
-
----
-
-## Supporting Databases
-
-The five pillars form the curriculum. These folders form the reusable database.
-
-```text
-skills/      reusable research moves
-evidence/    papers, empirics, datasets, stories
-practice/    drills and exercises
-maps/        conceptual maps and navigation pages
-templates/   standardized page formats
-scripts/     repo helpers and checks
+```mermaid
+flowchart TB
+    R["Developing Your Research Tastes"] --> C00["00 Start Here"]
+    R --> C01["01 Train Your Taste Model"]
+    R --> C02["02 General Features"]
+    R --> C03["03 Journal Tastes"]
+    R --> C04["04 Top Scholar Tastes"]
+    R --> C05["05 Tastes By Research Step"]
+    C00 --> M["Vocabulary and method"]
+    C01 --> T["Practice loop"]
+    C02 --> G["What good taste looks like"]
+    C03 --> J["Audience and publication fit"]
+    C04 --> S["Scholar-derived judgment patterns"]
+    C05 --> W["Workflow from idea to revision"]
 ```
 
-## Local Scholar Taste Extractor
+## Evidence Standard
 
-This repo also includes a local, offline-first extractor that turns one scholar's PDFs into copy/paste research skill cards.
+The current scholar pages are written as reviewed draft chapters: they use well-known paper anchors and public scholarly reputations, but they should still be tightened over time with direct paper links, author pages, Nobel materials, journal pages, and uploaded PDFs. The standard for future upgrades is not “more text.” It is better evidence: exact papers, exact mechanisms, exact boundary conditions, and clearer warnings about when a skill should not be copied.
 
-Core output contract:
+## Local Extraction Tool
 
-- `data/raw/<scholar-slug>/` contains source PDFs and is ignored by git.
-- `data/processed/<scholar-slug>/` contains machine-readable diagnostics and is ignored by git.
-- `scholars/<scholar-slug>/README.md` is the generated public scholar page for local experiments.
-
-Install the core profile:
+The repo includes a local extractor for turning a folder of PDFs into a generated scholar README. It is a maintenance tool, not part of the reading path. Install it with `bash 00-start-here/_support/scripts/install.sh core`, then place PDFs under `00-start-here/_support/data/raw/jane-doe/` and run:
 
 ```bash
-bash scripts/install.sh core
-```
-
-Run extraction without external services:
-
-```bash
-python scripts/extract_scholar_taste.py \
+python 00-start-here/_support/scripts/extract_scholar_taste.py \
   --scholar-name "Jane Doe" \
-  --input-dir data/raw/jane-doe
+  --input-dir 00-start-here/_support/data/raw/jane-doe \
+  --processed-root 00-start-here/_support/data/processed \
+  --scholar-root 04-top-scholar-research-tastes/local-generated
 ```
 
-Optional local GROBID parsing:
-
-```bash
-docker run --rm --init -p 8070:8070 grobid/grobid:0.9.0-crf
-
-python scripts/extract_scholar_taste.py \
-  --scholar-name "Jane Doe" \
-  --input-dir data/raw/jane-doe \
-  --grobid-url http://localhost:8070
-```
-
-The extractor is rule-first and auditable: it looks for repeated gap framing, aim language, method and evidence logic, credibility checks, and critical boundaries. It does not infer research taste from topic words alone.
-
-## Status Labels
-
-Use these labels in front matter:
-
-```yaml
-status: seed | draft | reviewed | polished | canonical
-open_access_status: ready-to-draft | partial | unfinished-upload-needed
-confidence: low | medium | high
-difficulty: beginner | intermediate | advanced
-```
-
-`ready-to-draft` means there appears to be enough public/open material to create a responsible first draft. `unfinished-upload-needed` means the scholar or topic is important, but the canonical material should be uploaded before expanding the page.
-
-## How to Use This Repo
-
-For learning:
-
-1. Start with [`00-start-here/how-to-use-this-repo.md`](00-start-here/how-to-use-this-repo.md).
-2. Read the taste model section.
-3. Pick one research step or one scholar.
-4. Extract one skill.
-5. Use the skill to generate or test one theory.
-6. Record the update in your personal taste log.
-
-For building:
-
-1. Add or improve a skill card in [`skills/`](skills/).
-2. Add evidence in [`evidence/`](evidence/).
-3. Add scholar pages in [`04-top-scholar-research-tastes/`](04-top-scholar-research-tastes/).
-4. Use templates from [`templates/`](templates/).
-5. Run `python3 scripts/check_repo.py` before pushing.
-
-## Project Principle
-
-Skills are the center.
-
-Papers are evidence.  
-Scholars are patterns.  
-Journals are taste environments.  
-Research steps are application contexts.  
-Practice is how taste improves.
-
-## Copy/Paste Scholar Skills
-
-The repo now includes a generated scholar-skill layer:
-
-```text
-skills/by-scholar/
-├── economists/
-└── finance-scholars/
-```
-
-Each generated skill is designed to be copied directly into a research memo, AI prompt, self-review checklist, or project design note. The skill cards are extracted from scholars' observable paper patterns: question choice, empirical/theoretical tests, mechanism discipline, and abstract/introduction framing.
-
-Current generated layer:
-
-- 41 ready-to-draft scholars
-- 124 copy/paste scholar-derived skill cards
-- progress README files at the top of each scholar type folder
-- upload-needed scholars kept unfinished until papers are provided
-
-## Simplified Page Rule
-
-To keep the repo easy to browse:
-
-- one scholar = one folder with one `README.md`;
-- all scholar-derived skills live as sections inside that scholar README;
-- one journal/perspective/research-step = one folder with one `README.md`;
-- separate per-skill files are used only for general skill categories, not for scholar-specific skills.
+The tool is rule-first and auditable: it looks for repeated gap framing, aim language, method language, credibility checks, and scope boundaries rather than inferring taste from topic words alone.

@@ -11,312 +11,62 @@ layout: "scholar-readme"
 
 # Gabriel Zucman
 
-## One-Sentence Research Taste
+Gabriel Zucman is read here as a source of research judgment in economics, not as a topic list. The question is what a researcher can learn from the repeated shape of the work: what kinds of puzzles become important, what mechanisms or designs carry the argument, what evidence is treated as persuasive, and how the paper keeps its contribution within honest boundaries.
 
-This page extracts reusable research taste from Gabriel Zucman: how the scholar selects questions, builds mechanisms or designs, tests claims, and frames the contribution in abstracts and introductions.
+The dominant taste signal on this page is visible in the following skills: Measure hidden wealth using accounting inconsistencies, Turn macro-financial data gaps into research questions, Combine public finance, international finance, and distribution. Read them as a connected chapter. Together they describe how to move from an interesting setting to a disciplined research claim.
 
-## Page Logic
-
-This is the only page for this scholar. All generated copy/paste skills are embedded below as sections. There are no separate skill files for this scholar.
-
-The extraction treats research taste as observable from four traces in the scholar's papers:
-
-1. **Question choice** — what kind of puzzle the scholar treats as important.
-2. **Theory or empirical object** — what mechanism, friction, institution, market, or model is made central.
-3. **Test structure** — what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing** — how the paper moves from puzzle to contribution without overclaiming.
-
-## Representative Evidence Anchors to Verify
-
-- The Missing Wealth of Nations
-- Taxing Across Borders
-- Global Wealth Inequality
-
-## How to Use This Page
-
-Copy one skill section into your research notebook, AI prompt, or paper memo. Then replace the bracketed placeholders with your own project details.
-
-Use the critical boundary before trusting the skill. The goal is not to imitate the scholar's topic, but to imitate the transferable judgment pattern.
-
----
-
-# Copy/Paste Skills
-
-## Skill: Combine public finance, international finance, and distribution
-
-**Scholar source:** Gabriel Zucman  
-**Skill family:** `economics-specific`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
-
-### Copy/Paste Research Skill
-
-```text
-Use this skill when I am designing or evaluating a project:
-
-**Skill:** Combine public finance, international finance, and distribution.
-
-1. Start with the economic setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
+```mermaid
+flowchart LR
+    A["Question choice"] --> B["Mechanism or design"]
+    B --> C["Evidence standard"]
+    C --> D["Contribution claim"]
+    D --> E["Boundary condition"]
 ```
 
-### Copy/Paste AI / Self-Review Prompt
+## Evidence Base
 
-```text
-I am working on a research idea in economics. Apply the **Combine public finance, international finance, and distribution** skill, inspired by Gabriel Zucman.
+The page is built from representative paper anchors and public scholarly reputation, then translated into portable skills. The anchors are not decorative. They are a check against fantasy: if a skill cannot be seen across the papers, it should be downgraded or removed. The Missing Wealth of Nations Taxing Across Borders Global Wealth Inequality
 
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
+| Evidence Anchor | What To Check |
+|---|---|
+| The Missing Wealth of Nations | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
+| Taxing Across Borders | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
+| Global Wealth Inequality | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
 
-### What This Skill Means
+## Reading The Taste
 
-This skill turns a repeated research move in Gabriel Zucman's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a substantive puzzle, narrows it into an economic mechanism, then explains why the design or model can teach us something general beyond the setting.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- The Missing Wealth of Nations
-- Taxing Across Borders
-- Global Wealth Inequality
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Combine public finance, international finance, and distribution
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
+When reading Gabriel Zucman, focus first on the opening move. Ask how the paper convinces the reader that the question matters. Then look for the engine of the paper: the model, design, data construction, comparison, historical fact, market friction, institutional detail, or mechanism that does the real work. Finally, study the boundary. The strongest papers usually know what they have not proved.
 
 ## Skill: Measure hidden wealth using accounting inconsistencies
 
-**Scholar source:** Gabriel Zucman  
-**Skill family:** `measurement`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
+This skill captures one recurring move in Gabriel Zucman's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Copy/Paste Research Skill
+The portable judgment is to treat measurement as part of the argument rather than as a technical appendix. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-```text
-Use this skill when I am designing or evaluating a project:
+A useful self-review prompt is: "Apply the skill 'Measure hidden wealth using accounting inconsistencies' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-**Skill:** Measure hidden wealth using accounting inconsistencies.
-
-1. Start with the economic setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
-```
-
-### Copy/Paste AI / Self-Review Prompt
-
-```text
-I am working on a research idea in economics. Apply the **Measure hidden wealth using accounting inconsistencies** skill, inspired by Gabriel Zucman.
-
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
-
-### What This Skill Means
-
-This skill turns a repeated research move in Gabriel Zucman's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a substantive puzzle, narrows it into an economic mechanism, then explains why the design or model can teach us something general beyond the setting.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- The Missing Wealth of Nations
-- Taxing Across Borders
-- Global Wealth Inequality
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Measure hidden wealth using accounting inconsistencies
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
+The critical boundary is important. This becomes bad taste when a convenient proxy is treated as if it fully captures the concept. A strong use of the skill should make the project more honest as well as more ambitious.
 
 ## Skill: Turn macro-financial data gaps into research questions
 
-**Scholar source:** Gabriel Zucman  
-**Skill family:** `measurement`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
+This skill captures one recurring move in Gabriel Zucman's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Copy/Paste Research Skill
+The portable judgment is to treat measurement as part of the argument rather than as a technical appendix. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-```text
-Use this skill when I am designing or evaluating a project:
+A useful self-review prompt is: "Apply the skill 'Turn macro-financial data gaps into research questions' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-**Skill:** Turn macro-financial data gaps into research questions.
+The critical boundary is important. This becomes bad taste when a convenient proxy is treated as if it fully captures the concept. A strong use of the skill should make the project more honest as well as more ambitious.
 
-1. Start with the economic setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
-```
+## Skill: Combine public finance, international finance, and distribution
 
-### Copy/Paste AI / Self-Review Prompt
+This skill captures one recurring move in Gabriel Zucman's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-```text
-I am working on a research idea in economics. Apply the **Turn macro-financial data gaps into research questions** skill, inspired by Gabriel Zucman.
+The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
+A useful self-review prompt is: "Apply the skill 'Combine public finance, international finance, and distribution' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-### What This Skill Means
+The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
 
-This skill turns a repeated research move in Gabriel Zucman's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
+## How To Use This Page
 
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a substantive puzzle, narrows it into an economic mechanism, then explains why the design or model can teach us something general beyond the setting.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- The Missing Wealth of Nations
-- Taxing Across Borders
-- Global Wealth Inequality
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Turn macro-financial data gaps into research questions
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
-
-## Page Progress
-
-- Scholar status: `draft-filled`
-- Open-access status: `ready-to-draft`
-- Open-access confidence: `high`
-- Embedded copy/paste skills: **3**
-- Evidence links/PDF citations: `to-verify`
-- Review status: `not-reviewed`
+Use this page by choosing one skill and applying it to a live project in prose. Write the project version of the puzzle, the mechanism or design, the evidence standard, and the boundary. If the exercise only produces a slogan, return to the evidence anchors and read again. The goal is to absorb Gabriel Zucman's research judgment without becoming derivative.

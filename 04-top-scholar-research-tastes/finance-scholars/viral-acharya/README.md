@@ -11,312 +11,62 @@ layout: "scholar-readme"
 
 # Viral Acharya
 
-## One-Sentence Research Taste
+Viral Acharya is read here as a source of research judgment in finance, not as a topic list. The question is what a researcher can learn from the repeated shape of the work: what kinds of puzzles become important, what mechanisms or designs carry the argument, what evidence is treated as persuasive, and how the paper keeps its contribution within honest boundaries.
 
-This page extracts reusable research taste from Viral Acharya: how the scholar selects questions, builds mechanisms or designs, tests claims, and frames the contribution in abstracts and introductions.
+The dominant taste signal on this page is visible in the following skills: Measure systemic risk through bank behavior and market signals, Connect credit frictions to macroeconomic outcomes, Use crisis episodes to identify financial mechanisms. Read them as a connected chapter. Together they describe how to move from an interesting setting to a disciplined research claim.
 
-## Page Logic
-
-This is the only page for this scholar. All generated copy/paste skills are embedded below as sections. There are no separate skill files for this scholar.
-
-The extraction treats research taste as observable from four traces in the scholar's papers:
-
-1. **Question choice** — what kind of puzzle the scholar treats as important.
-2. **Theory or empirical object** — what mechanism, friction, institution, market, or model is made central.
-3. **Test structure** — what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing** — how the paper moves from puzzle to contribution without overclaiming.
-
-## Representative Evidence Anchors to Verify
-
-- A Theory of Systemic Risk and Design of Prudential Bank Regulation
-- Measuring Systemic Risk
-- Sovereign Debt, Government Myopia, and the Financial Sector
-
-## How to Use This Page
-
-Copy one skill section into your research notebook, AI prompt, or paper memo. Then replace the bracketed placeholders with your own project details.
-
-Use the critical boundary before trusting the skill. The goal is not to imitate the scholar's topic, but to imitate the transferable judgment pattern.
-
----
-
-# Copy/Paste Skills
-
-## Skill: Connect credit frictions to macroeconomic outcomes
-
-**Scholar source:** Viral Acharya  
-**Skill family:** `theory-building`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
-
-### Copy/Paste Research Skill
-
-```text
-Use this skill when I am designing or evaluating a project:
-
-**Skill:** Connect credit frictions to macroeconomic outcomes.
-
-1. Start with the financial setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
+```mermaid
+flowchart LR
+    A["Question choice"] --> B["Mechanism or design"]
+    B --> C["Evidence standard"]
+    C --> D["Contribution claim"]
+    D --> E["Boundary condition"]
 ```
 
-### Copy/Paste AI / Self-Review Prompt
+## Evidence Base
 
-```text
-I am working on a research idea in finance. Apply the **Connect credit frictions to macroeconomic outcomes** skill, inspired by Viral Acharya.
+The page is built from representative paper anchors and public scholarly reputation, then translated into portable skills. The anchors are not decorative. They are a check against fantasy: if a skill cannot be seen across the papers, it should be downgraded or removed. A Theory of Systemic Risk and Design of Prudential Bank Regulation Measuring Systemic Risk Sovereign Debt, Government Myopia, and the Financial Sector
 
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
+| Evidence Anchor | What To Check |
+|---|---|
+| A Theory of Systemic Risk and Design of Prudential Bank Regulation | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
+| Measuring Systemic Risk | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
+| Sovereign Debt, Government Myopia, and the Financial Sector | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
 
-### What This Skill Means
+## Reading The Taste
 
-This skill turns a repeated research move in Viral Acharya's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a market, firm, intermediary, or price puzzle, then frames the paper around what the evidence can teach us about risk, beliefs, constraints, incentives, or financial institutions.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- A Theory of Systemic Risk and Design of Prudential Bank Regulation
-- Measuring Systemic Risk
-- Sovereign Debt, Government Myopia, and the Financial Sector
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Connect credit frictions to macroeconomic outcomes
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
+When reading Viral Acharya, focus first on the opening move. Ask how the paper convinces the reader that the question matters. Then look for the engine of the paper: the model, design, data construction, comparison, historical fact, market friction, institutional detail, or mechanism that does the real work. Finally, study the boundary. The strongest papers usually know what they have not proved.
 
 ## Skill: Measure systemic risk through bank behavior and market signals
 
-**Scholar source:** Viral Acharya  
-**Skill family:** `measurement`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
+This skill captures one recurring move in Viral Acharya's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Copy/Paste Research Skill
+The portable judgment is to treat measurement as part of the argument rather than as a technical appendix. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-```text
-Use this skill when I am designing or evaluating a project:
+A useful self-review prompt is: "Apply the skill 'Measure systemic risk through bank behavior and market signals' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-**Skill:** Measure systemic risk through bank behavior and market signals.
+The critical boundary is important. This becomes bad taste when a convenient proxy is treated as if it fully captures the concept. A strong use of the skill should make the project more honest as well as more ambitious.
 
-1. Start with the financial setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
-```
+## Skill: Connect credit frictions to macroeconomic outcomes
 
-### Copy/Paste AI / Self-Review Prompt
+This skill captures one recurring move in Viral Acharya's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-```text
-I am working on a research idea in finance. Apply the **Measure systemic risk through bank behavior and market signals** skill, inspired by Viral Acharya.
+The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
+A useful self-review prompt is: "Apply the skill 'Connect credit frictions to macroeconomic outcomes' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-### What This Skill Means
-
-This skill turns a repeated research move in Viral Acharya's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a market, firm, intermediary, or price puzzle, then frames the paper around what the evidence can teach us about risk, beliefs, constraints, incentives, or financial institutions.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- A Theory of Systemic Risk and Design of Prudential Bank Regulation
-- Measuring Systemic Risk
-- Sovereign Debt, Government Myopia, and the Financial Sector
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Measure systemic risk through bank behavior and market signals
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
+The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
 
 ## Skill: Use crisis episodes to identify financial mechanisms
 
-**Scholar source:** Viral Acharya  
-**Skill family:** `theory-testing`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
+This skill captures one recurring move in Viral Acharya's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Copy/Paste Research Skill
+The portable judgment is to isolate the mechanism sharply enough that the reader can see what would be true if the story were right. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-```text
-Use this skill when I am designing or evaluating a project:
+A useful self-review prompt is: "Apply the skill 'Use crisis episodes to identify financial mechanisms' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-**Skill:** Use crisis episodes to identify financial mechanisms.
+The critical boundary is important. This becomes bad taste when the model or mechanism decorates the paper without creating a sharper prediction or interpretation. A strong use of the skill should make the project more honest as well as more ambitious.
 
-1. Start with the financial setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
-```
+## How To Use This Page
 
-### Copy/Paste AI / Self-Review Prompt
-
-```text
-I am working on a research idea in finance. Apply the **Use crisis episodes to identify financial mechanisms** skill, inspired by Viral Acharya.
-
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
-
-### What This Skill Means
-
-This skill turns a repeated research move in Viral Acharya's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a market, firm, intermediary, or price puzzle, then frames the paper around what the evidence can teach us about risk, beliefs, constraints, incentives, or financial institutions.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- A Theory of Systemic Risk and Design of Prudential Bank Regulation
-- Measuring Systemic Risk
-- Sovereign Debt, Government Myopia, and the Financial Sector
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Use crisis episodes to identify financial mechanisms
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
-
-## Page Progress
-
-- Scholar status: `draft-filled`
-- Open-access status: `ready-to-draft`
-- Open-access confidence: `high`
-- Embedded copy/paste skills: **3**
-- Evidence links/PDF citations: `to-verify`
-- Review status: `not-reviewed`
+Use this page by choosing one skill and applying it to a live project in prose. Write the project version of the puzzle, the mechanism or design, the evidence standard, and the boundary. If the exercise only produces a slogan, return to the evidence anchors and read again. The goal is to absorb Viral Acharya's research judgment without becoming derivative.

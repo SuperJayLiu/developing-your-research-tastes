@@ -1,38 +1,18 @@
 # Repository Structure
 
-The repo is organized as a curriculum plus a small database layer.
+The public repository is organized as a five-chapter book. Readers should only need the folders numbered `00` through `05`. Everything else that supports the site, scripts, templates, old indexes, data, and checks has been folded into `00-start-here/_support/` so the top-level GitHub view stays readable.
 
-## Main Curriculum
-
-```text
-00-start-here/
-01-train-your-taste-model/
-02-general-features-of-good-research-taste/
-03-journal-research-tastes/
-04-top-scholar-research-tastes/
-05-tastes-by-research-step/
+```mermaid
+flowchart TB
+    A["README"] --> B["00 Start Here"]
+    A --> C["01 Train Your Taste Model"]
+    A --> D["02 General Features"]
+    A --> E["03 Journal Tastes"]
+    A --> F["04 Top Scholar Tastes"]
+    A --> G["05 Research Step Tastes"]
+    B --> H["_support for maintainers only"]
 ```
 
-## Simplified README Rule
+The numbered chapters are the reading path. Chapter `00` introduces the method and vocabulary. Chapter `01` teaches the taste-training loop. Chapter `02` explains what good and bad research taste look like across core dimensions. Chapter `03` compares journal taste environments. Chapter `04` turns top scholars into portable research moves. Chapter `05` applies the whole system to the life cycle of a research project.
 
-For browsability, major content units use a single README page:
-
-```text
-04-top-scholar-research-tastes/economists/daron-acemoglu/README.md
-03-journal-research-tastes/top-finance-journals/journal-of-finance/README.md
-02-general-features-of-good-research-taste/good-question-taste/README.md
-05-tastes-by-research-step/03-building-theory/README.md
-```
-
-No scholar has separate nested skill files. All of that scholar's copy/paste skills are embedded inside the scholar README.
-
-## Supporting Folders
-
-```text
-skills/       general reusable skill categories
-evidence/     paper, empirical, story, and dataset examples
-practice/     drills and exercises
-maps/         conceptual maps
-templates/    page templates
-scripts/      repo checks and utility scripts
-```
+Maintainers can use `_support` when they need scripts, templates, hidden data, or archival material. Readers should ignore it.

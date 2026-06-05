@@ -11,312 +11,62 @@ layout: "scholar-readme"
 
 # Philippe Aghion
 
-## One-Sentence Research Taste
+Philippe Aghion is read here as a source of research judgment in economics, not as a topic list. The question is what a researcher can learn from the repeated shape of the work: what kinds of puzzles become important, what mechanisms or designs carry the argument, what evidence is treated as persuasive, and how the paper keeps its contribution within honest boundaries.
 
-This page extracts reusable research taste from Philippe Aghion: how the scholar selects questions, builds mechanisms or designs, tests claims, and frames the contribution in abstracts and introductions.
+The dominant taste signal on this page is visible in the following skills: Model growth as creative destruction, Link innovation incentives to competition and institutions, Use theory and empirics together to study technological change. Read them as a connected chapter. Together they describe how to move from an interesting setting to a disciplined research claim.
 
-## Page Logic
-
-This is the only page for this scholar. All generated copy/paste skills are embedded below as sections. There are no separate skill files for this scholar.
-
-The extraction treats research taste as observable from four traces in the scholar's papers:
-
-1. **Question choice** — what kind of puzzle the scholar treats as important.
-2. **Theory or empirical object** — what mechanism, friction, institution, market, or model is made central.
-3. **Test structure** — what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing** — how the paper moves from puzzle to contribution without overclaiming.
-
-## Representative Evidence Anchors to Verify
-
-- A Model of Growth Through Creative Destruction
-- Competition and Innovation: An Inverted-U Relationship
-- Endogenous Growth Theory
-
-## How to Use This Page
-
-Copy one skill section into your research notebook, AI prompt, or paper memo. Then replace the bracketed placeholders with your own project details.
-
-Use the critical boundary before trusting the skill. The goal is not to imitate the scholar's topic, but to imitate the transferable judgment pattern.
-
----
-
-# Copy/Paste Skills
-
-## Skill: Link innovation incentives to competition and institutions
-
-**Scholar source:** Philippe Aghion  
-**Skill family:** `theory-building`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
-
-### Copy/Paste Research Skill
-
-```text
-Use this skill when I am designing or evaluating a project:
-
-**Skill:** Link innovation incentives to competition and institutions.
-
-1. Start with the economic setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
+```mermaid
+flowchart LR
+    A["Question choice"] --> B["Mechanism or design"]
+    B --> C["Evidence standard"]
+    C --> D["Contribution claim"]
+    D --> E["Boundary condition"]
 ```
 
-### Copy/Paste AI / Self-Review Prompt
+## Evidence Base
 
-```text
-I am working on a research idea in economics. Apply the **Link innovation incentives to competition and institutions** skill, inspired by Philippe Aghion.
+The page is built from representative paper anchors and public scholarly reputation, then translated into portable skills. The anchors are not decorative. They are a check against fantasy: if a skill cannot be seen across the papers, it should be downgraded or removed. A Model of Growth Through Creative Destruction Competition and Innovation: An Inverted-U Relationship Endogenous Growth Theory
 
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
+| Evidence Anchor | What To Check |
+|---|---|
+| A Model of Growth Through Creative Destruction | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
+| Competition and Innovation: An Inverted-U Relationship | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
+| Endogenous Growth Theory | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
 
-### What This Skill Means
+## Reading The Taste
 
-This skill turns a repeated research move in Philippe Aghion's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a substantive puzzle, narrows it into an economic mechanism, then explains why the design or model can teach us something general beyond the setting.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- A Model of Growth Through Creative Destruction
-- Competition and Innovation: An Inverted-U Relationship
-- Endogenous Growth Theory
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Link innovation incentives to competition and institutions
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
+When reading Philippe Aghion, focus first on the opening move. Ask how the paper convinces the reader that the question matters. Then look for the engine of the paper: the model, design, data construction, comparison, historical fact, market friction, institutional detail, or mechanism that does the real work. Finally, study the boundary. The strongest papers usually know what they have not proved.
 
 ## Skill: Model growth as creative destruction
 
-**Scholar source:** Philippe Aghion  
-**Skill family:** `theory-building`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
+This skill captures one recurring move in Philippe Aghion's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Copy/Paste Research Skill
+The portable judgment is to isolate the mechanism sharply enough that the reader can see what would be true if the story were right. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-```text
-Use this skill when I am designing or evaluating a project:
+A useful self-review prompt is: "Apply the skill 'Model growth as creative destruction' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-**Skill:** Model growth as creative destruction.
+The critical boundary is important. This becomes bad taste when the model or mechanism decorates the paper without creating a sharper prediction or interpretation. A strong use of the skill should make the project more honest as well as more ambitious.
 
-1. Start with the economic setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
-```
+## Skill: Link innovation incentives to competition and institutions
 
-### Copy/Paste AI / Self-Review Prompt
+This skill captures one recurring move in Philippe Aghion's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-```text
-I am working on a research idea in economics. Apply the **Model growth as creative destruction** skill, inspired by Philippe Aghion.
+The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
+A useful self-review prompt is: "Apply the skill 'Link innovation incentives to competition and institutions' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-### What This Skill Means
-
-This skill turns a repeated research move in Philippe Aghion's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a substantive puzzle, narrows it into an economic mechanism, then explains why the design or model can teach us something general beyond the setting.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- A Model of Growth Through Creative Destruction
-- Competition and Innovation: An Inverted-U Relationship
-- Endogenous Growth Theory
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Model growth as creative destruction
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
+The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
 
 ## Skill: Use theory and empirics together to study technological change
 
-**Scholar source:** Philippe Aghion  
-**Skill family:** `theory-building`  
-**Status:** `draft-filled` — useful as a working skill card, but paper links and page-level citations still need verification before `reviewed`.
+This skill captures one recurring move in Philippe Aghion's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Copy/Paste Research Skill
+The portable judgment is to isolate the mechanism sharply enough that the reader can see what would be true if the story were right. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-```text
-Use this skill when I am designing or evaluating a project:
+A useful self-review prompt is: "Apply the skill 'Use theory and empirics together to study technological change' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-**Skill:** Use theory and empirics together to study technological change.
+The critical boundary is important. This becomes bad taste when the model or mechanism decorates the paper without creating a sharper prediction or interpretation. A strong use of the skill should make the project more honest as well as more ambitious.
 
-1. Start with the economic setting where the puzzle appears.
-2. State the mechanism in one sentence: **X affects Y because Z**.
-3. Name the closest alternative explanation that could also fit the fact.
-4. Write the empirical or theoretical test that would distinguish my mechanism from that alternative.
-5. In the abstract/introduction, promise only the learning that the test can actually support.
-6. End by saying what this teaches beyond the original setting.
-```
+## How To Use This Page
 
-### Copy/Paste AI / Self-Review Prompt
-
-```text
-I am working on a research idea in economics. Apply the **Use theory and empirics together to study technological change** skill, inspired by Philippe Aghion.
-
-Please help me:
-1. identify the core puzzle;
-2. write the mechanism in one sentence;
-3. list two alternative mechanisms;
-4. design one empirical or theoretical test that can separate them;
-5. state what the introduction should claim;
-6. state what the introduction should not overclaim.
-```
-
-### What This Skill Means
-
-This skill turns a repeated research move in Philippe Aghion's work into a portable habit. The point is **not** to copy the scholar's topic. The point is to copy the judgment: how the paper moves from a puzzle to a mechanism, from a mechanism to a test, and from a test to a disciplined contribution claim.
-
-### How the Taste Was Extracted
-
-I extract the taste from four observable traces in the scholar's papers:
-
-1. **Question choice:** what kind of puzzle is treated as worth explaining.
-2. **Theory or empirical object:** what mechanism, friction, institution, market, or model is made central.
-3. **Test structure:** what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing:** how the contribution is made legible before the technical details.
-
-For this scholar, the recurring introduction pattern is: the paper starts from a substantive puzzle, narrows it into an economic mechanism, then explains why the design or model can teach us something general beyond the setting.
-
-### Evidence Anchors to Verify
-
-These are the initial paper anchors used to motivate the skill. Before marking this page as `reviewed`, add links, uploaded PDFs, or precise citations.
-
-- A Model of Growth Through Creative Destruction
-- Competition and Innovation: An Inverted-U Relationship
-- Endogenous Growth Theory
-
-### What the Papers Tend to Test
-
-The papers behind this skill tend to test whether a proposed mechanism does real explanatory work. In practice, that means asking whether the mechanism predicts patterns that alternative stories would not predict, whether the design/model isolates the key force, and whether the result changes how we interpret a broader class of problems.
-
-### How to Use This in Your Own Research
-
-1. Pick one project idea.
-2. Rewrite the idea as a mechanism rather than a topic.
-3. Ask what observable pattern must be true if the mechanism is correct.
-4. Ask what pattern would make you abandon or revise the mechanism.
-5. Write a three-sentence introduction using the structure: **puzzle → mechanism → test → contribution**.
-
-### Critical Boundary
-
-This skill becomes bad taste if it is used mechanically. Do not imitate the surface feature of the scholar's work. Imitate the logic of the move. A project is weak if the skill only produces a clever framing but does not create a sharper test, cleaner mechanism, better measurement, or more honest contribution claim.
-
-### Mini Exercise
-
-```text
-Project idea: [write your topic]
-Skill applied: Use theory and empirics together to study technological change
-Puzzle: [what is surprising or unresolved?]
-Mechanism: [X affects Y because Z]
-Main test: [what evidence would support the mechanism?]
-Alternative explanation: [what else could explain the same fact?]
-Discriminating test: [what would separate the two stories?]
-Introduction claim: [what you can honestly claim]
-Boundary: [what you cannot claim]
-```
-
----
-
-## Page Progress
-
-- Scholar status: `draft-filled`
-- Open-access status: `ready-to-draft`
-- Open-access confidence: `medium`
-- Embedded copy/paste skills: **3**
-- Evidence links/PDF citations: `to-verify`
-- Review status: `not-reviewed`
+Use this page by choosing one skill and applying it to a live project in prose. Write the project version of the puzzle, the mechanism or design, the evidence standard, and the boundary. If the exercise only produces a slogan, return to the evidence anchors and read again. The goal is to absorb Philippe Aghion's research judgment without becoming derivative.

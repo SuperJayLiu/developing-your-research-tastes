@@ -17,4 +17,7 @@ _site/
 
 data/raw/
 data/processed/
+00-start-here/_support/data/raw/
+00-start-here/_support/data/processed/
 models/local/
+00-start-here/_support/models/local/

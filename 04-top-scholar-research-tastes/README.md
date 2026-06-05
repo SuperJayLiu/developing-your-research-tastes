@@ -1,45 +1,32 @@
-# Top Scholar Research Tastes
+# 04 - Top Scholar Research Tastes
 
-This section uses a simple browsing rule:
+This chapter turns top scholars into a reading laboratory. The purpose is not admiration. The purpose is extraction. A scholar's body of work shows repeated choices about what counts as an important question, what kind of mechanism deserves attention, what evidence can carry the argument, and how far the conclusion should travel. Those choices can be translated into research skills.
 
-> one scholar = one README page.
+A serious reader should not copy a scholar's topic. Copying topics usually produces derivative work. The useful move is to copy a pattern of judgment. Acemoglu teaches how to connect large institutional questions to mechanisms and evidence. Card and Angrist teach how design clarity can discipline causal claims. Goldin teaches how historical measurement can reshape economic questions. Fama, French, Cochrane, Shiller, Brunnermeier, and others teach different ways to make finance arguments travel from prices and frictions to broader beliefs about markets.
 
-Each scholar has a folder containing exactly one `README.md`. All copy/paste research taste skills for that scholar are embedded as sections in that page.
-
-## Browse
-
-- [Economists](economists/)
-- [Finance Scholars](finance-scholars/)
-- [Nobel Laureates](nobel-laureates/)
-- [Unfinished / Upload Needed](unfinished-upload-needed.md)
-
-## Why This Structure
-
-The previous design created separate files for each scholar skill. That was too complex for browsing and maintenance.
-
-The revised design keeps the logic simple:
-
-```text
-Scholar page
-  ├── one-sentence research taste
-  ├── evidence anchors to verify
-  ├── copy/paste skill 1
-  ├── copy/paste skill 2
-  ├── copy/paste skill 3
-  └── page progress
+```mermaid
+flowchart LR
+    A["Scholar corpus"] --> B["Repeated question type"]
+    A --> C["Repeated evidence or model type"]
+    A --> D["Repeated writing move"]
+    B --> E["Skill card"]
+    C --> E
+    D --> E
+    E --> F["Use on your project"]
 ```
 
-## Extraction Standard
+## How The Pages Were Checked
 
-A scholar-derived skill should be:
+The current pages use representative paper anchors and well-established public research profiles to form reviewed draft skill cards. They should still be upgraded over time with exact paper links and direct quotations where appropriate. The check performed here is conceptual rather than bibliographic: each skill must be plausibly tied to repeated work, transferable beyond one paper, and bounded so the reader knows when imitation would become bad taste.
 
-1. **Generalisable** — useful beyond the original paper or field.
-2. **Justifiable** — grounded in observable patterns from papers.
-3. **Critical** — includes a boundary condition and warns against mechanical imitation.
-4. **Copy/paste-ready** — usable directly as a research notebook prompt or self-review checklist.
+## How To Read This Chapter
 
-## Progress
+Choose one economist and one finance scholar. Read the one-sentence taste, then read the skill cards as paragraphs about judgment. Ask three questions: what does this scholar make important, what kind of evidence or model does the scholar trust, and what claim would this scholar refuse to overstate? The answers are more valuable than the scholar label.
 
-- Economics scholar pages: see [`economists/README.md`](economists/)
-- Finance scholar pages: see [`finance-scholars/README.md`](finance-scholars/)
-- Nobel pages: see [`nobel-laureates/README.md`](nobel-laureates/)
+## Scholar Groups
+
+The economist pages emphasize institutions, labor, development, industrial organization, public finance, history, econometrics, and theory. The finance pages emphasize asset pricing, corporate finance, intermediation, behavioral finance, macro-finance, banking, risk, and market design. Read across the boundary; many of the best research skills travel better than field labels suggest.
+
+- [Economists](economists/)
+- [Finance scholars](finance-scholars/)
+- [Nobel laureates](nobel-laureates/)

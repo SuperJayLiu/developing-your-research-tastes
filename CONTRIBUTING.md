@@ -1,33 +1,14 @@
 # Contributing
 
-This repo is organized around research skills.
+Contributions should strengthen the book rather than add more visible folders. If you add a new reader-facing page, place it inside one of the numbered chapters from `00` to `05`. If you add scripts, templates, generated data, or archival support material, place it under `00-start-here/_support/` so the public reading path remains clean.
 
-Before adding content, ask:
+A good contribution reads like a chapter paragraph, not a loose note. Prefer prose that explains the judgment behind a research move. Tables and diagrams are welcome when they clarify structure, but a page should not become a collection of unexplained bullet points.
 
-```text
-What reusable research skill does this teach?
-```
-
-## Contribution Types
-
-- Skill card
-- Scholar page
-- Paper summary
-- Journal taste page
-- Research step page
-- Practice drill
-- Evidence page
-
-## Rules
-
-1. Do not add generic summaries without skill extraction.
-2. Mark open-access status honestly.
-3. Use templates.
-4. Link pages together.
-5. Do not mark pages as reviewed without evidence.
-
-## Local Check
+Before pushing, run:
 
 ```bash
-python3 scripts/check_repo.py
+python3 00-start-here/_support/scripts/check_repo.py
+pytest -q 00-start-here/_support/tests
 ```
+
+When improving scholar pages, check the skill against representative papers. A skill should be transferable, supported by repeated patterns, and bounded by a clear warning about when imitation would become bad taste.

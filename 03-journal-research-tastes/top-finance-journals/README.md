@@ -1,19 +1,15 @@
 # Top Finance Journals
 
-Each journal perspective has one page: a folder with a single `README.md`.
+This section should be read as a comparison chapter. The point is not that one journal has taste and another does not. The point is that each journal asks a different version of the same hard question: why should this audience believe that this paper changes something important?
 
-The goal is not to game journals. The goal is to learn what kinds of question, design, theory, evidence, and writing taste different journals tend to reward.
+A useful way to read the pages is to compare the burden of proof. Some journals demand broad economic importance. Some demand unusually clean theory. Some reward empirical designs that change what the field believes about a mechanism. Some are more willing to accept specialized settings when the lesson travels. The skill is to diagnose that burden before writing the paper as if every audience were the same.
 
-## Pages
+```mermaid
+flowchart LR
+    A["Audience"] --> B["Question"]
+    B --> C["Evidence or theory standard"]
+    C --> D["Contribution threshold"]
+    D --> E["Writing strategy"]
+```
 
-- [Journal Of Finance](journal-of-finance/)
-- [Journal Of Financial And Quantitative Analysis](journal-of-financial-and-quantitative-analysis/)
-- [Journal Of Financial Economics](journal-of-financial-economics/)
-- [Management Science Finance](management-science-finance/)
-- [Review Of Financial Studies](review-of-financial-studies/)
-
-## Progress
-
-- Journal pages generated: **5**
-- Status: `draft`
-- Evidence examples and paper links: `to-expand`
+Read one journal page, then immediately compare it with another. The contrast is where taste becomes visible.

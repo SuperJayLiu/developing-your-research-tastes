@@ -1,17 +1,12 @@
-# Nobel Laureates: Skill Generation Progress
+# Nobel Laureates
 
-This folder will track Nobel-laureate-specific research taste pages.
+This page is a bridge rather than a trophy case. Nobel recognition often makes a scholar's contribution easier to summarize, but research taste still has to be extracted from the papers themselves. The useful question is not why the scholar became famous. The useful question is what repeated research move became powerful enough to change how other scholars ask questions.
 
-Current approach:
+Read Nobel-linked work for the deep move: a new way to measure, a new way to model incentives, a new way to identify causal effects, a new way to interpret market prices, or a new way to connect institutions to outcomes. Then ask how that move can be practiced without pretending your project has the same scope.
 
-- Nobel laureates who are already represented under `economists/` or `finance-scholars/` are first handled in those field folders.
-- A separate Nobel page should be created only when the page extracts Nobel-specific taste, such as how the prize contribution reorganized a field.
-- Upload or link Nobel lectures and canonical papers before marking Nobel-specific pages as `reviewed`.
-
-## Progress
-
-| Type | Status |
-|---|---|
-| Field scholar pages | in progress |
-| Nobel-specific synthesis pages | planned |
-| Verified Nobel lecture links | needed |
+```mermaid
+flowchart LR
+    A["Recognized contribution"] --> B["Underlying research move"]
+    B --> C["Portable skill"]
+    C --> D["Boundary against imitation"]
+```

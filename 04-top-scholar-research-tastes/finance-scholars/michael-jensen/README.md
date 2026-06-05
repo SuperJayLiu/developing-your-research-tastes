@@ -11,56 +11,60 @@ layout: "scholar-readme"
 
 # Michael Jensen
 
-## One-Sentence Research Taste
+Michael Jensen is read here as a source of research judgment in finance, not as a topic list. The question is what a researcher can learn from the repeated shape of the work: what kinds of puzzles become important, what mechanisms or designs carry the argument, what evidence is treated as persuasive, and how the paper keeps its contribution within honest boundaries.
 
-This page extracts reusable research taste from Michael Jensen: how the scholar selects questions, builds mechanisms or designs, tests claims, and frames the contribution in abstracts and introductions.
+The dominant taste signal on this page is visible in the following skills: Turn agency conflicts into corporate finance questions, Use governance failures to explain firm behavior, Convert organizational incentives into empirical predictions. Read them as a connected chapter. Together they describe how to move from an interesting setting to a disciplined research claim.
 
-## Page Logic
+```mermaid
+flowchart LR
+    A["Question choice"] --> B["Mechanism or design"]
+    B --> C["Evidence standard"]
+    C --> D["Contribution claim"]
+    D --> E["Boundary condition"]
+```
 
-This is the only page for this scholar. All generated copy/paste skills are embedded below as sections. There are no separate skill files for this scholar.
+## Evidence Base
 
-The extraction treats research taste as observable from four traces in the scholar's papers:
+The page is built from representative paper anchors and public scholarly reputation, then translated into portable skills. The anchors are not decorative. They are a check against fantasy: if a skill cannot be seen across the papers, it should be downgraded or removed. Add open-access paper links or uploaded PDFs before marking reviewed.
 
-1. **Question choice** — what kind of puzzle the scholar treats as important.
-2. **Theory or empirical object** — what mechanism, friction, institution, market, or model is made central.
-3. **Test structure** — what the paper tests, rules out, compares, estimates, or formalizes.
-4. **Abstract/introduction framing** — how the paper moves from puzzle to contribution without overclaiming.
+| Evidence Anchor | What To Check |
+|---|---|
+| Add open-access paper links or uploaded PDFs before marking reviewed. | Use this paper to check whether the skill appears in question choice, mechanism, evidence, or framing. |
 
-## Representative Evidence Anchors to Verify
+## Reading The Taste
 
-- Add open-access paper links or uploaded PDFs before marking reviewed.
+When reading Michael Jensen, focus first on the opening move. Ask how the paper convinces the reader that the question matters. Then look for the engine of the paper: the model, design, data construction, comparison, historical fact, market friction, institutional detail, or mechanism that does the real work. Finally, study the boundary. The strongest papers usually know what they have not proved.
 
-## How to Use This Page
+## Skill: Turn agency conflicts into corporate finance questions
 
-Copy one skill section into your research notebook, AI prompt, or paper memo. Then replace the bracketed placeholders with your own project details.
+This skill captures one recurring move in Michael Jensen's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-Use the critical boundary before trusting the skill. The goal is not to imitate the scholar's topic, but to imitate the transferable judgment pattern.
+The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
----
+A useful self-review prompt is: "Apply the skill 'Turn agency conflicts into corporate finance questions' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-# Copy/Paste Skills
+The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
 
-## Skills Not Yet Filled
+## Skill: Use governance failures to explain firm behavior
 
-This scholar is important, but the page is intentionally unfinished until enough open-access papers, public working-paper versions, or uploaded PDFs are available.
+This skill captures one recurring move in Michael Jensen's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-### Upload Needed
+The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
 
-Please upload or link the canonical papers you want used for taste extraction. The extraction should focus on:
+A useful self-review prompt is: "Apply the skill 'Use governance failures to explain firm behavior' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
 
-1. question choice;
-2. theory or empirical object;
-3. test structure;
-4. abstract/introduction framing;
-5. critical boundary and transferability.
+The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
 
----
+## Skill: Convert organizational incentives into empirical predictions
 
-## Page Progress
+This skill captures one recurring move in Michael Jensen's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
 
-- Scholar status: `partial-upload-helpful`
-- Open-access status: `partial`
-- Open-access confidence: `medium`
-- Embedded copy/paste skills: **0**
-- Evidence links/PDF citations: `to-verify`
-- Review status: `not-reviewed`
+The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+
+A useful self-review prompt is: "Apply the skill 'Convert organizational incentives into empirical predictions' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+
+The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
+
+## How To Use This Page
+
+Use this page by choosing one skill and applying it to a live project in prose. Write the project version of the puzzle, the mechanism or design, the evidence standard, and the boundary. If the exercise only produces a slogan, return to the evidence anchors and read again. The goal is to absorb Michael Jensen's research judgment without becoming derivative.

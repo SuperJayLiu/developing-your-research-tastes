@@ -1,56 +1,25 @@
-# Journal of Finance Research Taste
+# Journal Of Finance Research Taste
 
-This page summarizes a working hypothesis about this journal's research taste: **central finance contributions about asset prices, firms, intermediaries, investors, markets, or financial frictions**.
+This page reads Journal Of Finance as a research-taste environment. A journal's taste is not a secret formula; it is the pattern of questions, evidence, theory, mechanisms, and contribution claims that its audience tends to find worth serious attention. The purpose of this page is to help a researcher ask whether a project belongs in that conversation.
 
-> Note: Treat this as a living research-taste page. Improve it using accepted papers, editorials, referee reports, and your own reading notes.
+A strong fit usually begins with audience. The paper must make a reader understand why the question matters beyond a narrow setting. It then needs a credible engine: a design, model, measurement strategy, or institutional argument strong enough to carry the claim. Finally, it needs writing that makes the contribution legible early without pretending the paper proves more than it can.
 
-## What This Journal Often Rewards
+```mermaid
+flowchart LR
+    A["Question size"] --> B["Credible engine"]
+    B --> C["Mechanism or interpretation"]
+    C --> D["Contribution to journal audience"]
+    D --> E["Boundary of the claim"]
+```
 
-- finance question at the core
-- economic magnitude
-- risk/beliefs/frictions interpretation
-- strong design or model
+## Reading The Journal For Taste
 
-## What Usually Feels Too Weak
+Read accepted papers by asking what had to be true for the paper to feel publishable here. Was the question unusually broad? Was the identification unusually transparent? Was the theory unusually clean? Was the setting narrow but the lesson general? The answer should become a paragraph about judgment, not a list of paper titles.
 
-- economics paper with finance labels
-- weak economic channel
-- statistically significant but economically small result
+## Fit Diagnosis
 
-## Taste Questions Before Submission
+A paper is weak for this journal when the contribution is incremental, the audience is too local, the mechanism is vague, or the evidence is not strong enough for the claim. A paper becomes more plausible when the introduction can state the problem, the engine, the contribution, and the boundary in a way that a broad reader understands before the technical sections begin.
 
-1. What is the one-sentence contribution?
-2. Why should this journal's audience care?
-3. What is the strongest skeptical objection?
-4. Is the evidence or theory strong enough for the claim?
-5. What would make the paper feel more general?
+## Revision Prompt
 
-## Scholar Skills That May Fit
-
-Add links to scholar pages and skill cards after extracting evidence.
-
-## Example Paper Slots
-
-- Paper 1: TODO
-- Paper 2: TODO
-- Paper 3: TODO
-
-## Submission Fit Scorecard
-
-| Dimension | Notes | Score |
-|---|---|---|
-| Journal audience | Who exactly cares? | 1–5 |
-| Question importance | Is the question central enough? | 1–5 |
-| Research design / theory | Is the core engine credible? | 1–5 |
-| Mechanism | Is the channel clear? | 1–5 |
-| Contribution | What does the paper change? | 1–5 |
-| Writing | Is the paper easy to explain? | 1–5 |
-
-
----
-
-## Page Progress
-
-- Structure: one README for this journal perspective.
-- Evidence examples: to expand.
-- Review status: draft.
+Write a one-page submission-fit memo. The first paragraph should explain why this journal's audience should care. The second should describe the engine of the paper. The third should state the strongest objection. The final paragraph should say what claim the paper can honestly make and what claim it should avoid.
