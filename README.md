@@ -23,6 +23,8 @@ The visible folders are intentionally limited to these chapters. Supporting mate
 
 A skill in this repo is not a slogan. It has to be portable, useful under pressure, and bounded. “Study institutions” is not a skill. “Turn an institutional difference into a mechanism and then ask what evidence would distinguish it from a competing mechanism” is a skill. The second version tells a researcher what to do, how to test whether the move worked, and when the move might become bad taste.
 
+The current maturity test is stricter than the first draft of this repo. A finished skill must have a trigger, a research move, an evidence anchor, a practice routine, a feedback signal, a failure mode, and a transfer sentence. Chapter `01` explains this in [Mature Skill Standard](01-train-your-taste-model/mature-skill-standard.md). Use that page as the quality bar for every scholar-derived skill.
+
 The same standard applies to scholar pages. A scholar page should not say that a scholar is “interested in labor” or “known for asset pricing.” It should explain the repeated research move: how the scholar compresses a question, builds a design or model, reads evidence, handles scope, and teaches the reader what changed.
 
 ## Visual Map Of The Repository

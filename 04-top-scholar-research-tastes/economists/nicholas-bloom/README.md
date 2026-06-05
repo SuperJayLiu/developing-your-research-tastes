@@ -39,33 +39,45 @@ When reading Nicholas Bloom, focus first on the opening move. Ask how the paper 
 
 ## Skill: Measure management as an economic variable
 
-This skill captures one recurring move in Nicholas Bloom's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
+Use this skill when the project depends on turning messy observables into a measure that carries conceptual meaning. The trigger should be visible before the skill is applied. If the project only shares the scholar's topic, keep reading; if it shares the same kind of research problem, the skill is relevant.
 
-The portable judgment is to treat measurement as part of the argument rather than as a technical appendix. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+The research move is to measure management as an economic variable in a way that changes the project's decision rule. Read the evidence anchors above and ask what the scholar makes precise: the question, the mechanism or design, the evidence standard, and the boundary of the claim. Your project version should name those pieces before it borrows the move.
 
-A useful self-review prompt is: "Apply the skill 'Measure management as an economic variable' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+Practice the skill in one page. First, write the situation in which you would use "Measure management as an economic variable". Second, state the mechanism, comparison, measure, or benchmark in one sentence. Third, name the closest alternative explanation. Fourth, describe the evidence that would change a skeptical reader's mind. Fifth, write the narrowest honest contribution claim.
 
-The critical boundary is important. This becomes bad taste when a convenient proxy is treated as if it fully captures the concept. A strong use of the skill should make the project more honest as well as more ambitious.
+Feedback should be concrete. The skill is working if the before-and-after note shows a sharper question, cleaner model, better measure, more credible test, or more disciplined introduction. The skill is still immature if it only produces topic words or admiration for the scholar.
+
+The boundary is part of the taste. This becomes bad taste when measurement becomes data accumulation without a clear object, validation check, or reason the measure changes the argument. A strong use of the skill should make the project more ambitious and more honest at the same time.
+
+A useful self-review prompt is: "Apply the skill 'Measure management as an economic variable' to my project. Identify the trigger, the research move, the evidence anchor, the closest alternative explanation, the feedback signal, the failure mode, and the transfer sentence."
 
 ## Skill: Use surveys and experiments to study firms from the inside
 
-This skill captures one recurring move in Nicholas Bloom's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
+Use this skill when the project needs a credible source of learning rather than a persuasive story alone. The trigger should be visible before the skill is applied. If the project only shares the scholar's topic, keep reading; if it shares the same kind of research problem, the skill is relevant.
 
-The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+The research move is to use surveys and experiments to study firms from the inside in a way that changes the project's decision rule. Read the evidence anchors above and ask what the scholar makes precise: the question, the mechanism or design, the evidence standard, and the boundary of the claim. Your project version should name those pieces before it borrows the move.
 
-A useful self-review prompt is: "Apply the skill 'Use surveys and experiments to study firms from the inside' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+Practice the skill in one page. First, write the situation in which you would use "Use surveys and experiments to study firms from the inside". Second, state the mechanism, comparison, measure, or benchmark in one sentence. Third, name the closest alternative explanation. Fourth, describe the evidence that would change a skeptical reader's mind. Fifth, write the narrowest honest contribution claim.
 
-The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
+Feedback should be concrete. The skill is working if the before-and-after note shows a sharper question, cleaner model, better measure, more credible test, or more disciplined introduction. The skill is still immature if it only produces topic words or admiration for the scholar.
+
+The boundary is part of the taste. This becomes bad taste when the comparison does not support the causal language, or the alternative explanation is named but not taken seriously. A strong use of the skill should make the project more ambitious and more honest at the same time.
+
+A useful self-review prompt is: "Apply the skill 'Use surveys and experiments to study firms from the inside' to my project. Identify the trigger, the research move, the evidence anchor, the closest alternative explanation, the feedback signal, the failure mode, and the transfer sentence."
 
 ## Skill: Convert organizational practices into empirical objects
 
-This skill captures one recurring move in Nicholas Bloom's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
+Use this skill when the project has an interesting idea but needs a sharper decision rule before the evidence or model can persuade. The trigger should be visible before the skill is applied. If the project only shares the scholar's topic, keep reading; if it shares the same kind of research problem, the skill is relevant.
 
-The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+The research move is to convert organizational practices into empirical objects in a way that changes the project's decision rule. Read the evidence anchors above and ask what the scholar makes precise: the question, the mechanism or design, the evidence standard, and the boundary of the claim. Your project version should name those pieces before it borrows the move.
 
-A useful self-review prompt is: "Apply the skill 'Convert organizational practices into empirical objects' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+Practice the skill in one page. First, write the situation in which you would use "Convert organizational practices into empirical objects". Second, state the mechanism, comparison, measure, or benchmark in one sentence. Third, name the closest alternative explanation. Fourth, describe the evidence that would change a skeptical reader's mind. Fifth, write the narrowest honest contribution claim.
 
-The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
+Feedback should be concrete. The skill is working if the before-and-after note shows a sharper question, cleaner model, better measure, more credible test, or more disciplined introduction. The skill is still immature if it only produces topic words or admiration for the scholar.
+
+The boundary is part of the taste. This becomes bad taste when the surface style is copied while the project still lacks a clear question, mechanism, evidence standard, or contribution boundary. A strong use of the skill should make the project more ambitious and more honest at the same time.
+
+A useful self-review prompt is: "Apply the skill 'Convert organizational practices into empirical objects' to my project. Identify the trigger, the research move, the evidence anchor, the closest alternative explanation, the feedback signal, the failure mode, and the transfer sentence."
 
 ## How To Use This Page
 

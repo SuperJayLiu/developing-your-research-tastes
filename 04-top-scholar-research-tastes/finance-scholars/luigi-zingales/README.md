@@ -39,33 +39,45 @@ When reading Luigi Zingales, focus first on the opening move. Ask how the paper 
 
 ## Skill: Connect corporate finance to institutions and politics
 
-This skill captures one recurring move in Luigi Zingales's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
+Use this skill when the project wants to turn an institutional or policy detail into a testable mechanism. The trigger should be visible before the skill is applied. If the project only shares the scholar's topic, keep reading; if it shares the same kind of research problem, the skill is relevant.
 
-The portable judgment is to turn a substantive research instinct into a disciplined sequence of question, mechanism, test, and boundary. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+The research move is to connect corporate finance to institutions and politics in a way that changes the project's decision rule. Read the evidence anchors above and ask what the scholar makes precise: the question, the mechanism or design, the evidence standard, and the boundary of the claim. Your project version should name those pieces before it borrows the move.
 
-A useful self-review prompt is: "Apply the skill 'Connect corporate finance to institutions and politics' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+Practice the skill in one page. First, write the situation in which you would use "Connect corporate finance to institutions and politics". Second, state the mechanism, comparison, measure, or benchmark in one sentence. Third, name the closest alternative explanation. Fourth, describe the evidence that would change a skeptical reader's mind. Fifth, write the narrowest honest contribution claim.
 
-The critical boundary is important. This becomes bad taste when the surface style is copied without the underlying discipline. A strong use of the skill should make the project more honest as well as more ambitious.
+Feedback should be concrete. The skill is working if the before-and-after note shows a sharper question, cleaner model, better measure, more credible test, or more disciplined introduction. The skill is still immature if it only produces topic words or admiration for the scholar.
+
+The boundary is part of the taste. This becomes bad taste when the institutional detail is used as color rather than as the source of variation, incentives, or constraints. A strong use of the skill should make the project more ambitious and more honest at the same time.
+
+A useful self-review prompt is: "Apply the skill 'Connect corporate finance to institutions and politics' to my project. Identify the trigger, the research move, the evidence anchor, the closest alternative explanation, the feedback signal, the failure mode, and the transfer sentence."
 
 ## Skill: Use cross-country variation to study financial development
 
-This skill captures one recurring move in Luigi Zingales's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
+Use this skill when the project needs a credible source of learning rather than a persuasive story alone. The trigger should be visible before the skill is applied. If the project only shares the scholar's topic, keep reading; if it shares the same kind of research problem, the skill is relevant.
 
-The portable judgment is to make the source of learning visible before asking the reader to trust the result. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+The research move is to use cross-country variation to study financial development in a way that changes the project's decision rule. Read the evidence anchors above and ask what the scholar makes precise: the question, the mechanism or design, the evidence standard, and the boundary of the claim. Your project version should name those pieces before it borrows the move.
 
-A useful self-review prompt is: "Apply the skill 'Use cross-country variation to study financial development' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+Practice the skill in one page. First, write the situation in which you would use "Use cross-country variation to study financial development". Second, state the mechanism, comparison, measure, or benchmark in one sentence. Third, name the closest alternative explanation. Fourth, describe the evidence that would change a skeptical reader's mind. Fifth, write the narrowest honest contribution claim.
 
-The critical boundary is important. This becomes bad taste when the language of identification is stronger than the design itself. A strong use of the skill should make the project more honest as well as more ambitious.
+Feedback should be concrete. The skill is working if the before-and-after note shows a sharper question, cleaner model, better measure, more credible test, or more disciplined introduction. The skill is still immature if it only produces topic words or admiration for the scholar.
+
+The boundary is part of the taste. This becomes bad taste when the comparison does not support the causal language, or the alternative explanation is named but not taken seriously. A strong use of the skill should make the project more ambitious and more honest at the same time.
+
+A useful self-review prompt is: "Apply the skill 'Use cross-country variation to study financial development' to my project. Identify the trigger, the research move, the evidence anchor, the closest alternative explanation, the feedback signal, the failure mode, and the transfer sentence."
 
 ## Skill: Treat trust, governance, and culture as economic mechanisms
 
-This skill captures one recurring move in Luigi Zingales's research taste. The point is not to copy the scholar's topic or vocabulary. The point is to borrow a decision rule: when a project reaches a similar problem, this move tells the researcher what to clarify, what to test, and what not to overclaim.
+Use this skill when the project wants to turn an institutional or policy detail into a testable mechanism. The trigger should be visible before the skill is applied. If the project only shares the scholar's topic, keep reading; if it shares the same kind of research problem, the skill is relevant.
 
-The portable judgment is to isolate the mechanism sharply enough that the reader can see what would be true if the story were right. In practice, use the skill by writing one paragraph that states the puzzle, one paragraph that names the mechanism or design, and one paragraph that explains what evidence would change the reader's mind. If those three paragraphs cannot be written, the project probably does not yet have enough structure for the skill to help.
+The research move is to treat trust, governance, and culture as economic mechanisms in a way that changes the project's decision rule. Read the evidence anchors above and ask what the scholar makes precise: the question, the mechanism or design, the evidence standard, and the boundary of the claim. Your project version should name those pieces before it borrows the move.
 
-A useful self-review prompt is: "Apply the skill 'Treat trust, governance, and culture as economic mechanisms' to my project. Explain the core puzzle, the mechanism, the test, the strongest alternative explanation, the honest contribution claim, and the boundary of the claim."
+Practice the skill in one page. First, write the situation in which you would use "Treat trust, governance, and culture as economic mechanisms". Second, state the mechanism, comparison, measure, or benchmark in one sentence. Third, name the closest alternative explanation. Fourth, describe the evidence that would change a skeptical reader's mind. Fifth, write the narrowest honest contribution claim.
 
-The critical boundary is important. This becomes bad taste when the model or mechanism decorates the paper without creating a sharper prediction or interpretation. A strong use of the skill should make the project more honest as well as more ambitious.
+Feedback should be concrete. The skill is working if the before-and-after note shows a sharper question, cleaner model, better measure, more credible test, or more disciplined introduction. The skill is still immature if it only produces topic words or admiration for the scholar.
+
+The boundary is part of the taste. This becomes bad taste when the institutional detail is used as color rather than as the source of variation, incentives, or constraints. A strong use of the skill should make the project more ambitious and more honest at the same time.
+
+A useful self-review prompt is: "Apply the skill 'Treat trust, governance, and culture as economic mechanisms' to my project. Identify the trigger, the research move, the evidence anchor, the closest alternative explanation, the feedback signal, the failure mode, and the transfer sentence."
 
 ## How To Use This Page
 

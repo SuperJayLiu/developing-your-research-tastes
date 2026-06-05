@@ -19,9 +19,11 @@ flowchart LR
 
 The current pages use representative paper anchors and well-established public research profiles to form reviewed draft skill cards. They should still be upgraded over time with exact paper links and direct quotations where appropriate. The check performed here is conceptual rather than bibliographic: each skill must be plausibly tied to repeated work, transferable beyond one paper, and bounded so the reader knows when imitation would become bad taste.
 
+A skill on these pages is considered mature only if it passes the standard from [Chapter 01](../01-train-your-taste-model/mature-skill-standard.md). It must identify a trigger, a research move, an evidence anchor, a practice attempt, a feedback signal, a boundary, and a transfer sentence. This matters because the purpose is relative use. A reader should not ask, "How do I become Acemoglu, Card, Fama, or Shiller?" The better question is, "Which part of this scholar's judgment can improve the project I am actually writing?"
+
 ## How To Read This Chapter
 
-Choose one economist and one finance scholar. Read the one-sentence taste, then read the skill cards as paragraphs about judgment. Ask three questions: what does this scholar make important, what kind of evidence or model does the scholar trust, and what claim would this scholar refuse to overstate? The answers are more valuable than the scholar label.
+Choose one economist and one finance scholar. Read the one-sentence taste, then read the skill cards as paragraphs about judgment. Ask three questions: what does this scholar make important, what kind of evidence or model does the scholar trust, and what claim would this scholar refuse to overstate? Then apply one skill to your own project and write the before and after version. The answers are more valuable than the scholar label.
 
 ## Scholar Groups
 

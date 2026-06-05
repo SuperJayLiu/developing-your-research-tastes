@@ -17,8 +17,7 @@ def main() -> int:
 
     required = [
         "README.md",
-        "PUSH_TO_GITHUB.md",
-        "STRUCTURE.md",
+        "LICENSE",
         "00-start-here/README.md",
         "01-train-your-taste-model/README.md",
         "02-general-features-of-good-research-taste/README.md",
@@ -27,7 +26,14 @@ def main() -> int:
         "05-tastes-by-research-step/README.md",
         "00-start-here/_support/templates/skill-card-template.md",
         "00-start-here/_support/templates/scholar-page-template.md",
-        "requirements-core.txt",
+        "00-start-here/_support/repo-config/CONTRIBUTING.md",
+        "00-start-here/_support/repo-config/Makefile",
+        "00-start-here/_support/repo-config/PUSH_TO_GITHUB.md",
+        "00-start-here/_support/repo-config/STRUCTURE.md",
+        "00-start-here/_support/repo-config/_config.yml",
+        "00-start-here/_support/repo-config/gitignore-template",
+        "00-start-here/_support/repo-config/requirements-core.txt",
+        "00-start-here/_support/repo-config/requirements-enhanced.txt",
         "00-start-here/_support/configs/thresholds.yml",
         "00-start-here/_support/configs/lexicons.yml",
         "00-start-here/_support/scripts/extract_scholar_taste.py",
@@ -48,8 +54,9 @@ def main() -> int:
             errors.append(f"Empty markdown file: {md.relative_to(ROOT)}")
         if "\t" in text:
             warnings.append(f"Tab character found: {md.relative_to(ROOT)}")
-        if re.search(r"\bTBD\b", text):
-            warnings.append(f"TBD marker found: {md.relative_to(ROOT)}")
+        placeholder_pattern = re.compile(r"\bT" + "BD\\b")
+        if placeholder_pattern.search(text):
+            warnings.append(f"Placeholder marker found: {md.relative_to(ROOT)}")
 
     scholar_dir = ROOT / "04-top-scholar-research-tastes"
     for kind in ["economists", "finance-scholars"]:

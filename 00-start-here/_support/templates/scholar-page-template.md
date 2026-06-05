@@ -17,19 +17,19 @@ tags: []
 
 ## One-Sentence Research Taste
 
-What does this scholar repeatedly do well that others can learn to do?
+State the scholar's repeated research judgment in one sentence. The sentence should describe a move, not a field label.
 
 ## Signature Questions
 
-- TODO
+Describe the class of questions the scholar repeatedly makes important, and explain why those questions travel beyond one setting.
 
 ## Signature Settings
 
-- TODO
+Describe the settings, institutions, markets, populations, or historical episodes that make the scholar's questions observable.
 
 ## Signature Methods
 
-- TODO
+Describe the models, designs, measures, datasets, decompositions, experiments, or writing moves that carry the scholar's arguments.
 
 ## Skill 1: Skill Name
 
@@ -61,4 +61,4 @@ Add links to public working papers, author pages, Nobel materials, datasets, lec
 
 ## Upload Needed
 
-List papers or PDFs needed before marking the page reviewed.
+List papers or PDFs needed before marking the page reviewed. If the evidence is already public and linked above, explain what still needs closer reading.

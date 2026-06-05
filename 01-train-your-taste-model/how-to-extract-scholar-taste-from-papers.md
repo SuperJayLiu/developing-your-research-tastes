@@ -4,6 +4,8 @@ This file documents the method used to turn top scholars' papers into reusable r
 
 The goal is not biography and not paper summary. The goal is to extract a **copyable research judgment**.
 
+Before writing a card, use the [mature skill standard](mature-skill-standard.md). A scholar-derived skill should not stop at "this scholar often studies X." It should identify the trigger, the move, the evidence anchor, the practice attempt, the feedback signal, the boundary, and the transfer sentence. Without those parts, the page is still a note rather than a skill.
+
 ## The Four-Trace Method
 
 For each scholar, read across multiple papers and look for four observable traces.
@@ -86,5 +88,7 @@ A skill card should stay `draft-filled` until it has:
 1. at least two verified paper links or uploaded PDFs;
 2. a clear statement of what the papers test;
 3. an abstract/introduction framing note;
-4. a critical boundary;
-5. a copy/paste prompt or checklist.
+4. a trigger and a practice routine;
+5. a feedback signal showing how the project changes;
+6. a critical boundary;
+7. a transfer sentence explaining relative use on the reader's project.

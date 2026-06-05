@@ -16,4 +16,6 @@
 
 ## Checklist Before Moving On
 
-- [ ] TODO
+- [ ] The step changed a concrete research decision.
+- [ ] The project has a named mechanism, design, evidence standard, or contribution boundary.
+- [ ] The next step is clear enough to execute without rereading this template.
