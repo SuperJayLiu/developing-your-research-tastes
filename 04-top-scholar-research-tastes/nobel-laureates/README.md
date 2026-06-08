@@ -10,3 +10,9 @@ flowchart LR
     B --> C["Portable skill"]
     C --> D["Boundary against imitation"]
 ```
+
+## Evidence Cache
+
+The local evidence cache now starts with official NobelPrize.org PDFs rather than copyrighted journal files. The downloader stores PDFs under `00-start-here/_support/evidence/nobel-open-access/pdfs/`, which is ignored by Git, and records the auditable source list in `00-start-here/_support/evidence/nobel-open-access/download_manifest.json`.
+
+This is the right first layer for Nobel-based skill work: prize lectures and official scientific background documents explain the recognized contribution and usually name the canonical papers. The next layer should be selective author-hosted or working-paper versions of those canonical papers, not bulk copies of paywalled PDFs.

@@ -1,0 +1,1229 @@
+{
+  "source": "NobelPrize.org official PDFs discovered from the Nobel API and public upload URL patterns.",
+  "api_url": "https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeCategory=eco&limit=100&sort=asc",
+  "pdf_dir": "00-start-here/_support/evidence/nobel-open-access/pdfs",
+  "download_count": 91,
+  "missed_count": 31,
+  "downloads": [
+    {
+      "year": 1969,
+      "laureate": "Ragnar Frisch",
+      "slug": "frisch",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/frisch-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1969/frisch/frisch-lecture.pdf",
+      "bytes": 728394,
+      "expected_bytes": 728394,
+      "sha256": "8630d40ce94d0825a1cddb748f90a7612ec59567f19cf8d8f1b5617f26f8697e"
+    },
+    {
+      "year": 1969,
+      "laureate": "Jan Tinbergen",
+      "slug": "tinbergen",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/tinbergen-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1969/tinbergen/tinbergen-lecture.pdf",
+      "bytes": 747380,
+      "expected_bytes": 747380,
+      "sha256": "2a8437004e42ed382cb5b1809636dc28994f0a725c8ab752652143f56ed726b8"
+    },
+    {
+      "year": 1970,
+      "laureate": "Paul A. Samuelson",
+      "slug": "samuelson",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/samuelson-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1970/samuelson/samuelson-lecture.pdf",
+      "bytes": 242738,
+      "expected_bytes": 242738,
+      "sha256": "dc70d101dfedf1a7fa47318ea25fc80d4f421f415b656468b9608cac73eb7e79"
+    },
+    {
+      "year": 1972,
+      "laureate": "Kenneth J. Arrow",
+      "slug": "arrow",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/arrow-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1972/arrow/arrow-lecture.pdf",
+      "bytes": 399497,
+      "expected_bytes": 399497,
+      "sha256": "b82295c9f822dc7dff4a16e7a5620ef23b91389b15fe6353382c876e288687bc"
+    },
+    {
+      "year": 1973,
+      "laureate": "Wassily Leontief",
+      "slug": "leontief",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/leontief-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1973/leontief/leontief-lecture.pdf",
+      "bytes": 484793,
+      "expected_bytes": 484793,
+      "sha256": "d7e1d7f97ce25dd22f0d41fae4fb2cabb86505bc64cf6f9316bca3e15585d7cb"
+    },
+    {
+      "year": 1975,
+      "laureate": "Tjalling C. Koopmans",
+      "slug": "koopmans",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/koopmans-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1975/koopmans/koopmans-lecture.pdf",
+      "bytes": 246388,
+      "expected_bytes": 246388,
+      "sha256": "eafde6711036522ee09810b0576cd6aa992fcc5c5d0c33b8de73f62d50560dc3"
+    },
+    {
+      "year": 1976,
+      "laureate": "Milton Friedman",
+      "slug": "friedman",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/friedman-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1976/friedman/friedman-lecture.pdf",
+      "bytes": 2131913,
+      "expected_bytes": 2131913,
+      "sha256": "ca39f4e6294d67b1a7e71462abed169e65fa307cf9982043204deec438955728"
+    },
+    {
+      "year": 1977,
+      "laureate": "Bertil Ohlin",
+      "slug": "ohlin",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/ohlin-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1977/ohlin/ohlin-lecture.pdf",
+      "bytes": 173784,
+      "expected_bytes": 173784,
+      "sha256": "0ba51aef7b5410e309107354c3c53b69a97dffb769f31b96afa7c6f7a90b3b73"
+    },
+    {
+      "year": 1978,
+      "laureate": "Herbert Simon",
+      "slug": "simon",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/simon-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1978/simon/simon-lecture.pdf",
+      "bytes": 219743,
+      "expected_bytes": 219743,
+      "sha256": "a2a1b45e6196e2e3e7e2f5d58e69e7e841788f07482ace7b761cd7e29e9c6ede"
+    },
+    {
+      "year": 1979,
+      "laureate": "Sir Arthur Lewis",
+      "slug": "lewis",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/lewis-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1979/lewis/lewis-lecture.pdf",
+      "bytes": 2897912,
+      "expected_bytes": 2897912,
+      "sha256": "928344e0883b26496fba7c7f5902ee539e8be0a446755633a13401ee956fd2d8"
+    },
+    {
+      "year": 1981,
+      "laureate": "James Tobin",
+      "slug": "tobin",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/tobin-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1981/tobin/tobin-lecture.pdf",
+      "bytes": 385463,
+      "expected_bytes": 385463,
+      "sha256": "1e2420a4280d1254354119f4a4fb6cdc22f960a0f5cef631b85977bd2b4e7914"
+    },
+    {
+      "year": 1982,
+      "laureate": "George J. Stigler",
+      "slug": "stigler",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/stigler-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1982/stigler/stigler-lecture.pdf",
+      "bytes": 206277,
+      "expected_bytes": 206277,
+      "sha256": "1d03190926121f117a9872b20666208da31bd1dadef5ec3c016e2002688ea9b0"
+    },
+    {
+      "year": 1983,
+      "laureate": "Gerard Debreu",
+      "slug": "debreu",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/debreu-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1983/debreu/debreu-lecture.pdf",
+      "bytes": 372593,
+      "expected_bytes": 372593,
+      "sha256": "8e0eeb2e793299f4a98eb4c149d04f0b64a5869dcadde8dcd71923e529806977"
+    },
+    {
+      "year": 1984,
+      "laureate": "Richard Stone",
+      "slug": "stone",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/stone-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1984/stone/stone-lecture.pdf",
+      "bytes": 260675,
+      "expected_bytes": 260675,
+      "sha256": "cfa1047fa7389a9939bd069a34b485ddbeba7bfb7a501ccb906bae6bc5274058"
+    },
+    {
+      "year": 1985,
+      "laureate": "Franco Modigliani",
+      "slug": "modigliani",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/modigliani-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1985/modigliani/modigliani-lecture.pdf",
+      "bytes": 251201,
+      "expected_bytes": 251201,
+      "sha256": "20dfc67237b8d413ff51e623a6610dfcf123868a32941ff6387cf2d6a3e68f05"
+    },
+    {
+      "year": 1988,
+      "laureate": "Maurice Allais",
+      "slug": "allais",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/allais-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1988/allais/allais-lecture.pdf",
+      "bytes": 284152,
+      "expected_bytes": 284152,
+      "sha256": "cae67895856e91b23623ce3dc5967caec0e3365541d4b5a458f97f5938facc9b"
+    },
+    {
+      "year": 1990,
+      "laureate": "Harry M. Markowitz",
+      "slug": "markowitz",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/markowitz-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1990/markowitz/markowitz-lecture.pdf",
+      "bytes": 238540,
+      "expected_bytes": 238540,
+      "sha256": "a7ca5a25b4a10371d2ea68eee9bb2abc4c7ba2fde62925e565bfba46cd00a1e9"
+    },
+    {
+      "year": 1990,
+      "laureate": "Merton H. Miller",
+      "slug": "miller",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/miller-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1990/miller/miller-lecture.pdf",
+      "bytes": 140988,
+      "expected_bytes": 140988,
+      "sha256": "c1f19a3024b61c61253ed88ea5ddac241f97f770f9c960060dcc2f8641cb7331"
+    },
+    {
+      "year": 1990,
+      "laureate": "William F. Sharpe",
+      "slug": "sharpe",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/sharpe-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1990/sharpe/sharpe-lecture.pdf",
+      "bytes": 347996,
+      "expected_bytes": 347996,
+      "sha256": "342eb9d1934ec14421154bf467b1406b56f2fb2880eb2d110e348c7d103dffea"
+    },
+    {
+      "year": 1992,
+      "laureate": "Gary Becker",
+      "slug": "becker",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/becker-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1992/becker/becker-lecture.pdf",
+      "bytes": 225007,
+      "expected_bytes": 225007,
+      "sha256": "bf3d752bbe3b3ce2145d0aa9efef8a77ea62ff95c3885b7e72f1906e7ac181a9"
+    },
+    {
+      "year": 1993,
+      "laureate": "Robert W. Fogel",
+      "slug": "fogel",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/fogel-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1993/fogel/fogel-lecture.pdf",
+      "bytes": 983835,
+      "expected_bytes": 983835,
+      "sha256": "b9afc3c6af37dd0bd8a95eefb2facea6b60fdb2bf763dd28818cad7e55456234"
+    },
+    {
+      "year": 1994,
+      "laureate": "John C. Harsanyi",
+      "slug": "harsanyi",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/harsanyi-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1994/harsanyi/harsanyi-lecture.pdf",
+      "bytes": 962126,
+      "expected_bytes": 962126,
+      "sha256": "29f28a7dad2af3c8e9b875379c01d321e77aea83e16d549445c13355b29817e8"
+    },
+    {
+      "year": 1994,
+      "laureate": "Reinhard Selten",
+      "slug": "selten",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/selten-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1994/selten/selten-lecture.pdf",
+      "bytes": 396346,
+      "expected_bytes": 396346,
+      "sha256": "beb638260fcf104b4c65c11d1d40149b04cbe6e0d77fbbb9288988d0458d76f8"
+    },
+    {
+      "year": 1995,
+      "laureate": "Robert E. Lucas Jr.",
+      "slug": "lucas",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/lucas-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1995/lucas/lucas-lecture.pdf",
+      "bytes": 228947,
+      "expected_bytes": 228947,
+      "sha256": "e2c5b7d51108abadb1970a1adcc920f75f117bce34a6579bf00e4df21c392e22"
+    },
+    {
+      "year": 1996,
+      "laureate": "James A. Mirrlees",
+      "slug": "mirrlees",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/mirrlees-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1996/mirrlees/mirrlees-lecture.pdf",
+      "bytes": 1127450,
+      "expected_bytes": 1127450,
+      "sha256": "fc80fce2ac13dec0f3f2ed692ab6726c128d02d23a407c58071be27bf2eda5d7"
+    },
+    {
+      "year": 1997,
+      "laureate": "Robert C. Merton",
+      "slug": "merton",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/merton-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1997/merton/merton-lecture.pdf",
+      "bytes": 2210646,
+      "expected_bytes": 2210646,
+      "sha256": "ab88fb7d403dcef43129a854335ff884bd3131de4639e3c7e0c001313627b2f0"
+    },
+    {
+      "year": 1997,
+      "laureate": "Myron Scholes",
+      "slug": "scholes",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/scholes-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1997/scholes/scholes-lecture.pdf",
+      "bytes": 1711023,
+      "expected_bytes": 1711023,
+      "sha256": "a3d0d246e95f65f0a9773d0f6526683f904d744ea0cf131d3f035f2a062bf38a"
+    },
+    {
+      "year": 1998,
+      "laureate": "Amartya Sen",
+      "slug": "sen",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/sen-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1998/sen/sen-lecture.pdf",
+      "bytes": 2457713,
+      "expected_bytes": 2457713,
+      "sha256": "56dc84e899dcf3987652dd12eb26f6394e4af3a8bd8999928984fa29f61e7757"
+    },
+    {
+      "year": 1999,
+      "laureate": "Robert Mundell",
+      "slug": "mundell",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/mundell-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/1999/mundell/mundell-lecture.pdf",
+      "bytes": 1199037,
+      "expected_bytes": 1199037,
+      "sha256": "5a20fc3fc7f7997cf58d7e431fdb1ef4ae1d7febdc388d4456f57a23f3f75002"
+    },
+    {
+      "year": 2000,
+      "laureate": "James J. Heckman",
+      "slug": "heckman",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/heckman-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2000/heckman/heckman-lecture.pdf",
+      "bytes": 3652610,
+      "expected_bytes": 3652610,
+      "sha256": "97db097e550478a3d536f27b90e13a23f11860b345ad78234b0644e00dae7287"
+    },
+    {
+      "year": 2000,
+      "laureate": "Daniel L. McFadden",
+      "slug": "mcfadden",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/mcfadden-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2000/mcfadden/mcfadden-lecture.pdf",
+      "bytes": 2261366,
+      "expected_bytes": 2261366,
+      "sha256": "3589a61fe884d72cc61aedf56273bf59b308464239774a7884dbcca6d1cbd0db"
+    },
+    {
+      "year": 2001,
+      "laureate": "George A. Akerlof",
+      "slug": "akerlof",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/akerlof-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2001/akerlof/akerlof-lecture.pdf",
+      "bytes": 2310608,
+      "expected_bytes": 2310608,
+      "sha256": "98af0542e27145600fcf0bae47c79c5ef6bd38ef3fe3a2659b9f5249b3ba29af"
+    },
+    {
+      "year": 2001,
+      "laureate": "A. Michael Spence",
+      "slug": "spence",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/spence-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2001/spence/spence-lecture.pdf",
+      "bytes": 2647309,
+      "expected_bytes": 2647309,
+      "sha256": "61c4a40934b4d021239c2b808a6ae1eef34012e04758bc68413a5b8643f0d049"
+    },
+    {
+      "year": 2001,
+      "laureate": "Joseph E. Stiglitz",
+      "slug": "stiglitz",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/stiglitz-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2001/stiglitz/stiglitz-lecture.pdf",
+      "bytes": 5255435,
+      "expected_bytes": 5255435,
+      "sha256": "6da2a6b2f79df1031405a5f90ff0ac039d035d1e3c25d194ec7b8c13f6bbc01d"
+    },
+    {
+      "year": 2002,
+      "laureate": "Vernon L. Smith",
+      "slug": "smith",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/smith-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2002/smith/smith-lecture.pdf",
+      "bytes": 423249,
+      "expected_bytes": 423249,
+      "sha256": "2b68874f67ee5c70a1f47d3b10296595d68254a12906cdaa0eeb8b10dea4761d"
+    },
+    {
+      "year": 2002,
+      "laureate": "Vernon L. Smith",
+      "slug": "smith",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/smith-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2002/smith/smith-lecture-slides.pdf",
+      "bytes": 615225,
+      "expected_bytes": 615225,
+      "sha256": "de8cb29224bd64afb841de775d89c64a2e12184cd2465d78afdb7c2096251c00"
+    },
+    {
+      "year": 2003,
+      "laureate": "Clive W.J. Granger",
+      "slug": "granger",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/granger-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2003/granger/granger-lecture.pdf",
+      "bytes": 113586,
+      "expected_bytes": 113586,
+      "sha256": "c96646a9b7f05818392b6e3ad1bbe78607677cbbaf3d3401b1fdd435b6f51c28"
+    },
+    {
+      "year": 2004,
+      "laureate": "Finn E. Kydland",
+      "slug": "kydland",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/kydland-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2004/kydland/kydland-lecture.pdf",
+      "bytes": 632353,
+      "expected_bytes": 632353,
+      "sha256": "ab07762cd4f01a132c2b7868d8fc5ca8a142a5d568cae5c890930e57a1ed3bb9"
+    },
+    {
+      "year": 2004,
+      "laureate": "Edward C. Prescott",
+      "slug": "prescott",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/prescott-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2004/prescott/prescott-lecture.pdf",
+      "bytes": 511394,
+      "expected_bytes": 511394,
+      "sha256": "687d646abd6b07ccfdfdc1e3bc7ad1fb6ededde0e1a337902080252f09fdc628"
+    },
+    {
+      "year": 2005,
+      "laureate": "Robert J. Aumann",
+      "slug": "aumann",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/aumann-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2005/aumann/aumann-lecture.pdf",
+      "bytes": 364480,
+      "expected_bytes": 364480,
+      "sha256": "d9b68d66bc9cac64429a02b1e5fc8aeb1a8527f556574341d9d1f317f0670c99"
+    },
+    {
+      "year": 2005,
+      "laureate": "Thomas C. Schelling",
+      "slug": "schelling",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/schelling-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2005/schelling/schelling-lecture.pdf",
+      "bytes": 128375,
+      "expected_bytes": 128375,
+      "sha256": "f0adca6de4526069fbfa9a251fd5944789003a1b37fd8c14ac4328117d7efb1e"
+    },
+    {
+      "year": 2009,
+      "laureate": "Elinor Ostrom",
+      "slug": "ostrom",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/ostrom-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2009/ostrom/ostrom-lecture-slides.pdf",
+      "bytes": 930229,
+      "expected_bytes": 930229,
+      "sha256": "93832d47c4aa13b000f3230da7ad16745e26f83b4327d2c6ce879fe6a02a552a"
+    },
+    {
+      "year": 2009,
+      "laureate": "Oliver E. Williamson",
+      "slug": "williamson",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/williamson-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2009/williamson/williamson-lecture-slides.pdf",
+      "bytes": 149349,
+      "expected_bytes": 149349,
+      "sha256": "475c5d1731aa0937f6638cc46b055e78a7c492599188e6a5dc2f862cd66c5561"
+    },
+    {
+      "year": 2010,
+      "laureate": "Peter A. Diamond",
+      "slug": "diamond",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/diamond-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2010/diamond/diamond-lecture.pdf",
+      "bytes": 627597,
+      "expected_bytes": 627597,
+      "sha256": "9200b26dc22105e1ab048cca0d4989371462758e35d57fac4e5c60b9921ae858"
+    },
+    {
+      "year": 2010,
+      "laureate": "Peter A. Diamond",
+      "slug": "diamond",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/diamond-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2010/diamond/diamond-lecture-slides.pdf",
+      "bytes": 192344,
+      "expected_bytes": 192344,
+      "sha256": "37764d612a5cd4afcd81d380f3937ec239d7fa514dc4e618aa13b4468c9a2f0d"
+    },
+    {
+      "year": 2010,
+      "laureate": "Dale T. Mortensen",
+      "slug": "mortensen",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/mortensen-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2010/mortensen/mortensen-lecture.pdf",
+      "bytes": 671494,
+      "expected_bytes": 671494,
+      "sha256": "7d8c208acc1784cf464ec33c25d98934182f43a4adb582af48f5976025ad48b9"
+    },
+    {
+      "year": 2010,
+      "laureate": "Dale T. Mortensen",
+      "slug": "mortensen",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/mortensen-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2010/mortensen/mortensen-lecture-slides.pdf",
+      "bytes": 2429792,
+      "expected_bytes": 2429792,
+      "sha256": "7bb2945570481bf11d0db8d3e9c255290f9d261c29028ca8c322585ee48c9d21"
+    },
+    {
+      "year": 2010,
+      "laureate": "Christopher A. Pissarides",
+      "slug": "pissarides",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/pissarides-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2010/pissarides/pissarides-lecture.pdf",
+      "bytes": 503404,
+      "expected_bytes": 503404,
+      "sha256": "26fed434c6b65aead0f196bcc20de96e893d229ed4b957eb5f2785380f60bb04"
+    },
+    {
+      "year": 2010,
+      "laureate": "Christopher A. Pissarides",
+      "slug": "pissarides",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/pissarides-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2010/pissarides/pissarides-lecture-slides.pdf",
+      "bytes": 87532,
+      "expected_bytes": 87532,
+      "sha256": "9d952610a13c74c1125e6ac25588916697959e994a033c95d678b46920f4e1fe"
+    },
+    {
+      "year": 2012,
+      "laureate": "Alvin E. Roth",
+      "slug": "roth",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/roth-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2012/roth/roth-lecture.pdf",
+      "bytes": 9934126,
+      "expected_bytes": 9934126,
+      "sha256": "f582759dd922926d6481ad338a2a0ac388567c719fafe45c2036ebb2b1d751af"
+    },
+    {
+      "year": 2012,
+      "laureate": "Lloyd S. Shapley",
+      "slug": "shapley",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/shapley-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2012/shapley/shapley-lecture.pdf",
+      "bytes": 1356137,
+      "expected_bytes": 1356137,
+      "sha256": "f7e985a49c87411891ed87b0461014435e06aff84e0400455e8a163d5f622664"
+    },
+    {
+      "year": 2013,
+      "laureate": "Eugene F. Fama",
+      "slug": "fama",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/fama-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2013/fama/fama-lecture.pdf",
+      "bytes": 1798311,
+      "expected_bytes": 1798311,
+      "sha256": "29623870f0a80077e960a504a11c977168833a52e0fd5fc194d553157880907c"
+    },
+    {
+      "year": 2013,
+      "laureate": "Eugene F. Fama",
+      "slug": "fama",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/fama-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2013/fama/fama-lecture-slides.pdf",
+      "bytes": 108193,
+      "expected_bytes": 108193,
+      "sha256": "102faa486e043c51e4e6ce82b4ccc28c6dea94cf80a4c3226750a869646f7da2"
+    },
+    {
+      "year": 2013,
+      "laureate": "Lars Peter Hansen",
+      "slug": "hansen",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/hansen-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2013/hansen/hansen-lecture.pdf",
+      "bytes": 1842507,
+      "expected_bytes": 1842507,
+      "sha256": "2d7932d2eb9fbc984f81a219a31cf7d5ebfc5d500f1966826b7a19604ffe7139"
+    },
+    {
+      "year": 2013,
+      "laureate": "Lars Peter Hansen",
+      "slug": "hansen",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/hansen-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2013/hansen/hansen-lecture-slides.pdf",
+      "bytes": 874760,
+      "expected_bytes": 874760,
+      "sha256": "014f3dbf96f360777883004eb5cc590119e436b62fb8496d68e6f2b762efa9c3"
+    },
+    {
+      "year": 2013,
+      "laureate": "Robert J. Shiller",
+      "slug": "shiller",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/shiller-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2013/shiller/shiller-lecture.pdf",
+      "bytes": 1929271,
+      "expected_bytes": 1929271,
+      "sha256": "b4bd8727f7beff08fa5c1581997a39a7265a81b3b93f60b82aa4b1ccd2bb6f8d"
+    },
+    {
+      "year": 2013,
+      "laureate": "Robert J. Shiller",
+      "slug": "shiller",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/shiller-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2013/shiller/shiller-lecture-slides.pdf",
+      "bytes": 617482,
+      "expected_bytes": 617482,
+      "sha256": "8a545009c0aaff5c9c3faafd3f59a7f5e1b0f52bb6ac811282d4b22ee51ec75b"
+    },
+    {
+      "year": 2014,
+      "laureate": "Jean Tirole",
+      "slug": "tirole",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/tirole-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2014/tirole/tirole-lecture.pdf",
+      "bytes": 533425,
+      "expected_bytes": 533425,
+      "sha256": "b268b9ccd2ed8116c16612f22d560441b3cce92833ad15e8c1e331db91c81066"
+    },
+    {
+      "year": 2014,
+      "laureate": "Jean Tirole",
+      "slug": "tirole",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/tirole-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2014/tirole/tirole-lecture-slides.pdf",
+      "bytes": 7674762,
+      "expected_bytes": 7674762,
+      "sha256": "b18dc24bec58daa10ed2e1ee5f32ef1fc953cec01967f26e6e7b82bebb3f9a21"
+    },
+    {
+      "year": 2015,
+      "laureate": "Angus Deaton",
+      "slug": "deaton",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/deaton-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2015/deaton/deaton-lecture.pdf",
+      "bytes": 1960244,
+      "expected_bytes": 1960244,
+      "sha256": "fbecf1553b05e025cfff245ac50eba245a776ade964a53fcd0e53268e236ba29"
+    },
+    {
+      "year": 2015,
+      "laureate": "Angus Deaton",
+      "slug": "deaton",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/deaton-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2015/deaton/deaton-lecture-slides.pdf",
+      "bytes": 927101,
+      "expected_bytes": 927101,
+      "sha256": "c9a3cf04bc5e21c226590446d35b579e972dae1eec265976a66c1af7ea7502bd"
+    },
+    {
+      "year": 2016,
+      "laureate": "Oliver Hart",
+      "slug": "hart",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/hart-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2016/hart/hart-lecture.pdf",
+      "bytes": 2601345,
+      "expected_bytes": 2601345,
+      "sha256": "46ddafc7bfd91ff66758ed94893ff259947825b1166d6db82784063027436c60"
+    },
+    {
+      "year": 2016,
+      "laureate": "Oliver Hart",
+      "slug": "hart",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/hart-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2016/hart/hart-lecture-slides.pdf",
+      "bytes": 1414119,
+      "expected_bytes": 1414119,
+      "sha256": "9e31e867dbb15dd4c51ec41408fe74ecf4ba6bd2c921fdd07dcff287fc333c3b"
+    },
+    {
+      "year": 2016,
+      "laureate": "Bengt Holmström",
+      "slug": "holmstrom",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/holmstrom-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2016/holmstrom/holmstrom-lecture.pdf",
+      "bytes": 2612061,
+      "expected_bytes": 2612061,
+      "sha256": "5bf06cab6432119c05e5d5d4b61b785a0d956cba0eb9e556d176c50939a3123b"
+    },
+    {
+      "year": 2016,
+      "laureate": "Bengt Holmström",
+      "slug": "holmstrom",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/holmstrom-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2016/holmstrom/holmstrom-lecture-slides.pdf",
+      "bytes": 368258,
+      "expected_bytes": 368258,
+      "sha256": "37bc25351b9a322e3abeeceff07b7c89d67d81b58d9dafb02aff67f6ad4379c6"
+    },
+    {
+      "year": 2017,
+      "laureate": "Richard H. Thaler",
+      "slug": "thaler",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2018/06/thaler-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2017/thaler/thaler-lecture-slides.pdf",
+      "bytes": 1716690,
+      "expected_bytes": 1716690,
+      "sha256": "162c4f623355e76e36e96cb5d5e5a93f6ef8c56d3244ac9cb923dbd15c2fcb2d"
+    },
+    {
+      "year": 2018,
+      "laureate": "William D. Nordhaus",
+      "slug": "nordhaus",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2018/10/advanced-economicsciencesprize2018.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2018/nordhaus/advanced-economicsciencesprize2018.pdf",
+      "bytes": 1152943,
+      "expected_bytes": 1152943,
+      "sha256": "47edcec17318af336b8f7cb2a40259a20c618a947761599e86afc81435ebc53a"
+    },
+    {
+      "year": 2018,
+      "laureate": "William D. Nordhaus",
+      "slug": "nordhaus",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/10/nordhaus-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2018/nordhaus/nordhaus-lecture.pdf",
+      "bytes": 2525908,
+      "expected_bytes": 2525908,
+      "sha256": "1a2f058fe401969c1962c9f6edb483d28a2696844ac3ac00d074d0315d1bcae5"
+    },
+    {
+      "year": 2018,
+      "laureate": "William D. Nordhaus",
+      "slug": "nordhaus",
+      "source_type": "popular-background",
+      "url": "https://www.nobelprize.org/uploads/2018/10/popular-economicsciencesprize2018.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2018/nordhaus/popular-economicsciencesprize2018.pdf",
+      "bytes": 547317,
+      "expected_bytes": 547317,
+      "sha256": "453ba0a18ebc24df6b9d9097bc3b8503a10484a3407433ccc5b4a1cf45f611b6"
+    },
+    {
+      "year": 2019,
+      "laureate": "Abhijit Banerjee",
+      "slug": "banerjee",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2019/10/advanced-economicsciencesprize2019.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2019/banerjee/advanced-economicsciencesprize2019.pdf",
+      "bytes": 580621,
+      "expected_bytes": 580621,
+      "sha256": "50ec0fbd7f51170b67ea9097ef872cbf1c784fe9a96f3080b9756a19f58550f3"
+    },
+    {
+      "year": 2019,
+      "laureate": "Abhijit Banerjee",
+      "slug": "banerjee",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2019/10/banerjee-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2019/banerjee/banerjee-lecture.pdf",
+      "bytes": 903994,
+      "expected_bytes": 903994,
+      "sha256": "303546c20e1860ee43856e0f6986d26106236a6a1b382f256577bef79fc321f7"
+    },
+    {
+      "year": 2019,
+      "laureate": "Abhijit Banerjee",
+      "slug": "banerjee",
+      "source_type": "popular-background",
+      "url": "https://www.nobelprize.org/uploads/2019/10/popular-economicsciencesprize2019.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2019/banerjee/popular-economicsciencesprize2019.pdf",
+      "bytes": 343364,
+      "expected_bytes": 343364,
+      "sha256": "7ab6f5e989955cf9ca5500fbfdba9fc71c2d254c1d0fbbef978fd70665283f89"
+    },
+    {
+      "year": 2019,
+      "laureate": "Esther Duflo",
+      "slug": "duflo",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2019/10/duflo-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2019/duflo/duflo-lecture.pdf",
+      "bytes": 1546875,
+      "expected_bytes": 1546875,
+      "sha256": "2b168194d1a164962f5ff350d927e13e32bf4de01724b57dca7651284f2a018a"
+    },
+    {
+      "year": 2019,
+      "laureate": "Esther Duflo",
+      "slug": "duflo",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2019/10/duflo-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2019/duflo/duflo-lecture-slides.pdf",
+      "bytes": 8165721,
+      "expected_bytes": 8165721,
+      "sha256": "05829ebb814b855b7d63d9a8873955dc4b9fd731bd29e9ed63830a0d2ebb5047"
+    },
+    {
+      "year": 2019,
+      "laureate": "Michael Kremer",
+      "slug": "kremer",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2019/10/kremer-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2019/kremer/kremer-lecture.pdf",
+      "bytes": 679372,
+      "expected_bytes": 679372,
+      "sha256": "3e1afb8f56718553705e7a42e22bb7306192613eb7d5e845d29863745b948354"
+    },
+    {
+      "year": 2021,
+      "laureate": "David Card",
+      "slug": "card",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2021/card/advanced-economicsciencesprize2021.pdf",
+      "bytes": 1052522,
+      "expected_bytes": 1052522,
+      "sha256": "98dfb747608293cd1abd44e375c6987e862430b7344cc3e1c73e6b041a16a6ca"
+    },
+    {
+      "year": 2022,
+      "laureate": "Ben Bernanke",
+      "slug": "bernanke",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2022/10/advanced-economicsciencesprize2022.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2022/bernanke/advanced-economicsciencesprize2022.pdf",
+      "bytes": 1173113,
+      "expected_bytes": 1173113,
+      "sha256": "655872a11bad9268aaa2507e8ff03f25544c7a1d56862b1596c26ec3d4f1a618"
+    },
+    {
+      "year": 2022,
+      "laureate": "Ben Bernanke",
+      "slug": "bernanke",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2022/11/bernanke-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2022/bernanke/bernanke-lecture-slides.pdf",
+      "bytes": 1086855,
+      "expected_bytes": 1086855,
+      "sha256": "14a14d27d704e1c0b7765509fdd25f39b751bbac1346ffe5837b4a4f58001fcc"
+    },
+    {
+      "year": 2022,
+      "laureate": "Ben Bernanke",
+      "slug": "bernanke",
+      "source_type": "popular-background",
+      "url": "https://www.nobelprize.org/uploads/2022/10/popular-economicsciencesprize2022.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2022/bernanke/popular-economicsciencesprize2022.pdf",
+      "bytes": 651913,
+      "expected_bytes": 651913,
+      "sha256": "9baa0226ec9ba852370173f315f6a4cda1af4f13f04bfb57e0c1a6e53605a3c2"
+    },
+    {
+      "year": 2022,
+      "laureate": "Douglas Diamond",
+      "slug": "diamond",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2022/11/diamond-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2022/diamond/diamond-lecture-slides.pdf",
+      "bytes": 3527908,
+      "expected_bytes": 3527908,
+      "sha256": "0252e50c1c6f60f9b70d6784c12af23ee429c8a74bac8b11764a58623b5c206e"
+    },
+    {
+      "year": 2022,
+      "laureate": "Philip Dybvig",
+      "slug": "dybvig",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2022/11/dybvig-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2022/dybvig/dybvig-lecture-slides.pdf",
+      "bytes": 590207,
+      "expected_bytes": 590207,
+      "sha256": "5a49b49481b4a1598678fc7a6058428cc756c2f3c1f9b82cd70ded8708e3d52e"
+    },
+    {
+      "year": 2023,
+      "laureate": "Claudia Goldin",
+      "slug": "goldin",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2023/10/advanced-economicsciencesprize2023.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2023/goldin/advanced-economicsciencesprize2023.pdf",
+      "bytes": 1071988,
+      "expected_bytes": 1071988,
+      "sha256": "fba3366c46af33a4c708f0f0921f83e4c9d05df2645978adae949bdd252648d3"
+    },
+    {
+      "year": 2023,
+      "laureate": "Claudia Goldin",
+      "slug": "goldin",
+      "source_type": "lecture-slides",
+      "url": "https://www.nobelprize.org/uploads/2023/12/goldin-lecture-slides.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2023/goldin/goldin-lecture-slides.pdf",
+      "bytes": 3121329,
+      "expected_bytes": 3121329,
+      "sha256": "b205e894359d0837776e9530b6864213cc049e91ee26b3639d6454ba319f54be"
+    },
+    {
+      "year": 2023,
+      "laureate": "Claudia Goldin",
+      "slug": "goldin",
+      "source_type": "popular-background",
+      "url": "https://www.nobelprize.org/uploads/2023/10/popular-economicsciencesprize2023.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2023/goldin/popular-economicsciencesprize2023.pdf",
+      "bytes": 447711,
+      "expected_bytes": 447711,
+      "sha256": "74a3f3a4f8aa7ff214d9ed9b86f65705cc62471b7fa17b5cd4c30aef7fd358d0"
+    },
+    {
+      "year": 2024,
+      "laureate": "Daron Acemoglu",
+      "slug": "acemoglu",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2024/10/advanced-economicsciencesprize2024.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2024/acemoglu/advanced-economicsciencesprize2024.pdf",
+      "bytes": 1071498,
+      "expected_bytes": 1071498,
+      "sha256": "0a8e2746fef87c2481880f8fb479d0d51e1725c86771a12e54d3a298391cfcd2"
+    },
+    {
+      "year": 2024,
+      "laureate": "Daron Acemoglu",
+      "slug": "acemoglu",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2025/01/acemoglu-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2024/acemoglu/acemoglu-lecture.pdf",
+      "bytes": 735426,
+      "expected_bytes": 735426,
+      "sha256": "b608f80f8a985816965726bd79019e921f8d2eaa60a9b1cdd8adc54a9c5438e0"
+    },
+    {
+      "year": 2024,
+      "laureate": "Daron Acemoglu",
+      "slug": "acemoglu",
+      "source_type": "popular-background",
+      "url": "https://www.nobelprize.org/uploads/2024/10/popular-economicsciencesprize2024.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2024/acemoglu/popular-economicsciencesprize2024.pdf",
+      "bytes": 663137,
+      "expected_bytes": 663137,
+      "sha256": "034ea71058dcabf10983eb1645ad69bfe81043bbd61ad2a6351f59a73e2ca97e"
+    },
+    {
+      "year": 2024,
+      "laureate": "Simon Johnson",
+      "slug": "johnson",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2024/12/johnson-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2024/johnson/johnson-lecture.pdf",
+      "bytes": 10013326,
+      "expected_bytes": 10013326,
+      "sha256": "94637a806381ab4d903ea5448ab31dd53baf4befba5682adf50f787a02013ff0"
+    },
+    {
+      "year": 2024,
+      "laureate": "James A. Robinson",
+      "slug": "robinson",
+      "source_type": "lecture",
+      "url": "https://www.nobelprize.org/uploads/2024/12/robinson-lecture.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2024/robinson/robinson-lecture.pdf",
+      "bytes": 1527039,
+      "expected_bytes": 1883469,
+      "sha256": "e7646caec4b9a440f8fda890f4dc911395431f6b6f067aa5300b9cb416b5fa51"
+    },
+    {
+      "year": 2025,
+      "laureate": "Joel Mokyr",
+      "slug": "mokyr",
+      "source_type": "advanced-background",
+      "url": "https://www.nobelprize.org/uploads/2025/10/advanced-economicsciencesprize2025.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2025/mokyr/advanced-economicsciencesprize2025.pdf",
+      "bytes": 1402878,
+      "expected_bytes": 1402878,
+      "sha256": "267ec6da7d966179c9c98d455b66c93fd3df7e20fe8308c1109e5b1962f36bd1"
+    },
+    {
+      "year": 2025,
+      "laureate": "Joel Mokyr",
+      "slug": "mokyr",
+      "source_type": "popular-background",
+      "url": "https://www.nobelprize.org/uploads/2025/10/popular-economicsciencesprize2025.pdf",
+      "local_path": "00-start-here/_support/evidence/nobel-open-access/pdfs/2025/mokyr/popular-economicsciencesprize2025.pdf",
+      "bytes": 845539,
+      "expected_bytes": 845539,
+      "sha256": "76f56139604d277e134cb6419d5747ed3369d8423a2d024e5aea379e32f3656e"
+    }
+  ],
+  "missed": [
+    {
+      "year": 1971,
+      "laureate": "Simon Kuznets",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1971/kuznets/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1972,
+      "laureate": "John R. Hicks",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1972/hicks/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1974,
+      "laureate": "Gunnar Myrdal",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/myrdal/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1974,
+      "laureate": "Friedrich von Hayek",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1975,
+      "laureate": "Leonid Vitaliyevich Kantorovich",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1975/kantorovich/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1977,
+      "laureate": "James E. Meade",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1977/meade/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1979,
+      "laureate": "Theodore W. Schultz",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1980,
+      "laureate": "Lawrence R. Klein",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1980/klein/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1986,
+      "laureate": "James M. Buchanan Jr.",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1986/buchanan/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1987,
+      "laureate": "Robert M. Solow",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1987/solow/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1989,
+      "laureate": "Trygve Haavelmo",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1991,
+      "laureate": "Ronald H. Coase",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/coase/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1993,
+      "laureate": "Douglass C. North",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1993/north/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1994,
+      "laureate": "John F. Nash Jr.",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1994/nash/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 1996,
+      "laureate": "William Vickrey",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1996/vickrey/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2002,
+      "laureate": "Daniel Kahneman",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2003,
+      "laureate": "Robert F. Engle III",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2003/iii/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2006,
+      "laureate": "Edmund S. Phelps",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2006/phelps/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2007,
+      "laureate": "Leonid Hurwicz",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/hurwicz/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2007,
+      "laureate": "Eric S. Maskin",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/maskin/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2007,
+      "laureate": "Roger B. Myerson",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/myerson/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2008,
+      "laureate": "Paul Krugman",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2008/krugman/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2011,
+      "laureate": "Thomas J. Sargent",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/sargent/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2011,
+      "laureate": "Christopher A. Sims",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2011/sims/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2018,
+      "laureate": "Paul M. Romer",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2018/romer/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2020,
+      "laureate": "Paul R. Milgrom",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2020/milgrom/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2020,
+      "laureate": "Robert B. Wilson",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2020/wilson/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2021,
+      "laureate": "Joshua D. Angrist",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/angrist/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2021,
+      "laureate": "Guido W. Imbens",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2025,
+      "laureate": "Philippe Aghion",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/aghion/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    },
+    {
+      "year": 2025,
+      "laureate": "Peter Howitt",
+      "source_type": "lecture-or-slides",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/howitt/lecture/",
+      "reason": "No direct official PDF found from candidate URL patterns."
+    }
+  ]
+}
