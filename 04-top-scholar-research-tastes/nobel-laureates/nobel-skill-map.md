@@ -1,6 +1,6 @@
 # Nobel Skill Map
 
-This map is the compact index for the Nobel Research Taste Atlas. The atlas itself is in [nobel-taste-atlas.md](nobel-taste-atlas.md). The purpose is to keep the scholar-skill pipeline honest: first collect legal evidence, then infer recurring research moves, then write mature skill cards.
+This map is the compact index for the Nobel Research Taste Atlas. The atlas itself is in [nobel-taste-atlas.md](nobel-taste-atlas.md), and the full reusable skill instructions are in [nobel-detailed-skill-cards.md](nobel-detailed-skill-cards.md). The short skill phrases in the table are only labels; they are not finished skills. A finished skill must be long enough to explain when to use it, what move to perform, what diagnostics to apply, and where the move fails.
 
 The current local cache contains official NobelPrize.org PDFs covering 1969 through 2025. The PDFs are stored locally and ignored by Git; the tracked manifest is `00-start-here/_support/evidence/nobel-open-access/download_manifest.json`.
 

@@ -19,4 +19,4 @@ This is the right first layer for Nobel-based skill work: prize lectures and off
 
 ## Taste Atlas
 
-The completed first-pass taste synthesis is in [Nobel Research Taste Atlas](nobel-taste-atlas.md), with a compact index in [Nobel Skill Map](nobel-skill-map.md). The atlas summarizes each Economic Sciences laureate from the official Nobel motivation, the local Nobel PDF evidence where available, extracted text metadata, and a portable skill/boundary diagnosis.
+The completed first-pass taste synthesis is in [Nobel Research Taste Atlas](nobel-taste-atlas.md), with a compact index in [Nobel Skill Map](nobel-skill-map.md). The full reusable skills are written in [Nobel Detailed Skill Cards](nobel-detailed-skill-cards.md). The atlas summarizes each Economic Sciences laureate from the official Nobel motivation, the local Nobel PDF evidence where available, extracted text metadata, and a portable skill/boundary diagnosis.

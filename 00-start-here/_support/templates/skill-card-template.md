@@ -12,25 +12,27 @@ tags: []
 
 # Skill Name
 
+This page should be written as a detailed reusable research instruction, not as a short checklist. The short one-sentence skill is only the index label. The body must explain when the skill applies, what sequence of moves the researcher should perform, how to diagnose whether the move worked, and where the move becomes bad taste.
+
 ## One-Sentence Skill
 
 State the skill as an action another researcher can practice. The sentence should contain a verb, a research object, and a judgment standard.
 
 ## Trigger
 
-Use this skill when a live project has a specific problem that this move can improve. Name the project condition that calls for the skill: an unclear puzzle, a weak comparison, a vague mechanism, a noisy measure, an overbroad contribution claim, or an introduction that does not yet persuade.
+Use this skill when a live project has a specific problem that this move can improve. Name the project condition that calls for the skill: an unclear puzzle, a weak comparison, a vague mechanism, a noisy measure, an overbroad contribution claim, or an introduction that does not yet persuade. This section should be a paragraph, not a phrase. The reader should know when to reach for the skill and when to ignore it.
 
 ## Research Move
 
-Explain the intellectual action. Do not describe the topic. Describe what the researcher does to the topic: make a comparison credible, isolate a mechanism, construct a measure, discipline a model, compare alternatives, or narrow a claim.
+Explain the intellectual action in several paragraphs. Do not describe the topic. Describe what the researcher does to the topic: make a comparison credible, isolate a mechanism, construct a measure, discipline a model, compare alternatives, or narrow a claim. A strong card usually has three moves: first name the object of learning, then state the evidence or model that disciplines it, then state the boundary of the claim.
 
 ## Evidence Anchor
 
-Name the papers, public scholar materials, journal articles, or uploaded PDFs that show the skill. Summarize what the anchor demonstrates about question choice, mechanism, evidence, writing, and boundary.
+Name the papers, public scholar materials, journal articles, or uploaded PDFs that show the skill. Summarize what the anchor demonstrates about question choice, mechanism, evidence, writing, and boundary. The evidence anchor should prevent the skill from becoming generic advice.
 
 ## Why It Matters
 
-Explain what kind of weak research this skill helps prevent.
+Explain what kind of weak research this skill helps prevent. The explanation should connect the skill to a real failure mode: overclaiming, vague motivation, decorative theory, unvalidated measurement, weak identification, literature-summary writing, or a contribution that does not change what the field knows.
 
 ## Good Taste Standard
 
@@ -63,6 +65,14 @@ Where in the project workflow does this skill matter most?
 ## Practice Exercise
 
 Apply the skill to a live project in one page. Write the trigger, the move, the alternative explanation or benchmark, the evidence that would change a skeptical reader's mind, and the narrowest honest contribution claim.
+
+## Diagnostic Questions
+
+List the questions a researcher should ask after applying the skill. The questions should be specific enough to catch failure. Examples: What is the benchmark? What is the closest alternative explanation? What evidence would change a skeptical reader's mind? What claim is too strong for the design? Which paragraph, model assumption, or empirical test changed after applying the skill?
+
+## Common Anti-Patterns
+
+Name the common ways researchers misuse this move. This section should be concrete rather than moralistic. A good anti-pattern tells the reader what bad prose, bad modeling, bad identification, or bad contribution framing looks like.
 
 ## Feedback Signal
 

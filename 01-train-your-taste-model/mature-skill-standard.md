@@ -26,6 +26,14 @@ The fifth part is the boundary. Every skill has a failure mode. Natural-experime
 
 The final part is transfer. A skill is not mature until it can travel to a nearby project without copying the original topic. The right test is relative use: take the scholar's move, apply it to your own setting, and explain what changes. If nothing changes, the card is still a note. If the project gets a better decision rule, the card has become a skill.
 
+## Depth Standard
+
+A one-line skill is only an index label. It is not a finished skill. A finished skill should read more like a reusable research instruction than a flashcard. It should normally include a name, description, scope of use, trigger, sequence of moves, diagnostics, anti-patterns, practice prompt, and boundary conditions. It should be long enough that a researcher can paste the skill into a project note and know what to do next without asking for a second explanation.
+
+The target length is not fixed, but the card should usually be several substantial paragraphs. A card that says only "use prices as evidence" is too short. A mature version explains when prices are informative, what benchmark is needed, which interpretations compete, what extra evidence separates risk from beliefs or frictions, what claims the design can support, and when price evidence becomes overclaiming. Brief labels are useful in tables, maps, and indexes, but the linked skill text must carry the real instruction.
+
+The style should be continuous prose by default. Bullets are allowed for diagnostics or practice prompts, but the core skill should read like a short chapter: what the skill is for, why it matters, how it works, how to diagnose failure, and how to apply it to a live project.
+
 ## Copy-Paste Maturity Test
 
 Use this test before treating any card in the repo as finished.
