@@ -19,4 +19,6 @@ This is the right first layer for Nobel-based skill work: prize lectures and off
 
 ## Taste Atlas
 
-The completed first-pass taste synthesis is in [Nobel Research Taste Atlas](nobel-taste-atlas.md), with a compact index in [Nobel Skill Map](nobel-skill-map.md). The full reusable skills are written in [Nobel Detailed Skill Cards](nobel-detailed-skill-cards.md). The atlas summarizes each Economic Sciences laureate from the official Nobel motivation, the local Nobel PDF evidence where available, extracted text metadata, and a portable skill/boundary diagnosis.
+The completed first-pass taste synthesis is in [Nobel Research Taste Atlas](nobel-taste-atlas.md), with a compact index in [Nobel Skill Map](nobel-skill-map.md). The full reader-facing skills are written in [Nobel Detailed Skill Cards](nobel-detailed-skill-cards.md). The operational skill package lives under [nobel-research-taste](../../00-start-here/_support/skills/nobel-research-taste/SKILL.md), where maintainers and agents can find the compact trigger file, gotchas, examples, evidence anchors, template, and validator.
+
+The atlas summarizes each Economic Sciences laureate from the official Nobel motivation, the local Nobel PDF evidence where available, extracted text metadata, and a portable skill/boundary diagnosis. The skill package turns that synthesis into a reusable workflow: choose the right taste module, anchor it in evidence, write the skill as an instruction rather than a slogan, and check that it has the structure needed to transfer to a live project.

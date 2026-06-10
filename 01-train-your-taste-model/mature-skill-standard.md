@@ -34,6 +34,14 @@ The target length is not fixed, but the card should usually be several substanti
 
 The style should be continuous prose by default. Bullets are allowed for diagnostics or practice prompts, but the core skill should read like a short chapter: what the skill is for, why it matters, how it works, how to diagnose failure, and how to apply it to a live project.
 
+## Package Standard
+
+The next standard is that important skills should not be only markdown pages. A serious skill can be a folder that contains a compact `SKILL.md`, references, assets, examples, and scripts. This matters because a skill has two audiences: the human reader, who needs clear prose, and the agent or maintainer, who needs reusable structure. Putting everything in one giant page makes the skill hard to trigger, hard to validate, and hard to maintain. Splitting the material into a small entry point plus supporting files creates progressive disclosure: the reader or agent loads only the detail needed for the task.
+
+For this repo, a package-level skill should usually have five parts. The `SKILL.md` states when to use the skill, what workflow to follow, what resources exist, and what output quality bar applies. A reference file stores detailed modules, scholar evidence, source discipline, or gotchas. An examples file shows weak versus mature versions. An asset gives a copy-paste template for future cards. A script is added only when a repeated check should be deterministic, such as verifying that a generated card includes a trigger, research move, evidence anchor, diagnostics, gotchas, practice prompt, boundary, and transfer test.
+
+This package standard does not replace the depth standard. It enforces it. The public skill card should still read like a short chapter, but the operational layer should prevent the card from becoming vague, unsupported, or impossible to reuse.
+
 ## Copy-Paste Maturity Test
 
 Use this test before treating any card in the repo as finished.

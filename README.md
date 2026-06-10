@@ -25,6 +25,8 @@ A skill in this repo is not a slogan. It has to be portable, useful under pressu
 
 The current maturity test is stricter than the first draft of this repo. A finished skill must have a trigger, a research move, an evidence anchor, a practice routine, a feedback signal, a failure mode, and a transfer sentence. Chapter `01` explains this in [Mature Skill Standard](01-train-your-taste-model/mature-skill-standard.md). Use that page as the quality bar for every scholar-derived skill.
 
+The repo now also distinguishes reader-facing skill prose from operational skill packages. A chapter can explain the skill in continuous prose. The support layer can hold the compact trigger file, gotchas, examples, evidence anchors, templates, and scripts that make the skill reusable by maintainers and agents. The Nobel research-taste package under `00-start-here/_support/skills/nobel-research-taste/` is the first model for this structure.
+
 The same standard applies to scholar pages. A scholar page should not say that a scholar is “interested in labor” or “known for asset pricing.” It should explain the repeated research move: how the scholar compresses a question, builds a design or model, reads evidence, handles scope, and teaches the reader what changed.
 
 ## Visual Map Of The Repository

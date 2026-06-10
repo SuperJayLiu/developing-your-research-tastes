@@ -1,6 +1,10 @@
 # Nobel Detailed Skill Cards
 
-The table in the Nobel Skill Map is only an index. The actual skills should be read here. Each card is written as a reusable research instruction rather than a short slogan. A mature skill must tell the researcher when to use it, what move to perform, how to diagnose failure, how to practice the move, and where imitation becomes bad taste.
+The table in the Nobel Skill Map is only an index. The actual reader-facing skills should be read here. Each card is written as a reusable research instruction rather than a short slogan. A mature skill must tell the researcher when to use it, what move to perform, how to diagnose failure, how to practice the move, and where imitation becomes bad taste.
+
+These cards are also backed by an operational skill package under `00-start-here/_support/skills/nobel-research-taste/`. That package keeps the agent-facing trigger file, gotchas, examples, evidence anchors, reusable template, and validator separate from this chapter. The separation matters: this page should read like a short book chapter, while the support package should help maintainers and agents create, revise, and check skills consistently.
+
+The transfer test for every card is simple: after applying the skill to a different project, the researcher should be able to say exactly what changed in the question, model, evidence, mechanism, contribution, or writing. If the card cannot improve a project outside the original Nobel topic, it remains a reading note rather than a mature skill.
 
 ---
 
